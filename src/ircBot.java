@@ -45,9 +45,13 @@ public class ircBot {
                     }
                     int found = globalFunctions.channelCheck(chatChannels, line);
                     if (found >= 0) {
+                        String command = line;
                         String channelName = globalFunctions.getChannelName(chatChannels, line);
-                        String command = line.substring(found, line.length());
-                        command = command.substring(channelName.length(), command.length());
+                        if(line.contains("Weather") || line.contains("weather") || line.contains("temp") || line.contains("Temp")) {}
+                        else{
+                            command = line.substring(found, line.length());
+                            command = command.substring(channelName.length(), command.length());
+                        }
                         System.out.println("Command: " + command);
                         Commands.handleCommands(command, writer, channelName, isAdmin);
                     }

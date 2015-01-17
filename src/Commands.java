@@ -4,7 +4,7 @@
 import java.io.*;
 public class Commands {
     public static void handleCommands(String command, BufferedWriter writer, String channel, boolean isAdmin)throws IOException, Exception{
-        if(command.startsWith("!")){
+        if(command.startsWith("!") || command.toLowerCase().contains(":!weather") || command.toLowerCase().contains(":!temp")){
             command = command.substring(1,command.length());
             bangCommands(command, writer, channel, isAdmin);
         }
@@ -36,6 +36,11 @@ public class Commands {
         if (command.equalsIgnoreCase("forums") || command.equalsIgnoreCase("forum")) {
             System.out.println(globalFunctions.timeStamp()  + "--PRIVMSG " + channel + "http://beginnerscpp.com/forums/");
             writer.write("PRIVMSG " + channel + "C++ Forums:  http://beginnerscpp.com/forums/ \r\n");
+            writer.flush();
+        }
+        if (command.toLowerCase().contains("weather") || command.toLowerCase().contains("temp")) {
+            globalFunctions.doWeather(command, writer, channel);
+            writer.write("PRIVMSG " + channel + "Shhhhh, I'm still under construction.... \r\n");
             writer.flush();
         }
 
