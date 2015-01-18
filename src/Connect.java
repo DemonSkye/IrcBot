@@ -2,7 +2,7 @@
  * Created by Damien on 1/15/2015.
  */
 import java.io.*;
-import java.net.*;
+import java.lang.Thread;
 public class Connect {
     public static void Connect(BufferedReader reader, BufferedWriter writer, String channels[]) throws Exception{
         // The server to connect to and our details.
@@ -35,8 +35,13 @@ public class Connect {
         for(int i=0; i<channels.length; i++) {
             writer.write("JOIN " + channels[i] + "\r\n");
             writer.flush();
+            Thread.sleep(300);
+            System.out.println("PRIVMSG " + channels[i] + " :<Java IRC BOT V.0.0.3 --Online>" );
+            writer.write("PRIVMSG " + channels[i] + " :<Java IRC BOT V.0.0.3 --Online> \r\n");
+            writer.flush();
         }
-        writer.write("AUTH Prog-Bot " + globalFunctions.getPassword() + "\r\n");
+
+        writer.write("AUTH Prog-Bot " + privateStuff.getPassword() + "\r\n");
 
     }
 }

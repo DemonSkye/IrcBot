@@ -24,10 +24,9 @@ public class ircBot {
             BufferedReader reader = new BufferedReader(
                     new InputStreamReader(socket.getInputStream()));
 
-            String line = null;
+            String line;
             boolean isAdmin = false;
             Connect.Connect(reader, writer, channels);
-
 
             try {
                 // Keep reading lines from the server.
@@ -47,12 +46,10 @@ public class ircBot {
                     if (found >= 0) {
                         String command = line;
                         String channelName = globalFunctions.getChannelName(chatChannels, line);
-                        if(line.contains("Weather") || line.contains("weather") || line.contains("temp") || line.contains("Temp")) {}
-                        else{
+                        if(((line.contains("!Weather") || line.contains("!weather") || line.contains("!temp") || line.contains("!Temp")))!=true) {
                             command = line.substring(found, line.length());
                             command = command.substring(channelName.length(), command.length());
                         }
-                        System.out.println("Command: " + command);
                         Commands.handleCommands(command, writer, channelName, isAdmin);
                     }
                     out.close();

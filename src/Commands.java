@@ -24,11 +24,13 @@ public class Commands {
             writer.flush();
         }
 
+
+
         if (command.toLowerCase().startsWith("seen")) {
-            command = command.substring(5, command.length());
-            command = command.trim();
-            System.out.println(globalFunctions.timeStamp() + "--PRIVMSG " + channel + "User: " + command + " Last seen in channel: " + globalFunctions.logScrape(command));
-            writer.write("PRIVMSG " + channel + "User: " + command + " Last seen in channel: " + globalFunctions.logScrape(command) +"\r\n");
+            System.out.println("LastSeen Command: " + command);
+            String lastSeen = globalFunctions.logScrape(command);
+            System.out.println("PRIVMSG " + channel + " Last seen in channel: " + lastSeen +"\r\n");
+            writer.write("PRIVMSG " + channel + lastSeen +"\r\n");
             writer.flush();
         }
 
@@ -40,7 +42,6 @@ public class Commands {
         }
         if (command.toLowerCase().contains("weather") || command.toLowerCase().contains("temp")) {
             globalFunctions.doWeather(command, writer, channel);
-            writer.write("PRIVMSG " + channel + "Shhhhh, I'm still under construction.... \r\n");
             writer.flush();
         }
 
@@ -97,9 +98,9 @@ public class Commands {
         //Admin Commands
         if (command.toLowerCase().equalsIgnoreCase("auth")) {
             command = command.replace(" ", "_");
-            System.out.println(globalFunctions.timeStamp() + "--AUTH Prog-Bot " + globalFunctions.getPassword());
+            System.out.println(globalFunctions.timeStamp() + "--AUTH Prog-Bot " + privateStuff.getPassword());
             if(isAdmin) {
-                writer.write("AUTH Prog-Bot " + globalFunctions.getPassword() + "\r\n");
+                writer.write("AUTH Prog-Bot " + privateStuff.getPassword() + "\r\n");
             }
             writer.flush();
         }
