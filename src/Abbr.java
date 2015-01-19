@@ -76,6 +76,6 @@ public class Abbr{
         states.put("Wyoming","WY");
         states.put("Yukon Territory","YT");
         userState = states.get(userState);
-        return userState;
+        return userState; //returns to geoip weather
     }
 }
