@@ -3,7 +3,7 @@
  */
 import java.io.*;
 public class Commands {
-    public static void handleCommands(String command, BufferedWriter writer, String channel, boolean isAdmin)throws IOException, Exception{
+    public static void handleCommands(String command, BufferedWriter writer, String channel, boolean isAdmin)throws Exception{
         if(command.startsWith("!") || command.toLowerCase().contains(":!weather") || command.toLowerCase().contains(":!temp")){
             command = command.substring(1,command.length());
             bangCommands(command, writer, channel, isAdmin);
@@ -27,7 +27,6 @@ public class Commands {
 
 
         if (command.toLowerCase().startsWith("seen")) {
-            System.out.println("LastSeen Command: " + command);
             String lastSeen = globalFunctions.logScrape(command);
             System.out.println("PRIVMSG " + channel + " Last seen in channel: " + lastSeen +"\r\n");
             writer.write("PRIVMSG " + channel + lastSeen +"\r\n");

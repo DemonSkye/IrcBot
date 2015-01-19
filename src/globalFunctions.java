@@ -206,7 +206,7 @@ public class globalFunctions {
         if(daysSinceLast >=1){lastSeen += daysSinceLast.toString(); lastSeen+= " day"; lastSeen+=pluralize(daysSinceLast); lastSeen +=", ";}
         if(hoursSinceLast >=1){lastSeen += hoursSinceLast.toString(); lastSeen+= " hour"; lastSeen+=pluralize(hoursSinceLast); lastSeen +=", ";}
         if(minutesSinceLast >=1){lastSeen += minutesSinceLast.toString(); lastSeen+= " minute"; lastSeen+=pluralize(minutesSinceLast); lastSeen +=", ";}
-        if(secondsSinceLast >=1){lastSeen += yearsSinceLast.toString(); lastSeen+= " second"; lastSeen+=pluralize(secondsSinceLast); lastSeen +=" ago.";}
+        if(secondsSinceLast >=1){lastSeen += secondsSinceLast.toString(); lastSeen+= " second"; lastSeen+=pluralize(secondsSinceLast); lastSeen +=" ago.";}
 
         return lastSeen;
     }
