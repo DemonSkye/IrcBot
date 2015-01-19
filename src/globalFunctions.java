@@ -47,22 +47,40 @@ public class globalFunctions {
 
     public static void doWeather(String line, BufferedWriter writer, String channel) throws Exception{
         String userHostName = getHostByMsg(line);
+        //System.out.println("UserHostNam: " + userHostName);
         String userIpAddress = null;
         try { //To get the ip address from the hostname
             InetAddress userIpAddressObj = InetAddress.getByName(userHostName);
             userIpAddress = userIpAddressObj.toString();
+            System.out.println("userIpAddress: " + userIpAddress);
             if(userIpAddress.contains("/")){
                 int findSlash = userIpAddress.indexOf("/");
                 userIpAddress = userIpAddress.substring(findSlash+1, userIpAddress.length());
             }
-            //writer.write("PRIVMSG " + channel + "IP Address: " + userIpAddress + "\r\n");
+            writer.write("PRIVMSG " + channel + "IP Address: " + userIpAddress + "\r\n");
         }catch(UnknownHostException uhe){ uhe.printStackTrace(); }
 
         Map ipLocation = getIpInfoByIP(userIpAddress);
         //Assign values returned by function
-        String userCity = ipLocation.get("city").toString();
-        String userState = ipLocation.get("region").toString();
+
+        //System.out.println(ipLocation); //diagnostic
+        String userCity = "";
+        String userState= "";
+        try {
+            userCity = ipLocation.get("city").toString();
+            userState = ipLocation.get("region").toString();
+        }catch(NullPointerException npe){ npe.getStackTrace();
+                writer.write("PRIVMSG " + channel + "Could not get the weathre for: IP Address: " + userIpAddress + "\r\n");
+                return;
+        }
+        userState = Abbr.getStateAbbr(userState); //Change state to 2-letter abbreviation
         String userCountry = ipLocation.get("country").toString();
+
+        //Debug Values
+        System.out.println(userCity);
+        System.out.println(userState);
+        System.out.println(userCountry);
+
 
         //
         String currentConditions = getWeather(userCity, userState);
@@ -109,9 +127,6 @@ public class globalFunctions {
         }catch(IOException ioe){ioe.printStackTrace(); }
 
         //Debug values
-//        System.out.println("UserCity: " + userCity);
-//        System.out.println("UserState: " + userState);
-//        System.out.println("UserCountry: " + userCountry);
         return null;
     }
 
@@ -131,6 +146,7 @@ public class globalFunctions {
         try {
             Map<String, Object> userWeather = mapper.readValue(in, Map.class);
 
+            //To fix later
         String currentConditions = userWeather.get("current_observation").toString();
         return currentConditions;
         } catch(IOException ioe) { ioe.printStackTrace(); }
@@ -139,10 +155,10 @@ public class globalFunctions {
 
 
     //Logscrape will dig through the logs and search for a username as part of the !Seen function
-    public static String logScrape(String userName){
+    public static String logScrape(String userName, String channel, BufferedWriter writer){
         userName = userName.substring(5, userName.length());
         String logUserName = ":" + userName + "!";
-
+        String lastSaid="";
         String userFoundTime = "";
         try {
             PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ircLogs.txt", true)));
@@ -150,11 +166,16 @@ public class globalFunctions {
             String line;
             while ((line = br.readLine()) != null) {
                 if (line.contains(logUserName)){
+                    int lastChat = line.indexOf(channel);
+                    if(line.contains("QUIT")!= true) {
+                        lastSaid = line.substring((lastChat + channel.length()), line.length());
+                    }
                     line =line.substring(0,19); //Removes all characters after the first 19, which are the timestamp
                     userFoundTime = line;
                 }
             }
             br.close();
+            writer.write("PRIVMSG " + channel + "The last message sent from that user was: " + lastSaid + " -- \r\n");
         }catch (IOException ioe){ ioe.printStackTrace(); }
 
         userFoundTime = compareTime(userFoundTime, userName);
@@ -201,7 +222,7 @@ public class globalFunctions {
         }
         System.out.println("Seconds Since Last: " + secondsSinceLast);
 
-        lastSeen ="The user " + userName + " was last seen: ";
+        lastSeen ="Which was sent: ";
         if(yearsSinceLast >=1){lastSeen += yearsSinceLast.toString(); lastSeen+= " year"; lastSeen+=pluralize(yearsSinceLast); lastSeen +=", ";}
         if(daysSinceLast >=1){lastSeen += daysSinceLast.toString(); lastSeen+= " day"; lastSeen+=pluralize(daysSinceLast); lastSeen +=", ";}
         if(hoursSinceLast >=1){lastSeen += hoursSinceLast.toString(); lastSeen+= " hour"; lastSeen+=pluralize(hoursSinceLast); lastSeen +=", ";}

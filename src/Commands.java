@@ -27,7 +27,7 @@ public class Commands {
 
 
         if (command.toLowerCase().startsWith("seen")) {
-            String lastSeen = globalFunctions.logScrape(command);
+            String lastSeen = globalFunctions.logScrape(command, channel, writer);
             System.out.println("PRIVMSG " + channel + " Last seen in channel: " + lastSeen +"\r\n");
             writer.write("PRIVMSG " + channel + lastSeen +"\r\n");
             writer.flush();
