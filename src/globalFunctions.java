@@ -31,6 +31,7 @@ public class globalFunctions {
         }
         return -1;
     }
+
     public static String timeStamp(){
         DateTime now = DateTime.now(TimeZone.getTimeZone("UTC"));
         return now.format("YYYY-MM-DD hh:mm:ss"); //Removes nanoseconds from time;
@@ -45,6 +46,10 @@ public class globalFunctions {
         return "";
     }
 
+    public static String getCommandList(){
+        return "!seen <username>, !wiki <topic>, !donate, !C++list, !C++ list, !forum, !forums, !Weather, " +
+                "!weather, !temp, !Temp, !Tutorials, !file, !string, !ss, !debug, !function";
+    }
     public static void doWeather(String line, BufferedWriter writer, String channel) throws Exception{
         String userHostName = getHostByMsg(line);
         //System.out.println("UserHostNam: " + userHostName);
@@ -57,7 +62,8 @@ public class globalFunctions {
                 int findSlash = userIpAddress.indexOf("/");
                 userIpAddress = userIpAddress.substring(findSlash+1, userIpAddress.length());
             }
-            writer.write("PRIVMSG " + channel + "IP Address: " + userIpAddress + "\r\n");
+            //Diagnostic ip address output
+            //writeMsg(writer, channel, "IP Address: " + userIpAddress + "\r\n");
         }catch(UnknownHostException uhe){ uhe.printStackTrace(); }
 
         Map ipLocation = getIpInfoByIP(userIpAddress);
@@ -70,7 +76,7 @@ public class globalFunctions {
             userCity = ipLocation.get("city").toString();
             userState = ipLocation.get("region").toString();
         }catch(NullPointerException npe){ npe.getStackTrace();
-                writer.write("PRIVMSG " + channel + "Could not get the weathre for: IP Address: " + userIpAddress + "\r\n");
+                writeMsg(writer, channel, "Could not get the weather for: IP Address: " + userIpAddress + "\r\n");
                 return;
         }
         userState = Abbr.getStateAbbr(userState); //Change state to 2-letter abbreviation
@@ -96,11 +102,11 @@ public class globalFunctions {
         currentTemp = currentTemp.substring(7, cw);
         if(userState == null || userState.equals("")) {
             String userForeCast = "The current conditions for: " + userCity + ", " + userCountry + " are: " + currentTemp + "F, and " + currentWeather;
-            writer.write("PRIVMSG " + channel + userForeCast + "\r\n");
+            writeMsg(writer, channel, userForeCast + "\r\n");
         }
         else{
             String userForeCast = "The current conditions for: " + userCity + ", " + userState + " are: " + currentTemp + "F, and " + currentWeather;
-            writer.write("PRIVMSG " + channel + userForeCast + "\r\n");
+            writeMsg(writer, channel, userForeCast + "\r\n");
         }
     }
 
@@ -175,7 +181,7 @@ public class globalFunctions {
                 }
             }
             br.close();
-            writer.write("PRIVMSG " + channel + "The last message sent from that user was: " + lastSaid + " -- \r\n");
+            writeMsg(writer, channel,  "The last message sent from that user was: " + lastSaid + " -- \r\n");
         }catch (IOException ioe){ ioe.printStackTrace(); }
 
         userFoundTime = compareTime(userFoundTime, userName);
@@ -237,6 +243,14 @@ public class globalFunctions {
             return "s";
         }
         return "";
+    }
+
+    public static void writeMsg(BufferedWriter writer, String Channel, String Message){
+        try {
+            System.out.println("Bot Command: PRIVMSG " + Channel + Message);
+            writer.write("PRIVMSG " + Channel + Message);
+            writer.flush();
+        }catch(IOException ioe){ioe.printStackTrace(); }
     }
 }
 

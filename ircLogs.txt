@@ -8005,3 +8005,1224 @@
 2015-01-19 17:30:41--:Lego!webchat@dslb-094-220-162-217.094.220.pools.vodafone-ip.de PRIVMSG #BeginnersProgramming :Okay
 2015-01-19 17:32:24--PING :underworld2.no.quakenet.org
 2015-01-19 17:32:56--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net PRIVMSG #BeginnersProgramming :Let me do a push on the latest code updates I did to handle null stuff....
+2015-01-19 17:35:24--PING :underworld2.no.quakenet.org
+2015-01-19 17:38:24--PING :underworld2.no.quakenet.org
+2015-01-19 17:41:24--PING :underworld2.no.quakenet.org
+2015-01-19 17:42:01--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net PRIVMSG #BeginnersProgramming :Afk for work stuff, lunch and more!
+2015-01-19 17:43:17--:Lego!webchat@dslb-094-220-162-217.094.220.pools.vodafone-ip.de PRIVMSG #BeginnersProgramming :Enjoy (:
+2015-01-19 17:44:24--PING :underworld2.no.quakenet.org
+2015-01-19 17:47:24--PING :underworld2.no.quakenet.org
+2015-01-19 17:50:24--PING :underworld2.no.quakenet.org
+2015-01-19 17:53:24--PING :underworld2.no.quakenet.org
+2015-01-19 17:56:24--PING :underworld2.no.quakenet.org
+2015-01-19 17:59:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:02:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:05:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:08:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:11:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:14:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:17:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:20:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:23:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:26:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:26:52--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net QUIT :Ping timeout
+2015-01-19 18:29:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:31:16--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net JOIN #BeginnersProgramming
+2015-01-19 18:31:16--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Damien_Work
+2015-01-19 18:32:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:35:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:38:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:41:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:44:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:47:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:50:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:53:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:56:24--PING :underworld2.no.quakenet.org
+2015-01-19 18:59:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:02:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:05:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:08:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:11:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:14:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:17:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:20:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:23:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:26:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:29:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:32:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:33:51--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net QUIT :Ping timeout
+2015-01-19 19:35:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:36:42--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net JOIN #BeginnersProgramming
+2015-01-19 19:36:42--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Damien_Work
+2015-01-19 19:38:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:41:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:44:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:47:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:50:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:53:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:55:46--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net QUIT :Read error: Connection reset by peer
+2015-01-19 19:56:24--PING :underworld2.no.quakenet.org
+2015-01-19 19:59:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:00:48--:bubba00!webchat@host163-143-dynamic.17-87-r.retail.telecomitalia.it JOIN #BeginnersProgramming
+2015-01-19 20:00:48--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v bubba00
+2015-01-19 20:00:51--:bubba00!webchat@host163-143-dynamic.17-87-r.retail.telecomitalia.it PRIVMSG #BeginnersProgramming :yo yo
+2015-01-19 20:00:57--:bubba00!webchat@host163-143-dynamic.17-87-r.retail.telecomitalia.it PRIVMSG #BeginnersProgramming :i got exam tomorrow and i'm scared as hell
+2015-01-19 20:02:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:05:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:08:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:11:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:14:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:17:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:17:28--:Lego!webchat@dslb-094-220-162-217.094.220.pools.vodafone-ip.de PRIVMSG #BeginnersProgramming :What about?
+2015-01-19 20:18:21--:bubba00!webchat@host163-143-dynamic.17-87-r.retail.telecomitalia.it PRIVMSG #BeginnersProgramming :c++
+2015-01-19 20:20:18--:bubba00!webchat@host163-143-dynamic.17-87-r.retail.telecomitalia.it PRIVMSG #BeginnersProgramming :anyone available for a question?
+2015-01-19 20:20:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:23:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:26:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:29:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:32:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:35:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:38:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:41:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:44:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:47:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:50:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:53:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:56:24--PING :underworld2.no.quakenet.org
+2015-01-19 20:59:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:02:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:05:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:08:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:10:18--:bubba00!webchat@host163-143-dynamic.17-87-r.retail.telecomitalia.it QUIT :Ping timeout
+2015-01-19 21:11:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:14:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:17:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:20:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:23:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:26:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:29:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:32:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:35:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:38:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:41:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:44:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:47:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:50:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:53:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:56:24--PING :underworld2.no.quakenet.org
+2015-01-19 21:59:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:02:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:05:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:05:50--:bubba_s!webchat@host163-143-dynamic.17-87-r.retail.telecomitalia.it JOIN #BeginnersProgramming
+2015-01-19 22:05:50--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v bubba_s
+2015-01-19 22:05:52--:bubba_s!webchat@host163-143-dynamic.17-87-r.retail.telecomitalia.it PRIVMSG #BeginnersProgramming :anyone on..?
+2015-01-19 22:08:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:11:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:12:30--:bubba_s!webchat@host163-143-dynamic.17-87-r.retail.telecomitalia.it QUIT :Ping timeout
+2015-01-19 22:14:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:17:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:20:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:23:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:26:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:29:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:32:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:35:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:38:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:41:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:44:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:47:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:50:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:53:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:56:24--PING :underworld2.no.quakenet.org
+2015-01-19 22:56:31--:Lego!webchat@dslb-094-220-162-217.094.220.pools.vodafone-ip.de QUIT :Quit: Page closed
+2015-01-19 22:59:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:02:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:05:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:08:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:11:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:14:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:17:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:20:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:23:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:26:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:29:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:32:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:35:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:38:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:41:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:44:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:47:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:50:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:53:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:56:24--PING :underworld2.no.quakenet.org
+2015-01-19 23:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:36:00--:drunkmagic!webchat@cpc12-uddi20-2-0-cust116.uddi.cable.virginm.net JOIN #BeginnersProgramming
+2015-01-20 00:36:00--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v drunkmagic
+2015-01-20 00:36:07--:drunkmagic!webchat@cpc12-uddi20-2-0-cust116.uddi.cable.virginm.net PRIVMSG #BeginnersProgramming :Hello :)
+2015-01-20 00:36:35--:drunkmagic!webchat@cpc12-uddi20-2-0-cust116.uddi.cable.virginm.net PRIVMSG #BeginnersProgramming :anybody about?
+2015-01-20 00:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 00:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:02:16--:forester!webchat@c-67-177-157-100.hsd1.mi.comcast.net JOIN #BeginnersProgramming
+2015-01-20 01:02:17--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v forester
+2015-01-20 01:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:03:24--:forester!webchat@c-67-177-157-100.hsd1.mi.comcast.net PRIVMSG #BeginnersProgramming :Hi, quick question, if I have a function that returns a value, e.g., an int, do I have to "catch" that returned value in my calling function?
+2015-01-20 01:04:07--:drunkmagic!webchat@cpc12-uddi20-2-0-cust116.uddi.cable.virginm.net PRIVMSG #BeginnersProgramming :ehhhhh
+2015-01-20 01:04:22--:drunkmagic!webchat@cpc12-uddi20-2-0-cust116.uddi.cable.virginm.net PRIVMSG #BeginnersProgramming :im pretty new to c++ mate XD
+2015-01-20 01:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:07:41--:forester!webchat@c-67-177-157-100.hsd1.mi.comcast.net QUIT :Quit: Page closed
+2015-01-20 01:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 01:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 02:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 03:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 04:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:49:22--:drunkmagic!webchat@cpc12-uddi20-2-0-cust116.uddi.cable.virginm.net QUIT :Ping timeout
+2015-01-20 05:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 05:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:20:58--:robbie!webchat@natgrp1-net223-2.uniontel.net JOIN #BeginnersProgramming
+2015-01-20 06:20:58--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v robbie
+2015-01-20 06:21:05--:robbie!webchat@natgrp1-net223-2.uniontel.net PRIVMSG #BeginnersProgramming :anyone in here?
+2015-01-20 06:22:19--:robbie!webchat@natgrp1-net223-2.uniontel.net QUIT :Quit: Page closed
+2015-01-20 06:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 06:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 07:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 08:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 09:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 10:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 11:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 12:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 13:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 14:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 15:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:17:53--:Maddy_!webchat@202.69.12.250 JOIN #BeginnersProgramming
+2015-01-20 16:17:53--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Maddy_
+2015-01-20 16:18:06--:Maddy_!webchat@202.69.12.250 PRIVMSG #BeginnersProgramming :hi
+2015-01-20 16:18:13--:Maddy_!webchat@202.69.12.250 PRIVMSG #BeginnersProgramming :C++ guys here ?
+2015-01-20 16:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:24:43--:Maddy_!webchat@202.69.12.250 QUIT :Quit: Page closed
+2015-01-20 16:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 16:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 17:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 18:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 19:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 20:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:08:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:14:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:17:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:20:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:26:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 21:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:08:25--PING :underworld2.no.quakenet.org
+2015-01-20 22:11:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:14:25--PING :underworld2.no.quakenet.org
+2015-01-20 22:17:25--PING :underworld2.no.quakenet.org
+2015-01-20 22:20:25--PING :underworld2.no.quakenet.org
+2015-01-20 22:23:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:26:25--PING :underworld2.no.quakenet.org
+2015-01-20 22:29:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:32:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:35:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:38:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:41:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:44:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:47:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:50:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:53:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:56:24--PING :underworld2.no.quakenet.org
+2015-01-20 22:59:24--PING :underworld2.no.quakenet.org
+2015-01-20 23:02:24--PING :underworld2.no.quakenet.org
+2015-01-20 23:05:24--PING :underworld2.no.quakenet.org
+2015-01-20 23:07:05--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-20 23:07:05--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Damien_Desk
+2015-01-20 23:07:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-20 23:07:21--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net QUIT :Quit: Leaving
+2015-01-20 23:10:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:13:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:16:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:19:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:22:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:25:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:28:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:31:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:34:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:37:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:40:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:43:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:46:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:49:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:52:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:55:11--PING :underworld2.no.quakenet.org
+2015-01-20 23:58:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:01:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:04:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:07:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:10:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:13:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:16:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:19:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:22:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:25:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:28:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:31:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:34:11--PING :underworld2.no.quakenet.org
+2015-01-21 00:36:28--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-21 00:36:28--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-21 00:36:28--:underworld2.no.quakenet.org 251 Prog-Bot :There are 22 users and 35734 invisible on 40 servers
+2015-01-21 00:36:28--:underworld2.no.quakenet.org 252 Prog-Bot 68 :operator(s) online
+2015-01-21 00:36:28--:underworld2.no.quakenet.org 253 Prog-Bot 3 :unknown connection(s)
+2015-01-21 00:36:28--:underworld2.no.quakenet.org 254 Prog-Bot 26685 :channels formed
+2015-01-21 00:36:28--:underworld2.no.quakenet.org 255 Prog-Bot :I have 3277 clients and 1 servers
+2015-01-21 00:36:28--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 4956 (4955 clients)
+2015-01-21 00:36:28--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-21 00:36:29--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20) tr
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-21 00:36:29--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-21 00:36:29--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +Damien_Desk +thearrowflies @Q
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-21 00:36:29--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-21 00:36:29--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-21 00:36:29--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-21 00:39:28--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-21 00:39:28--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-21 00:39:28--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 251 Prog-Bot :There are 22 users and 35028 invisible on 40 servers
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 252 Prog-Bot 69 :operator(s) online
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 253 Prog-Bot 3 :unknown connection(s)
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 254 Prog-Bot 26461 :channels formed
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 255 Prog-Bot :I have 3175 clients and 1 servers
+2015-01-21 01:27:57--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 4956 (4955 clients)
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-21 01:27:57--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 2(4) ft 20(20) tr
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-21 01:27:57--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-21 01:27:57--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +Damien_Desk +thearrowflies @Q
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-21 01:27:57--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-21 01:27:57--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-21 01:27:57--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-21 01:30:56--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-21 01:30:56--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-21 01:30:56--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-21 01:36:18--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com JOIN #BeginnersProgramming
+2015-01-21 01:36:18--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v RustyStudent
+2015-01-21 01:36:28--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Evening Rusty :)
+2015-01-21 01:36:32--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :Hello
+2015-01-21 01:36:38--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :How goes?
+2015-01-21 01:37:07--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :pretty good day, but pretty bad cause I have forgotten alot of c++ lol
+2015-01-21 01:37:32--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Heh, I'm trying to learn NIO in java at the moment to write this bot... it's a pain in my ass.
+2015-01-21 01:37:53--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :lol, that sounds waaaaayyy ahead of me.. I'm a beginner, am I able to ask for help with a question in this room..
+2015-01-21 01:38:04--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I always used ThreadExecutorServices and multithreading, but NIO is a better fit, but channel instantiation is a bitch...
+2015-01-21 01:38:07--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Anyways, sure.
+2015-01-21 01:38:10--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-21 01:38:39--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I should probably comment out the ipaddress part unless it fails...
+2015-01-21 01:39:09--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :cool. I need to write a function that concatenates two int arrays A and B into a new array C
+2015-01-21 01:39:35--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :oh in c++
+2015-01-21 01:39:38--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :int c needs to be the size of int a + b
+2015-01-21 01:39:42--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :at that point.  
+2015-01-21 01:40:27--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :for(int i=0; i< sizeof(a)/sizeof(type); i++){ int c[i] = int a[i];
+2015-01-21 01:40:43--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :set a temp variable each time through the loop.
+2015-01-21 01:41:30--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :ok, I will browse through this textbook and see what info it provides on temp variables, thanks
+2015-01-21 01:41:44--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then do a int j= 0; j< sizeof(b)/sizeof(type); j++) { c[j+temp] = b[j]; }
+2015-01-21 01:41:46--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The end.
+2015-01-21 01:41:57--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :There won't be a temp variable.
+2015-01-21 01:42:06--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I mean just create an int called temp outside of that scope.
+2015-01-21 01:42:11--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :ahh
+2015-01-21 01:42:21--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Anything you make in the for will die in the for.
+2015-01-21 01:42:35--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lemme make you a quick example.
+2015-01-21 01:42:40--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :ok great
+2015-01-21 01:44:58--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm making an example where the size of A / B are known by the programmer.
+2015-01-21 01:45:05--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm not sure if that's assumed in your case.
+2015-01-21 01:45:10--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :if I wanted to use.... void concatenateArrays(const int A[]. const int B[], int C[], const int sizeA, const sizeB, int& sizeC);
+2015-01-21 01:45:38--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You could, but that would be a bit of a waste of a function since it only gets used once.
+2015-01-21 01:45:48--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :ok
+2015-01-21 01:46:26--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :i think this lesson may be to learn basic's of declaring and calling a function. 
+2015-01-21 01:46:53--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Oh, well then put all the shit I do into a function.  I'm working on the algorithm.
+2015-01-21 01:46:58--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You can watch a video on functions here
+2015-01-21 01:47:00--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-01-21 01:47:15--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :but, I will glady accept any info you are willing to provide me, I can truly use it
+2015-01-21 01:47:33--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :oh nice!!
+2015-01-21 01:51:20--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Done :)
+2015-01-21 01:51:45--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://ideone.com/MHE7Ol
+2015-01-21 01:52:04--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :going to grab water and view it asap =)
+2015-01-21 01:52:14--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Sure thing, I'll be here, recoding parts of the bot.
+2015-01-21 01:52:18--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Type !temp when you get back
+2015-01-21 01:52:23--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I want to see if it works for you
+2015-01-21 01:57:58--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :!temp
+2015-01-21 01:58:08--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Decently close?
+2015-01-21 01:58:13--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :yes..
+2015-01-21 01:58:17--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Good :)
+2015-01-21 01:58:32--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :i have a question for the sake of my own curosity
+2015-01-21 01:58:34--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hoorah, I don't suck at coding.  lol
+2015-01-21 01:58:40--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :lol
+2015-01-21 01:58:44--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Sure, what's up?
+2015-01-21 01:59:30--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :i see you have choosen arbitraty sizes for the arrays, if I remove the sizes will this still run?
+2015-01-21 01:59:48--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :I guess I could have done trial and error on my own right now =)
+2015-01-21 01:59:50--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So, they will run to a certain point.
+2015-01-21 02:00:07--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :When you don't choose a size it sets some arbitrary limit.
+2015-01-21 02:00:14--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Which is both arbitrary and quite low
+2015-01-21 02:00:33--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :But then you also have to worry about stack vs heap allocation
+2015-01-21 02:01:46--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :ahhh... =)
+2015-01-21 02:02:25--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :this chat has been extremly helpful!! I'm grateful for your help on this.. Is this always running?
+2015-01-21 02:03:21--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Not really?  Lol
+2015-01-21 02:03:22--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I work a lot
+2015-01-21 02:03:32--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So typically you can figure out when I'll be here
+2015-01-21 02:03:51--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So before I go to work for the day I'll say "Headed to work, I'll be home in 10-12 hours"
+2015-01-21 02:03:56--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-21 02:04:01--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :lol
+2015-01-21 02:04:04--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Shit bad example, sec
+2015-01-21 02:04:21--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm off to work, I'll be back in 10 hours
+2015-01-21 02:04:23--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :are you ECE?
+2015-01-21 02:04:33--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :ok.. thanks again
+2015-01-21 02:04:56--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-21 02:04:56--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v DemonSkye
+2015-01-21 02:05:05--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!seen Damien_Desk
+2015-01-21 02:05:08--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net QUIT :Quit: Leaving
+2015-01-21 02:05:28--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So you can do stuff like that and be like "How long has it been in between 44 seconds and 10 hours"
+2015-01-21 02:05:41--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then you can sort of tell when I'll be home.
+2015-01-21 02:05:50--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Also, I have no idea what ECE means,  lol
+2015-01-21 02:06:26--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :Ok , I understand now.. ECE, Electrical Computer Engineer
+2015-01-21 02:06:29--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Oh, Electrical and Computer Engineering.  Ummmm, not really.  I'm a college dropout that works as an engineer.
+2015-01-21 02:07:23--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :Well glad to know that I can still drop out and know all of this stuff and get a job!! lol
+2015-01-21 02:07:38--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You have to be very good at what you do to get a job if you drop out.
+2015-01-21 02:07:50--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I just happen to be a mix of good at what I do an extremely well spoken...
+2015-01-21 02:07:56--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :And apparently I'm as efficient as fuck
+2015-01-21 02:08:00--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :*Shrug*
+2015-01-21 02:08:58--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :Haha, well Damn, guess I gotta have my money sucked out of me for two more years..
+2015-01-21 02:09:09--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Meh, depends.
+2015-01-21 02:09:20--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Work on something open source and show that you know what you're doing.
+2015-01-21 02:09:35--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I've seen a lot of people get drafted when they do a bit commit on an open source project.
+2015-01-21 02:10:01--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :My company just hired someone that rewrote part of the PhoneGap Push Plugin (for Cordova).
+2015-01-21 02:10:32--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :without even applying for a job??
+2015-01-21 02:10:33--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Kid is like 19 years old.  High school dropout.  Complete genius at coding. NO SOCIAL SKILLS AT ALL.
+2015-01-21 02:10:38--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yeah.
+2015-01-21 02:10:52--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :We tracked him down, offered him a job outright, and he accepted.  Now he makes 6 figures.
+2015-01-21 02:11:13--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :He told us he was working at Denny's before that, lol.
+2015-01-21 02:11:19--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :Wow... alot of guys in some of my classes are like that. I don't even think a drink or several would help their social skills
+2015-01-21 02:11:46--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :This kid is hilarious, but totally unintentionally. 
+2015-01-21 02:11:53--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :lol
+2015-01-21 02:12:03--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :He gets all kinds of preachy about certain coding patterns and shit.
+2015-01-21 02:12:24--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's a good laugh.  He's tolerable because he works remotely in San Mateo or some shit like that.
+2015-01-21 02:13:06--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I have to write a rate-limiter on my bot.... and I really don't want to learn NIO... furkkkkkk
+2015-01-21 02:13:38--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :I wish I woulda had free time like that when I was younger to sit in my room all day and learn something useful. I was too into other extracurricular activities.
+2015-01-21 02:13:56--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Meh, I wrote this bot in the last 3 days...
+2015-01-21 02:14:09--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :yeah.. about that.... I don't even know what that is
+2015-01-21 02:14:25--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The thing that told you the weather and the last thing I said in chat.
+2015-01-21 02:14:32--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I wrote a program to do that.  lol.
+2015-01-21 02:14:33--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :ahhh
+2015-01-21 02:14:44--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's running in IntelliJ on my other monitor.
+2015-01-21 02:14:58--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :well dayummm!! it can accuratly do that for any ip?
+2015-01-21 02:15:06--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Mmmhmm
+2015-01-21 02:15:20--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Watch, I'll hop on another computer I have access to.
+2015-01-21 02:15:49--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :How many coding languages do you know?
+2015-01-21 02:16:04--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :A decent amount, lol
+2015-01-21 02:16:12--:OtherServer!webchat@pool-74-104-142-208.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-21 02:16:13--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v OtherServer
+2015-01-21 02:16:17--:OtherServer!webchat@pool-74-104-142-208.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-21 02:16:28--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :=P
+2015-01-21 02:16:47--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :haha, that's dope!! 
+2015-01-21 02:16:51--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :As for languages... 
+2015-01-21 02:16:54--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It really depends...
+2015-01-21 02:17:14--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I am proficient in about ~8 - 10.  I'm masterful in like 2 of those?
+2015-01-21 02:17:53--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :Damn man!! Where's your start-up at?? do you need anyone to sweep the building?
+2015-01-21 02:17:57--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm proficient in Php, Html5, CSS, JavaScript, Java, C++, Python, Various Flavors of SQL (postres / my / ms).
+2015-01-21 02:18:17--:OtherServer!webchat@pool-74-104-142-208.bstnma.fios.verizon.net QUIT :Ping timeout
+2015-01-21 02:18:20--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :As my bot told you, I live in Rockland, I work in Boston at an mbaas
+2015-01-21 02:18:43--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :(Mobile Backend as a Service)
+2015-01-21 02:19:00--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :whoa!! I am gonna pick your brain as much as your schedule allows
+2015-01-21 02:19:12--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm around a few hours a day.
+2015-01-21 02:19:20--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You can also consider asking questions on the 
+2015-01-21 02:19:21--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!forums
+2015-01-21 02:19:50--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :And if I really help, you can
+2015-01-21 02:19:51--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :cool, I'll check back from time to time. Thanks for the info, off to check out the vids you sent me in that link
+2015-01-21 02:19:53--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!donate
+2015-01-21 02:19:57--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :To help my pizza fund.
+2015-01-21 02:20:04--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Not that I, or my gut need it.
+2015-01-21 02:20:22--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Sure, feel free to drop by whenever.
+2015-01-21 02:20:26--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :no problem! thanks
+2015-01-21 02:20:28--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :If you don't see me
+2015-01-21 02:20:38--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Try to do a !seen Damien_Desk or !seen DemonSkye
+2015-01-21 02:20:43--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I usually leave a parting message.
+2015-01-21 02:20:52--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Maybe I'll code a parting message function
+2015-01-21 02:22:51--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :ok
+2015-01-21 02:23:04--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :is that the cmd to see your last msg?
+2015-01-21 02:23:37--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Mmmhmm
+2015-01-21 02:25:02--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :kool
+2015-01-21 02:25:45--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com QUIT :Quit: Page closed
+2015-01-21 05:52:53--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com JOIN #BeginnersProgramming
+2015-01-21 05:52:53--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v RustyStudent
+2015-01-21 05:53:48--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com PRIVMSG #BeginnersProgramming :!Damien_Desk
+2015-01-21 05:55:39--:RustyStudent!webchat@cpe-98-148-159-24.socal.res.rr.com QUIT :Quit: Page closed
+2015-01-21 07:36:16--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!help
+2015-01-21 08:00:40--:stas!webchat@94.29.127.239 JOIN #BeginnersProgramming
+2015-01-21 08:00:40--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v stas
+2015-01-21 08:00:51--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Morning
+2015-01-21 08:01:13--:stas!webchat@94.29.127.239 QUIT :Quit: Page closed
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 251 Prog-Bot :There are 19 users and 35299 invisible on 40 servers
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 252 Prog-Bot 69 :operator(s) online
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 254 Prog-Bot 26534 :channels formed
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 255 Prog-Bot :I have 3042 clients and 1 servers
+2015-01-21 09:24:30--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 4956 (4955 clients)
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-21 09:24:30--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20) tr
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-21 09:24:30--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-21 09:24:30--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +Damien_Desk +thearrowflies @Q
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-21 09:24:30--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-21 09:24:30--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-21 09:24:30--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-21 09:24:35--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!wiki test
+2015-01-21 09:24:35--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-21 09:24:35--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-21 09:24:35--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-21 09:24:50--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 251 Prog-Bot :There are 22 users and 35596 invisible on 40 servers
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 252 Prog-Bot 68 :operator(s) online
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 253 Prog-Bot 3 :unknown connection(s)
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 254 Prog-Bot 26601 :channels formed
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 255 Prog-Bot :I have 3052 clients and 1 servers
+2015-01-21 09:41:07--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 4956 (4955 clients)
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-21 09:41:07--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20) tr
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-21 09:41:07--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-21 09:41:07--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +Damien_Desk +thearrowflies @Q
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-21 09:41:07--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-21 09:41:07--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-21 09:41:07--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-21 09:41:14--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!wiki China
+2015-01-21 09:41:15--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-21 09:41:15--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-21 09:41:15--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-21 12:25:22--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net NICK :DemonSkye
+2015-01-21 12:25:30--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I should be back between 9 and 10 hours from now
+2015-01-21 12:35:45--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-21 12:35:45--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Winestone
+2015-01-21 12:36:43--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :hey, anyone know if you can create an std::queue of various types?
+2015-01-21 12:36:54--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Morning
+2015-01-21 12:36:58--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Also
+2015-01-21 12:36:59--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yes.
+2015-01-21 12:37:03--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :Evening here XD
+2015-01-21 12:37:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Queue is a template class
+2015-01-21 12:37:10--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm literally just about to leave.
+2015-01-21 12:37:14--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :=(
+2015-01-21 12:37:28--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :idea is you get function to
+2015-01-21 12:37:35--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :push stuff onto thios queue
+2015-01-21 12:37:40--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Mmmhmm
+2015-01-21 12:37:48--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :and then some other thread pops it off and prints it to std::cout
+2015-01-21 12:37:48--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Queue is a template class, just like vector
+2015-01-21 12:38:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://www.cplusplus.com/reference/queue/queue/size/
+2015-01-21 12:38:19--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :so you can q.push("hello") AND q.push(23432)?
+2015-01-21 12:38:21--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The code on there shows how to push / pop / size a queue
+2015-01-21 12:38:30--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :No, those are different types
+2015-01-21 12:38:34--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :yeah :P
+2015-01-21 12:38:43--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You can make a single queue of any type.
+2015-01-21 12:38:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :If you have 2 types, and you want a key / value, you want a map
+2015-01-21 12:39:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://www.cplusplus.com/reference/map/map/insert/
+2015-01-21 12:39:30--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :so idea is multiple threads can use a function that mutex's the queue and pushes it on
+2015-01-21 12:39:56--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :then the "std::cout" thread pops stuff off queue and "std::cout << "'s it
+2015-01-21 12:40:18--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :a workaround might be to create a ostringstream to convert everything to an std::string
+2015-01-21 12:40:21--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I really don't have time.  I have a train to catch in 20 minutes.
+2015-01-21 12:40:30--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :If you HAVE to use a queue
+2015-01-21 12:40:44--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :ok, sorry, wasn't brief enough XD
+2015-01-21 12:40:48--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You either need 2 queues, to stringstream stuff, or you need to convert it before adding it.
+2015-01-21 12:40:54--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Not your fault, just bad timing
+2015-01-21 12:41:05--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :well enjoy your day :)
+2015-01-21 12:41:11--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :and thanks very much
+2015-01-21 12:41:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'll try =P
+2015-01-21 12:41:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I should be home in about 9 - 9.5 hours
+2015-01-21 12:41:29--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Also, for fun, try typing !temp
+2015-01-21 12:41:30--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-21 12:41:35--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Shit it's cold
+2015-01-21 12:41:44--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :wow :S
+2015-01-21 12:41:59--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :!temp
+2015-01-21 12:42:09--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :oh, cool XD
+2015-01-21 12:42:13--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Woooow.  I'm SO jealous
+2015-01-21 12:42:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I wrote the bot the other day,  lol
+2015-01-21 12:42:25--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :that's nice!
+2015-01-21 12:42:35--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :23:42 here though, during the day gets kinda hot XD
+2015-01-21 12:42:54--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Drop by when you wake up tomorrow, I should be just getting home from work :)
+2015-01-21 12:43:08--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :ahaha, sure XD
+2015-01-21 12:43:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Like I said though, gotta fly, be home in 9-9.5 hours
+2015-01-21 12:43:22--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :yup, no problems :)
+2015-01-21 12:43:57--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :teach me how to fly when you get back XD
+2015-01-21 12:45:48--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Also.
+2015-01-21 12:45:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :In case you know java:  https://github.com/DemonSkye/IrcBot/tree/master/src
+2015-01-21 12:46:05--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The fun stuff is mostly in globalFunctions.java

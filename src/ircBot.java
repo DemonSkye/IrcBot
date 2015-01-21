@@ -32,7 +32,10 @@ public class ircBot {
                 // Keep reading lines from the server.
                 while ((line = reader.readLine()) != null) {
                     PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ircLogs.txt", true)));
-                    out.println(globalFunctions.timeStamp() + "--" + line);
+                    if(line.toLowerCase().startsWith("ping") != true){
+                        out.println(globalFunctions.timeStamp() + "--" + line);
+                    }
+
                     if (line.toLowerCase().startsWith("ping")) {
                         // We must respond to PINGs to avoid being disconnected.
                         writer.write("PONG " + line.substring(5) + "\r\n");
