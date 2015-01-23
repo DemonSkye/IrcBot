@@ -50,7 +50,8 @@ public class globalFunctions {
         return "!seen <username>, !wiki <topic>, !donate, !C++list, !C++ list, !forum, !forums, !Weather, " +
                 "!weather, !temp, !Temp, !Tutorials, !file, !string, !ss, !debug, !function";
     }
-    public static void doWeather(String line, BufferedWriter writer, String channel) throws Exception{
+
+    public static void doWeather(String line, ircBot ircBot, String channel) throws Exception {
         String userHostName = getHostByMsg(line);
         //System.out.println("UserHostNam: " + userHostName);
         String userIpAddress = null;
@@ -76,8 +77,8 @@ public class globalFunctions {
             userCity = ipLocation.get("city").toString();
             userState = ipLocation.get("region").toString();
         }catch(NullPointerException npe){ npe.getStackTrace();
-                writeMsg(writer, channel, "Could not get the weather for: IP Address: " + userIpAddress + "\r\n");
-                return;
+            writeMsg(ircBot, channel, "Could not get the weather for: IP Address: " + userIpAddress + "\r\n");
+            return;
         }
         userState = Abbr.getStateAbbr(userState); //Change state to 2-letter abbreviation
         String userCountry = ipLocation.get("country").toString();
@@ -102,11 +103,11 @@ public class globalFunctions {
         currentTemp = currentTemp.substring(7, cw);
         if(userState == null || userState.equals("")) {
             String userForeCast = "The current conditions for: " + userCity + ", " + userCountry + " are: " + currentTemp + "F, and " + currentWeather;
-            writeMsg(writer, channel, userForeCast + "\r\n");
+            writeMsg(ircBot, channel, userForeCast + "\r\n");
         }
         else{
             String userForeCast = "The current conditions for: " + userCity + ", " + userState + " are: " + currentTemp + "F, and " + currentWeather;
-            writeMsg(writer, channel, userForeCast + "\r\n");
+            writeMsg(ircBot, channel, userForeCast + "\r\n");
         }
     }
 
@@ -153,15 +154,18 @@ public class globalFunctions {
             Map<String, Object> userWeather = mapper.readValue(in, Map.class);
 
             //To fix later
-        String currentConditions = userWeather.get("current_observation").toString();
-        return currentConditions;
+            String currentConditions = userWeather.get("current_observation").toString();
+            return currentConditions;
         } catch(IOException ioe) { ioe.printStackTrace(); }
         return null;
     }
 
 
     //Logscrape will dig through the logs and search for a username as part of the !Seen function
-    public static String logScrape(String userName, String channel, BufferedWriter writer){
+    public static String logScrape(String userName, String channel, ircBot ircBot) {
+        if (userName.length() < 6) {
+            return "The seen command requires a username after it, example: !seen DemonSkye";
+        }
         userName = userName.substring(5, userName.length());
         String logUserName = ":" + userName + "!";
         String lastSaid="";
@@ -181,7 +185,7 @@ public class globalFunctions {
                 }
             }
             br.close();
-            writeMsg(writer, channel,  "The last message sent from that user was: " + lastSaid + " -- \r\n");
+            writeMsg(ircBot, channel, "The last message sent from that user was: " + lastSaid + " -- \r\n");
         }catch (IOException ioe){ ioe.printStackTrace(); }
 
         userFoundTime = compareTime(userFoundTime, userName);
@@ -245,11 +249,11 @@ public class globalFunctions {
         return "";
     }
 
-    public static void writeMsg(BufferedWriter writer, String Channel, String Message){
+    public static void writeMsg(ircBot ircBot, String Channel, String Message) {
         try {
             System.out.println("Bot Command: PRIVMSG " + Channel + Message);
-            writer.write("PRIVMSG " + Channel + Message);
-            writer.flush();
+            ircBot.getWriter().write("PRIVMSG " + Channel + Message);
+            ircBot.getWriter().flush();
         }catch(IOException ioe){ioe.printStackTrace(); }
     }
 }

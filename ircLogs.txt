@@ -9226,3 +9226,1255 @@
 2015-01-21 12:45:48--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Also.
 2015-01-21 12:45:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :In case you know java:  https://github.com/DemonSkye/IrcBot/tree/master/src
 2015-01-21 12:46:05--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The fun stuff is mostly in globalFunctions.java
+2015-01-21 12:47:29--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I want my last message in the channel to be about when I get back so the !seen command works
+2015-01-21 12:47:34--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-21 12:47:41--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Like I said though, gotta fly, be home in 9-9.5 hours
+2015-01-21 12:47:46--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :should learn java, last time I tried it, got really confused about compiling it and stuff
+2015-01-21 12:47:49--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :ok, XD
+2015-01-21 12:56:14--:Oxytocin!webchat@dhcp-167-235.caltech.edu JOIN #BeginnersProgramming
+2015-01-21 12:56:15--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Oxytocin
+2015-01-21 12:56:36--:Oxytocin!webchat@dhcp-167-235.caltech.edu QUIT :Quit: Page closed
+2015-01-21 13:09:04--:Winestone!webchat@pa49-195-46-3.pa.nsw.optusnet.com.au QUIT :Quit: Page closed
+2015-01-21 16:41:17--:Derp!webchat@188.26.212.221 JOIN #BeginnersProgramming
+2015-01-21 16:41:17--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Derp
+2015-01-21 16:43:56--:Derp!webchat@188.26.212.221 PRIVMSG #BeginnersProgramming :Hello I need help with a program that won't work properly although code gives me no errors or warnings. I am writing a program that is supposed to see if your average is under 4.5 and then sees what number (from 5 to 10) is necessary in order for the average to be greater than 4.5. The code gives me no errors but the z comes out as 0 and I don't understand why. Please help http://pastebin.com/3P88ycKM  
+2015-01-21 16:44:26--:Derp!webchat@188.26.212.221 PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-21 17:07:04--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net JOIN #BeginnersProgramming
+2015-01-21 17:07:04--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Damien_Work
+2015-01-21 17:07:13--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net PRIVMSG #BeginnersProgramming :Hey Derp, did you need help?
+2015-01-21 17:07:35--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-21 17:07:50--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net PRIVMSG #BeginnersProgramming :This was probably not the best day to get my Jacket cleaned......
+2015-01-21 17:34:19--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net QUIT :Ping timeout
+2015-01-21 18:33:34--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net JOIN #BeginnersProgramming
+2015-01-21 18:33:34--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Damien_Work
+2015-01-21 20:20:08--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net QUIT :Ping timeout
+2015-01-21 20:29:10--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net JOIN #BeginnersProgramming
+2015-01-21 20:29:10--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Damien_Work
+2015-01-21 21:39:02--:RustyStudent!webchat@75-142-194-151.static.rvsd.ca.charter.com JOIN #BeginnersProgramming
+2015-01-21 21:39:02--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v RustyStudent
+2015-01-21 21:39:23--:RustyStudent!webchat@75-142-194-151.static.rvsd.ca.charter.com PRIVMSG #BeginnersProgramming :!Damien_work
+2015-01-21 21:41:31--:RustyStudent!webchat@75-142-194-151.static.rvsd.ca.charter.com QUIT :Quit: Page closed
+2015-01-21 21:57:43--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net QUIT :Ping timeout
+2015-01-21 22:47:47--:kwazy!webchat@201-161-142-63-cable.cybercable.net.mx JOIN #BeginnersProgramming
+2015-01-21 22:47:47--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v kwazy
+2015-01-21 22:48:18--:kwazy!webchat@201-161-142-63-cable.cybercable.net.mx QUIT :Quit: Page closed
+2015-01-21 22:51:28--:Winestone!webchat@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-21 22:51:28--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Winestone
+2015-01-21 23:02:29--:Winestone!webchat@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Ping timeout
+2015-01-21 23:07:53--:Derp!webchat@188.26.212.221 QUIT :Quit: Page closed
+2015-01-21 23:16:07--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-21 23:16:07--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Winestone
+2015-01-21 23:17:46--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Read error: Connection reset by peer
+2015-01-21 23:18:30--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-21 23:18:30--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Winestone
+2015-01-21 23:38:40--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Ohai
+2015-01-21 23:40:44--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :hey :)
+2015-01-21 23:41:03--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Fair warning GF came home with me today, so my answers will be fairly sporadic
+2015-01-21 23:41:12--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That said, did you check out map?
+2015-01-21 23:41:29--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :hehe, dw too much about me then XD
+2015-01-21 23:41:58--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :She's showering at the moment.  She also tends to go to bed a bit earlier than me.
+2015-01-21 23:42:00--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :yeah, not quite what I want, but maybe could be used
+2015-01-21 23:42:15--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :ahh ok
+2015-01-21 23:42:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Map or objects are probably what you want
+2015-01-21 23:42:32--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Why not just make an object with a string / int or whatever it was that you wanted?
+2015-01-21 23:42:39--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :And just push the objects into a queue?
+2015-01-21 23:43:02--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :that could work, until people want to overload the << operator for their own personal objects
+2015-01-21 23:43:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You can overload it just fine.
+2015-01-21 23:43:34--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Or you could just make an object method.
+2015-01-21 23:43:50--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :just like this.out(); Prints the contents of the object
+2015-01-21 23:45:25--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :well maybe my idea is stupid but basically it's other threads can notify another thread and ask it to write to std::cout and that thread does all the writing :P
+2015-01-21 23:45:55--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :notification is via some function which probs mtx.lock(); *do something* mtx.unlock();
+2015-01-21 23:46:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Ummmm, so you're wanting to do io without thread locking right?
+2015-01-21 23:46:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Because there's a LOT of easier ways than this.
+2015-01-21 23:46:44--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :I dunno what I want to do, I'm just writing this for fun XD, so maybe assume I am, what could I do?
+2015-01-21 23:47:31--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Depends on the performance that you want.  LibEvent is decent, Boost ASIO isn't the WORST thing ever for small / semi-efficient programs.
+2015-01-21 23:49:44--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :hmm, ok
+2015-01-21 23:50:35--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :have you ever done any game making or something that requires renderering to the screen?
+2015-01-21 23:51:21--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Rendering on the screen, yes, game making, no.  I also have no interest in it.   I know about 500 people that have failed to become game devs for every 1 that I know that made it.
+2015-01-21 23:52:00--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :ahaha XD
+2015-01-21 23:52:44--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That's not an exaggeration.  
+2015-01-21 23:53:15--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :what whould a person have to do for you to consider them to have "made it"?
+2015-01-21 23:53:25--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Get a job where they make games.
+2015-01-21 23:53:55--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :oh, well that's a still a few years for me XD
+2015-01-21 23:54:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I've not set the bar high.   The reality is that this country needs about ~2 million more programmers.   Of that 2 million, about ~2000 are game programmers.
+2015-01-21 23:54:40--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :fair enough
+2015-01-21 23:55:18--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :so when you say rendering, what kind of rendering?
+2015-01-21 23:55:40--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Graphs, realtime.
+2015-01-21 23:55:57--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :wow, sounds pretty cool
+2015-01-21 23:56:19--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :what did you use to do that?
+2015-01-21 23:57:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It was a home-brewed graphing library that we developed at a company I worked for.
+2015-01-21 23:57:35--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :oohh, cool
+2015-01-21 23:58:25--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :do you know anything about getting c++ programs communicating with each other over the internet?
+2015-01-21 23:58:50--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yup, http://beej.us/guide/bgnet/
+2015-01-21 23:59:39--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Gotta run for a bit.  Gf is sitting on the couch clad in a towel looking bored on her phone.  I think it's my move in this game.  lol.   I'll be on a little later.
+2015-01-21 23:59:39--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :heh, that seems like the only guide that ever existed that is good :P
+2015-01-21 23:59:54--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :good luck :)
+2015-01-22 02:02:03--:thrrwfls!~arrow@i.am.a.shady.ninja JOIN #BeginnersProgramming
+2015-01-22 02:02:04--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v thrrwfls
+2015-01-22 02:02:27--:thearrowflies!~arrow@i.am.a.shady.ninja QUIT :*.net *.split
+2015-01-22 03:16:08--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :*.net *.split
+2015-01-22 03:22:55--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 03:22:55--:*.quakenet.org MODE #BeginnersProgramming +v Winestone
+2015-01-22 03:37:29--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Ping timeout
+2015-01-22 03:52:53--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 03:54:10--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net JOIN #BeginnersProgramming
+2015-01-22 03:54:10--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Fivestar
+2015-01-22 03:54:28--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Hello?
+2015-01-22 03:54:54--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-22 03:56:54--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net QUIT :Ping timeout
+2015-01-22 07:06:33--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 07:06:33--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v [1]Winestone
+2015-01-22 07:08:42--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Ping timeout
+2015-01-22 07:08:43--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au NICK :Winestone
+2015-01-22 07:23:45--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Read error: Connection reset by peer
+2015-01-22 07:25:27--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 07:25:27--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Winestone
+2015-01-22 07:36:03--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 07:36:03--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v [1]Winestone
+2015-01-22 07:38:26--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Ping timeout
+2015-01-22 07:41:05--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 07:41:05--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Winestone
+2015-01-22 07:43:04--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Ping timeout
+2015-01-22 07:45:46--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 07:45:46--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v [1]Winestone
+2015-01-22 07:47:22--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Read error: Connection reset by peer
+2015-01-22 07:47:22--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au NICK :Winestone
+2015-01-22 07:58:13--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 07:58:13--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v [1]Winestone
+2015-01-22 08:00:45--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Ping timeout
+2015-01-22 08:02:35--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 08:02:35--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Winestone
+2015-01-22 08:05:12--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Ping timeout
+2015-01-22 08:20:44--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 08:20:44--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v [1]Winestone
+2015-01-22 08:21:34--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Ping timeout
+2015-01-22 08:21:35--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au NICK :Winestone
+2015-01-22 08:27:05--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 08:27:05--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v [1]Winestone
+2015-01-22 08:27:49--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Read error: Connection reset by peer
+2015-01-22 08:27:50--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au NICK :Winestone
+2015-01-22 08:30:50--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Read error: Connection reset by peer
+2015-01-22 08:30:51--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 08:30:52--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v [1]Winestone
+2015-01-22 08:57:49--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 08:57:49--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Winestone
+2015-01-22 08:59:51--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Ping timeout
+2015-01-22 09:06:46--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 09:06:47--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v [1]Winestone
+2015-01-22 09:08:15--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Ping timeout
+2015-01-22 09:08:20--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au NICK :Winestone
+2015-01-22 09:19:04--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-22 09:19:04--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v [1]Winestone
+2015-01-22 09:19:18--:Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au QUIT :Read error: Connection reset by peer
+2015-01-22 09:19:19--:[1]Winestone!~Winestone@pa49-181-222-52.pa.nsw.optusnet.com.au NICK :Winestone
+2015-01-22 09:20:38--:gshkk!webchat@46-237-116-25.varna.ddns.bulsat.com JOIN #BeginnersProgramming
+2015-01-22 09:20:38--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v gshkk
+2015-01-22 09:20:47--:gshkk!webchat@46-237-116-25.varna.ddns.bulsat.com PRIVMSG #BeginnersProgramming :hey i need help 
+2015-01-22 09:20:51--:gshkk!webchat@46-237-116-25.varna.ddns.bulsat.com PRIVMSG #BeginnersProgramming :is anybody here?
+2015-01-22 09:21:32--:gshkk!webchat@46-237-116-25.varna.ddns.bulsat.com PRIVMSG #BeginnersProgramming :!help
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 251 Prog-Bot :There are 24 users and 47003 invisible on 40 servers
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 252 Prog-Bot 63 :operator(s) online
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 253 Prog-Bot 4 :unknown connection(s)
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 254 Prog-Bot 27865 :channels formed
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 255 Prog-Bot :I have 5339 clients and 1 servers
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org NOTICE Prog-Bot :Highest connection count: 7347 (7346 clients)
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 422 Prog-Bot :MOTD File is missing
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org NOTICE Prog-Bot :on 2 ca 2(4) ft 20(20) tr
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 221 Prog-Bot +i
+2015-01-22 17:54:45--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-22 17:54:45--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 332 Prog-Bot #BeginnersProgramming :Welcome to Beginners Programming, don't ask to ask your question, just ask it.  All Code Goes on ideone.com, or pastebin, violating this rule will result in a lifetime ban.
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 333 Prog-Bot #BeginnersProgramming DemonSkye 1419840522
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +Aeguus @Damien_Work +thrrwfls +DemonSkye @Q
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 404 Prog-Bot #BeginnersProgramming :Cannot send to channel
+2015-01-22 17:54:45--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-22 17:54:45--:blacklotus.ca.us.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-22 17:54:45--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-22 17:54:48--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-22 17:54:49--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-22 17:54:49--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-22 17:54:49--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-22 17:54:59--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net PRIVMSG #BeginnersProgramming :Not the best day to get my coat cleaned....
+2015-01-22 17:55:11--:Aeguus!webchat@c-68-62-103-22.hsd1.mi.comcast.net PRIVMSG #BeginnersProgramming :lol
+2015-01-22 17:56:30--:Aeguus!webchat@c-68-62-103-22.hsd1.mi.comcast.net PRIVMSG #BeginnersProgramming :what does it mean when we write " if ( ss >> c ) "
+2015-01-22 17:57:56--:Aeguus!webchat@c-68-62-103-22.hsd1.mi.comcast.net PRIVMSG #BeginnersProgramming :heh code worked. 
+2015-01-22 17:57:56--:Aeguus!webchat@c-68-62-103-22.hsd1.mi.comcast.net PRIVMSG #BeginnersProgramming :		std::getline(std::cin, mystr); 		number = atoi(mystr.c_str());
+2015-01-22 18:24:12--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net QUIT :Ping timeout
+2015-01-22 18:29:08--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net JOIN #BeginnersProgramming
+2015-01-22 18:29:09--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Damien_Work
+2015-01-22 18:29:34--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net PRIVMSG #BeginnersProgramming :Nice
+2015-01-22 18:29:41--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net PRIVMSG #BeginnersProgramming :Glad I could help, sorry had to get lunch
+2015-01-22 18:30:38--:Aeguus!webchat@c-68-62-103-22.hsd1.mi.comcast.net PRIVMSG #BeginnersProgramming :ty, and its cool =p
+2015-01-22 18:31:06--:Aeguus!webchat@c-68-62-103-22.hsd1.mi.comcast.net PRIVMSG #BeginnersProgramming :Just a TicTacToe assignment, heh...
+2015-01-22 18:31:33--:Aeguus!webchat@c-68-62-103-22.hsd1.mi.comcast.net PRIVMSG #BeginnersProgramming :I'm in the 2nd course of c++, and in my class is a mixture of students from other classes from the 1st
+2015-01-22 18:31:49--:Aeguus!webchat@c-68-62-103-22.hsd1.mi.comcast.net PRIVMSG #BeginnersProgramming :half the class is 3 months behind the other, hah...
+2015-01-22 19:19:39--:AINA!webchat@39.41.207.130 JOIN #BeginnersProgramming
+2015-01-22 19:19:39--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v AINA
+2015-01-22 19:20:06--:AINA!webchat@39.41.207.130 QUIT :Quit: Page closed
+2015-01-22 19:22:49--:Aeguus!webchat@c-68-62-103-22.hsd1.mi.comcast.net QUIT :Ping timeout
+2015-01-22 19:27:50--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net QUIT :*.net *.split
+2015-01-22 19:33:05--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net JOIN #BeginnersProgramming
+2015-01-22 19:33:05--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Damien_Work
+2015-01-22 20:04:32--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net QUIT :Ping timeout
+2015-01-22 20:38:49--:davis!webchat@node244.seg63.ucf.edu JOIN #BeginnersProgramming
+2015-01-22 20:38:49--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v davis
+2015-01-22 20:38:59--:davis!webchat@node244.seg63.ucf.edu PRIVMSG #BeginnersProgramming :hello
+2015-01-22 20:39:24--:davis!webchat@node244.seg63.ucf.edu QUIT :Quit: Page closed
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 251 Prog-Bot :There are 22 users and 40788 invisible on 40 servers
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 252 Prog-Bot 65 :operator(s) online
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 253 Prog-Bot 2 :unknown connection(s)
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 254 Prog-Bot 27465 :channels formed
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 255 Prog-Bot :I have 5956 clients and 1 servers
+2015-01-22 22:21:42--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 6381 (6380 clients)
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-22 22:21:42--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20) tr
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-22 22:21:42--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-22 22:21:42--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +thrrwfls +DemonSkye @Q
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-22 22:21:42--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-22 22:21:42--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-22 22:21:42--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-22 22:21:46--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!seen
+2015-01-22 22:21:46--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-22 22:21:46--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-22 22:21:46--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 251 Prog-Bot :There are 24 users and 40798 invisible on 40 servers
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 252 Prog-Bot 65 :operator(s) online
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 253 Prog-Bot 4 :unknown connection(s)
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 254 Prog-Bot 27470 :channels formed
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 255 Prog-Bot :I have 5953 clients and 1 servers
+2015-01-22 22:22:08--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 6381 (6380 clients)
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-22 22:22:08--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 2(4) ft 20(20) tr
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-22 22:22:08--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-22 22:22:08--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +thrrwfls +DemonSkye @Q
+2015-01-22 22:22:08--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-22 22:22:08--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-22 22:22:08--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-22 22:22:09--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-22 22:22:09--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-22 22:25:08--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-22 22:25:08--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-22 22:25:08--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 251 Prog-Bot :There are 28 users and 36133 invisible on 40 servers
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 252 Prog-Bot 65 :operator(s) online
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 253 Prog-Bot 8 :unknown connection(s)
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 254 Prog-Bot 26832 :channels formed
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 255 Prog-Bot :I have 4420 clients and 1 servers
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org NOTICE Prog-Bot :Highest connection count: 6225 (6224 clients)
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 375 Prog-Bot :- servercentral.il.us.quakenet.org Message of the Day - 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 2008-9-29 18:33
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- welcome to..                            _            _ 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-      ___ ___ _ ___ _____ _ _ __ ___ _ _| |_ _ _ __ _| |
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- * * (_-</ -_) '_\ V / -_) '_/ _/ -_) ' \  _| '_/ _` | | * *
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-  *  /__/\___|_|  \_/\___|_| \__\___|_||_\__|_| \__,_|_|  *
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-      ...::[[ servercentral.il.us.quakenet.org ]]::...
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- This IRC Server is operated by The Server Central Network
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o Listening on ports: 5555, 6660 - 6669, 7000, 8080 o
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-        o Visit us @ http://www.servercentral.net/ o
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Server Rules -----------------------------------------
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o No Flooding       o No DoS bots         o No Warez
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o No Clones         o No Spamming         o No XDCCs
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o No Takeovers      o No Phishing         o No Whiners
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Server Staff -----------------------------------------
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o Administrator   *doug               [douglas/@/boldt.us]
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o Operator        *netmunky          [gavin/@/subnets.org]
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o Operator        *SyncError  [syncerror/@/idsoftware.com]
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Network Information ----------------------------------
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o Quakenet  +-  http://www.quakenet.org/
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o #Feds     +-  Closed Oper Channel (#help for access)
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o #Help     +-  General Help (Quakenet public channel)
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Local Information ------------------------------------
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o #servercentral  +- Public ServerCentral Help Channel.
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Recommended Channels ---------------------------------
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   #idsoftware  +- id Software's Public Discussion Channel.
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   #q4max  +- Support for the popular 1v1 quake4 mod.
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Recommended Sites ------------------------------------
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o http://irchelp.org/      o http://searchirc.com/
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o http://idsoftware.com/   o http://irc-junkie.org/
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o http://irssi.org/        o http://irc.netsplit.de/
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o http://q4max.com/        o http://gamersreports.com/
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o http://wingsix.com/      o http://reverse.net/
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :-  
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Disclaimer -------------------------------------------
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- This server's staff and Server Central Network are *NOT*
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- responsible for the data that passes through this server. 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- Use of this server is a *privilege* which may be revoked 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- any time and for any reason by the Quakenet IRCop Staff. 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 372 Prog-Bot :- ----------------------------------------------------------
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20)
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 221 Prog-Bot +i
+2015-01-22 23:34:29--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-22 23:34:29--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot @Q +DemonSkye +thrrwfls
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 404 Prog-Bot #BeginnersProgramming :Cannot send to channel
+2015-01-22 23:34:29--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-22 23:34:29--:servercentral.il.us.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-22 23:34:29--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-22 23:35:59--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-22 23:35:59--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-22 23:35:59--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-22 23:36:09--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!help
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 251 Prog-Bot :There are 27 users and 35951 invisible on 40 servers
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 252 Prog-Bot 65 :operator(s) online
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 253 Prog-Bot 7 :unknown connection(s)
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 254 Prog-Bot 26775 :channels formed
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 255 Prog-Bot :I have 4400 clients and 1 servers
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org NOTICE Prog-Bot :Highest connection count: 6225 (6224 clients)
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 375 Prog-Bot :- servercentral.il.us.quakenet.org Message of the Day - 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 2008-9-29 18:33
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- welcome to..                            _            _ 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-      ___ ___ _ ___ _____ _ _ __ ___ _ _| |_ _ _ __ _| |
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- * * (_-</ -_) '_\ V / -_) '_/ _/ -_) ' \  _| '_/ _` | | * *
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-  *  /__/\___|_|  \_/\___|_| \__\___|_||_\__|_| \__,_|_|  *
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-      ...::[[ servercentral.il.us.quakenet.org ]]::...
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- This IRC Server is operated by The Server Central Network
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o Listening on ports: 5555, 6660 - 6669, 7000, 8080 o
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-        o Visit us @ http://www.servercentral.net/ o
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Server Rules -----------------------------------------
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o No Flooding       o No DoS bots         o No Warez
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o No Clones         o No Spamming         o No XDCCs
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o No Takeovers      o No Phishing         o No Whiners
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Server Staff -----------------------------------------
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o Administrator   *doug               [douglas/@/boldt.us]
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o Operator        *netmunky          [gavin/@/subnets.org]
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o Operator        *SyncError  [syncerror/@/idsoftware.com]
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Network Information ----------------------------------
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o Quakenet  +-  http://www.quakenet.org/
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o #Feds     +-  Closed Oper Channel (#help for access)
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o #Help     +-  General Help (Quakenet public channel)
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Local Information ------------------------------------
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o #servercentral  +- Public ServerCentral Help Channel.
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Recommended Channels ---------------------------------
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   #idsoftware  +- id Software's Public Discussion Channel.
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   #q4max  +- Support for the popular 1v1 quake4 mod.
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Recommended Sites ------------------------------------
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o http://irchelp.org/      o http://searchirc.com/
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o http://idsoftware.com/   o http://irc-junkie.org/
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o http://irssi.org/        o http://irc.netsplit.de/
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o http://q4max.com/        o http://gamersreports.com/
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-   o http://wingsix.com/      o http://reverse.net/
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :-  
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- --- Disclaimer -------------------------------------------
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- This server's staff and Server Central Network are *NOT*
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- responsible for the data that passes through this server. 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- Use of this server is a *privilege* which may be revoked 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- any time and for any reason by the Quakenet IRCop Staff. 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- 
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 372 Prog-Bot :- ----------------------------------------------------------
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20) tr
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 221 Prog-Bot +i
+2015-01-22 23:39:22--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-22 23:39:22--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot @Q +DemonSkye +thrrwfls
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 404 Prog-Bot #BeginnersProgramming :Cannot send to channel
+2015-01-22 23:39:22--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-22 23:39:22--:servercentral.il.us.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-22 23:39:22--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-22 23:40:52--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-22 23:40:52--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-22 23:40:52--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-23 00:04:33--:Winestone!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-23 00:04:33--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Winestone
+2015-01-23 00:04:41--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hey man, welcome back
+2015-01-23 00:04:46--:Winestone!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :hey =D
+2015-01-23 00:04:49--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Why is it that you come in literally as I'm leaving...
+2015-01-23 00:04:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Like EVERY time
+2015-01-23 00:04:58--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm just about to go to the gym =/
+2015-01-23 00:04:59--:Winestone!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :aww, sad :(
+2015-01-23 00:05:03--:Winestone!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :oh well
+2015-01-23 00:05:14--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'll be back by 9 at the latest
+2015-01-23 00:05:33--:Winestone!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :I'll be getting on a plane
+2015-01-23 00:07:53--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :In 2 hours?
+2015-01-23 00:07:54--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lol
+2015-01-23 00:08:07--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Where ya headed?
+2015-01-23 00:08:11--:Winestone!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :something like that, Sydney
+2015-01-23 00:08:16--:Winestone!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :what timezone you in?
+2015-01-23 00:08:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Niceeeee
+2015-01-23 00:08:23--:Winestone!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :heh
+2015-01-23 00:18:50--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-23 00:18:51--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Winestone0
+2015-01-23 00:18:51--:Winestone!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au QUIT :Read error: Connection reset by peer
+2015-01-23 01:20:54--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net JOIN #BeginnersProgramming
+2015-01-23 01:20:54--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Fivestar
+2015-01-23 01:21:01--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-23 01:21:16--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :!help
+2015-01-23 01:21:21--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :hi fivestar
+2015-01-23 01:21:25--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Hi :o
+2015-01-23 01:21:50--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :I have a rather complex question I am not sure if you will be able to help. Are you familiar with binary, and two's complement?
+2015-01-23 01:22:12--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :I get the idea of it
+2015-01-23 01:22:21--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :so I can try
+2015-01-23 01:22:35--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Hm ok. Let me explain what it is I have to do.
+2015-01-23 01:23:10--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :So the program has a bunch of given items the teacher coded. I have to implement a convert function (Take the binary digits, convert it to a decimal but the decimal has to be two's complement)
+2015-01-23 01:23:39--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :and also an add function. Where we add the two binary digits. But the binary digits are given as regular binary digits, and if you add two binary digits and then convert the answer to two's complement it will not be the correct answer
+2015-01-23 01:23:55--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Im not sure if that made sense
+2015-01-23 01:24:12--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :I don't think I understand
+2015-01-23 01:24:29--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :so you get a string of 1's and 0's, lets say
+2015-01-23 01:24:44--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :and you need to convert it to the same number in base 10?
+2015-01-23 01:24:53--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Let me give an example
+2015-01-23 01:24:57--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :cool
+2015-01-23 01:25:20--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :So my convert function works. It can take 0000 0001 which is 1 in base 10 and convert it to 127 which is two's complement right?
+2015-01-23 01:25:35--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :oh I see
+2015-01-23 01:25:45--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :The problem is:
+2015-01-23 01:26:56--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :If the code tells me to add 0000 0001 and 0000 0000 (127 and 128 in twos complement) in binary
+2015-01-23 01:27:10--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :My code will give the answer 0000 0001. Since that is how you add normal binary digits
+2015-01-23 01:27:17--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :but of course the answer = 127 which isn't right
+2015-01-23 01:27:28--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :(when u convert the answer to 2's complement)
+2015-01-23 01:27:51--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :can I look at your code?
+2015-01-23 01:28:03--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :So my question is how would I add the two and get a correct answer. I was thinking literally converting the binary digits to two's complement so like 0000 0001 would be 1111 1111. But thats tough to code
+2015-01-23 01:28:05--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :sure. um pastern?
+2015-01-23 01:28:09--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :paste bin*
+2015-01-23 01:28:12--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :autocorrect
+2015-01-23 01:28:13--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :sure
+2015-01-23 01:29:15--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :http://pastebin.com/Gjr9m86j Convert function
+2015-01-23 01:29:41--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :(Kinda works backwards. If it is a 0 it treats it like a 1. Since thats how twos complement works, flip the bits. and adds one at the end otherwise it would be 1's complement)
+2015-01-23 01:29:57--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :so your guaranteed the string is 8 bits?
+2015-01-23 01:30:09--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Yes
+2015-01-23 01:30:47--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :so input[i] will give me the i'th digit
+2015-01-23 01:30:56--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :http://pastebin.com/jwzuFxYi the add function
+2015-01-23 01:30:57--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :umm
+2015-01-23 01:30:58--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :let me see
+2015-01-23 01:31:20--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Since its an array input[0] gives u the first digit right
+2015-01-23 01:31:25--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :so input[7] would be the last? 
+2015-01-23 01:31:30--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :(the 8th)?
+2015-01-23 01:31:31--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :ok cool
+2015-01-23 01:31:53--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :there's probablly an easier way to do this
+2015-01-23 01:32:05--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Probably. I feel like my code is very ineffecient
+2015-01-23 01:32:35--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :so one way is to convert the input into a char and then you can (~mychar)+1 for 2's complement
+2015-01-23 01:33:00--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :and convert(mychar1 + mychar2) for add
+2015-01-23 01:33:16--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :not sure what u mean. how would a char help?
+2015-01-23 01:33:26--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :ok, let me punch some code out
+2015-01-23 01:33:29--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :ok
+2015-01-23 01:34:17--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :I emailed my prof but for some reason the university server is always lagging. She replied yesterday and i got the email today :(
+2015-01-23 01:34:45--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :oh :S
+2015-01-23 01:42:23--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Almost done? I think i got an idea of how to do it. I don't want u to waste ur time if ur having trouble
+2015-01-23 01:42:29--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :fivestar, think so
+2015-01-23 01:42:33--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :ok
+2015-01-23 01:42:50--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :general idea is http://ideone.com/GB6Z19
+2015-01-23 01:43:30--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :ok. looks a little complicated but i might be able to work with it
+2015-01-23 01:43:39--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :i have one more question about something different. more code related.
+2015-01-23 01:43:43--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :ok
+2015-01-23 01:43:55--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Relevant code: http://puu.sh/eR5mF.png Output (I entered the entire alphabet just to exceed the needed characters): http://puu.sh/eR4KB.png
+2015-01-23 01:44:01--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :thats copy and paste from before
+2015-01-23 01:44:02--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :but
+2015-01-23 01:44:03--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :basically
+2015-01-23 01:44:11--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :its supposed to take in letters from the user and put it into a 2d array
+2015-01-23 01:44:18--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :oh ok
+2015-01-23 01:44:23--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :for some reason it is being very weird and putting certain letters in and repeating it for every row
+2015-01-23 01:44:34--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :so it's meant to do like
+2015-01-23 01:44:40--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :abcd
+2015-01-23 01:44:41--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :efgh
+2015-01-23 01:44:43--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :ijkl
+2015-01-23 01:44:45--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :yeah
+2015-01-23 01:44:47--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :ok
+2015-01-23 01:44:52--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :depending on the size the user wanted
+2015-01-23 01:44:56--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :of the picture
+2015-01-23 01:45:43--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :cool
+2015-01-23 01:46:19--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :twos complement of 1 is meant to be -1 I think...?
+2015-01-23 01:46:45--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :What do u mean
+2015-01-23 01:47:00--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :http://en.wikipedia.org/wiki/Two%27s_complement
+2015-01-23 01:47:23--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :oh
+2015-01-23 01:47:24--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :ok
+2015-01-23 01:47:31--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :i think i get that one i just need to code it
+2015-01-23 01:47:39--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :but any idea why the second one isn't working?
+2015-01-23 01:48:27--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :wait what is the definition of picture?
+2015-01-23 01:48:46--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :should i copy the code?
+2015-01-23 01:48:57--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :char picture[rows][columns] right?
+2015-01-23 01:48:58--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :it is in separate files is there a way i can kinda put it all together
+2015-01-23 01:49:08--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :yeah
+2015-01-23 01:49:13--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :you probably could
+2015-01-23 01:50:01--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :that looks like it should work ...
+2015-01-23 01:51:07--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net QUIT :Ping timeout
+2015-01-23 01:51:49--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :well if anyone wants to !seen me, I'll be gone for a long time :P
+2015-01-23 01:52:01--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :time to catch my plane
+2015-01-23 01:52:04--:Winestone0!~Winestone@pa49-181-222-10.pa.nsw.optusnet.com.au QUIT :Quit: Leaving
+2015-01-23 02:09:40--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!seen
+2015-01-23 02:11:38--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 251 Prog-Bot :There are 24 users and 30037 invisible on 35 servers
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 252 Prog-Bot 53 :operator(s) online
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 253 Prog-Bot 4 :unknown connection(s)
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 254 Prog-Bot 24943 :channels formed
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 255 Prog-Bot :I have 5360 clients and 1 servers
+2015-01-23 02:11:39--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 6381 (6380 clients)
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-23 02:11:39--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20) tr
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-23 02:11:39--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-23 02:11:39--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +thrrwfls +DemonSkye @Q
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-23 02:11:39--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-23 02:11:39--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-23 02:11:39--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 251 Prog-Bot :There are 22 users and 30054 invisible on 35 servers
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 252 Prog-Bot 53 :operator(s) online
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 253 Prog-Bot 2 :unknown connection(s)
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 254 Prog-Bot 24949 :channels formed
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 255 Prog-Bot :I have 5360 clients and 1 servers
+2015-01-23 02:12:02--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 6381 (6380 clients)
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-23 02:12:02--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 2(4) ft 20(20) tr
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-23 02:12:02--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-23 02:12:02--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +thrrwfls +DemonSkye @Q
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-23 02:12:02--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-23 02:12:02--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-23 02:12:02--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-23 02:12:43--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!wiki
+2015-01-23 02:12:43--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-23 02:12:43--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-23 02:12:43--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-23 02:12:47--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!Seen
+2015-01-23 02:12:51--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!ogjidfg
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 251 Prog-Bot :There are 21 users and 32281 invisible on 40 servers
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 252 Prog-Bot 61 :operator(s) online
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 253 Prog-Bot 1 :unknown connection(s)
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 254 Prog-Bot 25703 :channels formed
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 255 Prog-Bot :I have 5253 clients and 1 servers
+2015-01-23 03:55:32--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 6381 (6380 clients)
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-23 03:55:32--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 19(20) tr
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-23 03:55:32--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-23 03:55:32--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +DemonSkye +thrrwfls @Q
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-23 03:55:32--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-23 03:55:32--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-23 03:55:32--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-23 03:56:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!wiki test
+2015-01-23 03:58:31--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-23 03:58:31--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-23 03:58:31--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-23 04:03:07--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!wiki test
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 251 Prog-Bot :There are 21 users and 32315 invisible on 40 servers
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 252 Prog-Bot 61 :operator(s) online
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 253 Prog-Bot 1 :unknown connection(s)
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 254 Prog-Bot 25701 :channels formed
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 255 Prog-Bot :I have 5247 clients and 1 servers
+2015-01-23 04:03:42--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 6381 (6380 clients)
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-23 04:03:42--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20) tr
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-23 04:03:42--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-23 04:03:42--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +DemonSkye +thrrwfls @Q
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-23 04:03:42--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-23 04:03:42--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-23 04:03:42--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-23 04:03:57--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :~wiki test
+2015-01-23 04:04:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!wiki test
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 251 Prog-Bot :There are 23 users and 32303 invisible on 40 servers
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 252 Prog-Bot 61 :operator(s) online
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 253 Prog-Bot 3 :unknown connection(s)
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 254 Prog-Bot 25677 :channels formed
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 255 Prog-Bot :I have 5242 clients and 1 servers
+2015-01-23 04:05:47--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 6381 (6380 clients)
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-23 04:05:47--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20) tr
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-23 04:05:47--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-23 04:05:47--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +DemonSkye +thrrwfls @Q
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-23 04:05:47--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-23 04:05:47--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-23 04:05:47--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-23 04:06:28--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Blah blah
+2015-01-23 04:06:33--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!wiki test
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 251 Prog-Bot :There are 21 users and 32299 invisible on 40 servers
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 252 Prog-Bot 61 :operator(s) online
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 253 Prog-Bot 1 :unknown connection(s)
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 254 Prog-Bot 25707 :channels formed
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 255 Prog-Bot :I have 5243 clients and 1 servers
+2015-01-23 04:07:46--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 6381 (6380 clients)
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-23 04:07:46--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20) tr
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-23 04:07:46--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-23 04:07:46--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +DemonSkye +thrrwfls @Q
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-23 04:07:46--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-23 04:07:46--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-23 04:07:46--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-23 04:08:20--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!wiki test
+2015-01-23 04:08:20--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-23 04:08:20--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-23 04:08:20--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-23 05:08:15--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net QUIT :Ping timeout
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 251 Prog-Bot :There are 25 users and 31022 invisible on 40 servers
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 252 Prog-Bot 58 :operator(s) online
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 253 Prog-Bot 5 :unknown connection(s)
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 254 Prog-Bot 25436 :channels formed
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 255 Prog-Bot :I have 1191 clients and 1 servers
+2015-01-23 05:24:40--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 6381 (6380 clients)
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-23 05:24:40--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-23 05:24:41--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20)
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-23 05:24:41--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-23 05:24:41--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot @Q +thrrwfls +Damien_Desk
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-23 05:24:41--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-23 05:24:41--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-23 05:24:41--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-23 05:27:40--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-23 05:27:40--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-23 05:27:40--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-23 12:17:10--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net JOIN #BeginnersProgramming
+2015-01-23 12:17:10--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Damien_Work
+2015-01-23 12:42:46--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net QUIT :Ping timeout
