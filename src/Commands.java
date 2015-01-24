@@ -1,16 +1,10 @@
-/**
- * Created by Damien on 1/15/2015.
- */
-
 public class Commands {
     public static void handleCommands(String command, ircBot ircBot, String channel, boolean isAdmin) throws Exception {
         if(command.startsWith("!") || command.toLowerCase().contains(":!weather") || command.toLowerCase().contains(":!temp")){
             command = command.substring(1,command.length());
             bangCommands(command, ircBot, channel, isAdmin);
         }
-        else{
-
-        }
+        //else
 
     }
 
