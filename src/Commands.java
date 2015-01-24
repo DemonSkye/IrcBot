@@ -75,7 +75,7 @@ public class Commands {
 
         //Debug
         if (command.toLowerCase().equalsIgnoreCase("debug")) {
-            globalFunctions.writeMsg(ircBot, channel, "Lesson 13: File I/O --  http://beginnerscpp.com/lesson-8-hard-debugging/ \r\n");
+            globalFunctions.writeMsg(ircBot, channel, "Lesson 8: Hard Debugging--  http://beginnerscpp.com/lesson-8-hard-debugging/ \r\n");
 
         }
         //Functions

@@ -10478,3 +10478,244 @@
 2015-01-23 12:17:10--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net JOIN #BeginnersProgramming
 2015-01-23 12:17:10--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Damien_Work
 2015-01-23 12:42:46--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net QUIT :Ping timeout
+2015-01-23 15:03:44--:bubba-!webchat@95.238.145.231 JOIN #BeginnersProgramming
+2015-01-23 15:03:44--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v bubba-
+2015-01-23 15:03:48--:bubba-!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :hey damien
+2015-01-23 15:03:54--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hey man
+2015-01-23 15:03:56--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :What's up
+2015-01-23 15:04:25--:bubba-!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :wait, i relog
+2015-01-23 15:04:30--:bubba-!webchat@95.238.145.231 QUIT :Quit: Page closed
+2015-01-23 15:04:30--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Sure
+2015-01-23 15:04:47--:bubba^!webchat@95.238.145.231 JOIN #BeginnersProgramming
+2015-01-23 15:04:47--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v bubba^
+2015-01-23 15:04:58--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :have you ever built drones?
+2015-01-23 15:05:10--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Drones?  Nope...
+2015-01-23 15:05:14--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :i have arduino one
+2015-01-23 15:05:24--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :think i can do something with that?
+2015-01-23 15:05:29--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Ah, nope, nothing like that for me.
+2015-01-23 15:05:32--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm not sure.
+2015-01-23 15:05:45--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :i'm kinda busy with analysis now
+2015-01-23 15:05:46--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I know that arrow played around with some arduino stuff a while back
+2015-01-23 15:06:03--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :but i need help with some arduino stuff
+2015-01-23 15:06:34--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I can't help you, I've never even looked it it.
+2015-01-23 15:06:37--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :at it*
+2015-01-23 15:06:40--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :haha
+2015-01-23 15:06:43--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :it's ok
+2015-01-23 15:06:46--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :when arrow's on i'll ask
+2015-01-23 15:06:53--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :StackoverFlow might be better for it.
+2015-01-23 15:07:04--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :StackOverflow rather.
+2015-01-23 15:07:13--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :haha yeah
+2015-01-23 15:07:25--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :my only project on arduino was: turning the led light on..
+2015-01-23 15:07:31--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :i'm a newbie 
+2015-01-23 15:08:28--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :i'll let you know
+2015-01-23 15:08:49--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I think Arrow had a set of programmable lights or something like that
+2015-01-23 15:08:59--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :did you make the website chat mobile-friendly?
+2015-01-23 15:09:15--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Ummmm not sure.
+2015-01-23 15:09:25--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You can get an irc client for your phone if you run ios or android
+2015-01-23 15:09:30--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :how?
+2015-01-23 15:09:43--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Look up "Irc Client"
+2015-01-23 15:09:50--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :i also need to root my phone
+2015-01-23 15:10:01--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The server here is irc.quakenet.org
+2015-01-23 15:10:03--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :port 6667
+2015-01-23 15:10:12--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Also:  Arrow is the one to talk to about rooting.
+2015-01-23 15:10:12--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :i'll check it out
+2015-01-23 15:10:20--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :so may things to do and so few time
+2015-01-23 15:10:21--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I ALWAYS go to him when I need to root my phone
+2015-01-23 15:10:27--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :many*
+2015-01-23 15:10:27--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I have like 5 times now, lol.
+2015-01-23 15:10:35--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The kid has the patience of a saint.
+2015-01-23 15:10:40--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :haha!
+2015-01-23 15:11:18--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :is it possible to link this chat like to..
+2015-01-23 15:11:22--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :to a kik chat?
+2015-01-23 15:11:31--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :fantascientific?
+2015-01-23 15:11:52--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I have no idea what either of those are...
+2015-01-23 15:11:53--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Maybe?
+2015-01-23 15:12:05--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :it's a cha application
+2015-01-23 15:12:07--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :chat*
+2015-01-23 15:12:11--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :you don't know kik?
+2015-01-23 15:12:22--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :it's like messenger
+2015-01-23 15:12:32--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :however gotta go
+2015-01-23 15:12:43--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :sorry for being so chaotic
+2015-01-23 15:13:26--:bubba^!webchat@95.238.145.231 PRIVMSG #BeginnersProgramming :see you!
+2015-01-23 15:13:27--:bubba^!webchat@95.238.145.231 PART #BeginnersProgramming
+2015-01-23 17:14:16--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-24 02:08:39--:Monolifici!webchat@c-98-247-35-185.hsd1.wa.comcast.net JOIN #BeginnersProgramming
+2015-01-24 02:08:39--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Monolifici
+2015-01-24 02:09:06--:Monolifici!webchat@c-98-247-35-185.hsd1.wa.comcast.net QUIT :Quit: Page closed
+2015-01-24 02:22:08--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net JOIN #BeginnersProgramming
+2015-01-24 02:22:08--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Fivestar
+2015-01-24 02:22:12--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-24 02:22:18--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :hihi
+2015-01-24 02:22:21--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Hi
+2015-01-24 02:22:31--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :I was on here last night but i think the server crashed ):
+2015-01-24 02:22:37--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Looking for some 2d array help
+2015-01-24 02:22:38--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net NICK :DemonSkye
+2015-01-24 02:22:42--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I should probably chat on here.
+2015-01-24 02:22:49--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I fucking hate 2d arrays, but sure.
+2015-01-24 02:23:09--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Its pretty simple
+2015-01-24 02:23:14--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :but idk what the hell is wrong
+2015-01-24 02:23:16--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Relevant code: http://puu.sh/eR5mF.png Output (I entered the entire alphabet just to exceed the needed characters): http://puu.sh/eR4KB.png
+2015-01-24 02:23:33--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :So let me explain. A class is called which stores a "picture" of letters entered by the user
+2015-01-24 02:23:51--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :But for some reason it only stores certain letters/prints certain letters. You will get the idea by the picture. It isn't properly putting the letters in
+2015-01-24 02:23:55--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :If that made sense
+2015-01-24 02:24:07--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :(I can pastebin all the files if needed)
+2015-01-24 02:25:06--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :hrmmmm
+2015-01-24 02:25:35--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Im new to classes. Maybe I made a mistake with the class? But I don't see how that could affect this you know
+2015-01-24 02:26:08--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :1 min phone for the moment
+2015-01-24 02:26:12--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :ok
+2015-01-24 02:29:06--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :(If this helps map.cpp http://pastebin.com/KacfLtJv. map.h http://pastebin.com/Qzq5v8Qz. and main.cpp http://pastebin.com/BW0WAMup)
+2015-01-24 02:30:25--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :oh and for the paste bin i used getc() instead of cin thinking maybe c in was the problem. if that makes any difference
+2015-01-24 02:30:51--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Okay
+2015-01-24 02:30:53--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Finally off the phone
+2015-01-24 02:30:59--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Haha
+2015-01-24 02:31:06--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :uUmmmm
+2015-01-24 02:31:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Issue #1 don't use the fucking word map
+2015-01-24 02:31:26--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Map is a protected type in C++
+2015-01-24 02:31:28--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :is it a keyword or somtehing
+2015-01-24 02:31:29--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :oh
+2015-01-24 02:31:36--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://www.cplusplus.com/reference/map/map/
+2015-01-24 02:31:36--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :would that fuck it up?
+2015-01-24 02:31:47--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Maybe, maybe not.   It wouldn't help anything
+2015-01-24 02:31:48--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :shit.
+2015-01-24 02:31:52--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :ok i can change that then
+2015-01-24 02:32:03--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :should i do that while u see if something else is wrong? or just wait
+2015-01-24 02:32:14--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lol, I literally made it to the first line and found issues....
+2015-01-24 02:33:06--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yeah, so I'm not 100% sure what the desired result is vs the result you're getting.
+2015-01-24 02:33:13--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Change the name from map and go from there.
+2015-01-24 02:33:17--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Ok
+2015-01-24 02:33:20--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Ill msg u when i did that
+2015-01-24 02:33:25--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That VERY likely won't solve anything.
+2015-01-24 02:33:28--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :and the result should have different letters per row
+2015-01-24 02:33:30--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :like
+2015-01-24 02:33:31--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :But it is good form.
+2015-01-24 02:33:37--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :if i say a 3x3 table
+2015-01-24 02:33:42--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :and enter ABC DEF GHP
+2015-01-24 02:33:46--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :it should have the different letters on each row
+2015-01-24 02:34:04--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :but my program repeats  the same letters. seems to randomly grab the letters from the input
+2015-01-24 02:34:05--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Each row has to have 3 unique letters?
+2015-01-24 02:34:11--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Its up to the user
+2015-01-24 02:34:15--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :how big they want the table
+2015-01-24 02:34:31--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So the user could enter aaa aaa aaa aaa if they wanted to do a 3x4?
+2015-01-24 02:34:36--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :yeah
+2015-01-24 02:34:38--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :if they wanted
+2015-01-24 02:34:44--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Oh, that's easy....
+2015-01-24 02:34:53--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :im not sure we are on the same page
+2015-01-24 02:35:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm pretty sure we are.
+2015-01-24 02:35:06--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :ok
+2015-01-24 02:35:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :They determine the size of the matrix (3 rows, 3 cols for example.
+2015-01-24 02:35:24--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :yeah
+2015-01-24 02:35:28--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :and enter in any letters
+2015-01-24 02:35:28--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then they enter 3x 3 letters, any letters they want
+2015-01-24 02:35:30--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :yes
+2015-01-24 02:35:37--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :They can be duplicate or not.
+2015-01-24 02:35:42--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Doesn't matter.
+2015-01-24 02:35:44--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :but my program only displays 1 row of letters and repeats it every row
+2015-01-24 02:35:45--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :yeah
+2015-01-24 02:37:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Where is picture defined?
+2015-01-24 02:37:30--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Oh, there it is....
+2015-01-24 02:37:38--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Wait, wut...
+2015-01-24 02:37:47--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Ah there it is...
+2015-01-24 02:37:52--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :its in the map.h
+2015-01-24 02:37:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Okay...
+2015-01-24 02:37:55--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :the picture array
+2015-01-24 02:38:40--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :i renamed the map to mapclass to test it
+2015-01-24 02:38:43--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :didn't change anything
+2015-01-24 02:38:46--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :as expected
+2015-01-24 02:39:14--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Well yeah, that's not the issue.
+2015-01-24 02:39:23--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That's just a matter of good form.
+2015-01-24 02:39:28--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :I see
+2015-01-24 02:39:59--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Did you copy the files to ur computer to try to figure out the problem? or are you just analyzing it
+2015-01-24 02:40:15--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm writing a semi-unrelated example
+2015-01-24 02:40:29--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :ok
+2015-01-24 02:40:52--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :from what i can see the problem has to be in map.cpp at the displayMap or fillMap part. Idk though
+2015-01-24 02:41:15--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :3 issues.
+2015-01-24 02:41:44--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :1.  You don't know how to debug.  2. Your variable names suck.   3. Your overall process could use work.
+2015-01-24 02:41:46--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Luckily.
+2015-01-24 02:41:50--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :We've addressed 2
+2015-01-24 02:41:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!debug
+2015-01-24 02:42:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :There is a video for learning to debug
+2015-01-24 02:42:10--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's actually lesson 8 and that's just mis-labeled in my bot
+2015-01-24 02:47:18--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-24 02:47:18--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-24 02:47:18--:underworld2.no.quakenet.org 251 Prog-Bot :There are 25 users and 34039 invisible on 40 servers
+2015-01-24 02:47:18--:underworld2.no.quakenet.org 252 Prog-Bot 61 :operator(s) online
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 253 Prog-Bot 5 :unknown connection(s)
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 254 Prog-Bot 26202 :channels formed
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 255 Prog-Bot :I have 2458 clients and 1 servers
+2015-01-24 02:47:19--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 6381 (6380 clients)
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-24 02:47:19--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 2(4) ft 20(20) tr
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-24 02:47:19--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-24 02:47:19--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +Fivestar @Q +thrrwfls +DemonSkye
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-24 02:47:19--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-24 02:47:19--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-24 02:47:19--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-24 02:47:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :What a random error... I refactor'd my bot last night and it didn't update the main class...

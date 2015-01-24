@@ -1,11 +1,7 @@
-/**
- * Created by Damien on 1/14/2015.
- */
-
 import java.io.*;
 import java.net.*;
 
-public class main {
+public class botMain {
     public static void main(String[] args) {
         try {
             // The server to connect to and our details.
@@ -31,7 +27,7 @@ public class main {
                 // Keep reading lines from the server.
                 while ((line = ircBot.getReader().readLine()) != null) {
                     PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ircLogs.txt", true)));
-                    if(line.toLowerCase().startsWith("ping") != true){
+                    if (!line.toLowerCase().startsWith("ping")) {
                         out.println(globalFunctions.timeStamp() + "--" + line);
                     }
 
@@ -48,7 +44,7 @@ public class main {
                     if (found >= 0) {
                         String command = line;
                         String channelName = globalFunctions.getChannelName(chatChannels, line);
-                        if(((line.contains("!Weather") || line.contains("!weather") || line.contains("!temp") || line.contains("!Temp")))!=true) {
+                        if (!((line.contains("!Weather") || line.contains("!weather") || line.contains("!temp") || line.contains("!Temp")))) {
                             command = line.substring(found, line.length());
                             command = command.substring(channelName.length(), command.length());
                         }
