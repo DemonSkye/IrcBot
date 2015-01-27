@@ -10719,3 +10719,1005 @@
 2015-01-24 02:47:19--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
 2015-01-24 02:47:19--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
 2015-01-24 02:47:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :What a random error... I refactor'd my bot last night and it didn't update the main class...
+2015-01-24 02:50:18--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-24 02:50:18--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-24 02:50:18--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-24 02:51:34--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :I watched it and it mostly speaks of tools within visual studio to debug correct?
+2015-01-24 02:51:41--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Which Im not using
+2015-01-24 02:51:42--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Mmmhmmm
+2015-01-24 02:51:48--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Oh ffs...
+2015-01-24 02:51:53--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Are you developing on windows?
+2015-01-24 02:51:57--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :this is on a school server
+2015-01-24 02:52:03--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :well i could using putty
+2015-01-24 02:52:09--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :but i use ssh on os 10
+2015-01-24 02:52:10--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :os x*
+2015-01-24 02:52:17--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yeah, that's lol.... don't do that.
+2015-01-24 02:52:24--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :but its what we are told to do ;-;
+2015-01-24 02:52:33--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :There's a reason why programs with debuggers exist, it's to make your life easier.
+2015-01-24 02:52:48--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :I guess i could just copy it over into putty right.
+2015-01-24 02:52:50--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :after i make it
+2015-01-24 02:52:52--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :or finish it 
+2015-01-24 02:53:10--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That's my suggestion.
+2015-01-24 02:53:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Because I'm looking at it, and I see the error.
+2015-01-24 02:53:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :But rather than tell you, I'd rather you see it yourself.
+2015-01-24 02:53:40--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Ok. Im trying my best lol
+2015-01-24 02:53:43--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's the classic "give a man a fish" metaphor
+2015-01-24 02:55:41--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Ok so I copied my code for the two things i thought was wrong. and it worked. so it doesn't have to do with that
+2015-01-24 02:55:58--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Mmmhmmm, it's a minor error... 
+2015-01-24 02:56:20--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Wait don't tell me yet
+2015-01-24 02:57:22--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :is it something to do with passing values?
+2015-01-24 02:57:41--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Not....exactly...
+2015-01-24 03:00:19--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :hm can i get a hint.
+2015-01-24 03:02:19--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Picture
+2015-01-24 03:04:01--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Hmm..
+2015-01-24 03:04:23--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :im stumped.
+2015-01-24 03:05:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Further hint.  How do you resize an array in C++?
+2015-01-24 03:05:34--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :oh. can you not resize it if it is declared statically?
+2015-01-24 03:05:38--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :so
+2015-01-24 03:05:42--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :i think i get it
+2015-01-24 03:05:44--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :let me try to fix it
+2015-01-24 03:05:46--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :(tell me if thats wrong)
+2015-01-24 03:05:47--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You cannot resize an array... period.
+2015-01-24 03:05:56--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Ok. I see
+2015-01-24 03:06:07--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :even if it dynamically declared?
+2015-01-24 03:06:10--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I very strongly doubt that you do see.
+2015-01-24 03:06:27--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Even if it's dynamically declared, as there's not such thing as dynamic arrays in C++
+2015-01-24 03:07:34--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :so how would i go about changing this. Do I make a constructor so when the object is made it is made with the users wanted columns and rows
+2015-01-24 03:07:41--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :like
+2015-01-24 03:07:48--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Do you have to use arrays, or can you use a vector?
+2015-01-24 03:07:50--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :map::map(int rows, int column)
+2015-01-24 03:08:02--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Um i don't know what a vector is. We haven't ever covered that
+2015-01-24 03:08:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then yeah, you can pass it in like that
+2015-01-24 03:08:25--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Stop using the fucking word map
+2015-01-24 03:08:31--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Yeah i changed that
+2015-01-24 03:08:36--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :i was just trying to be fast
+2015-01-24 03:08:37--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :lol.
+2015-01-24 03:08:42--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's all good.
+2015-01-24 03:08:45--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :but in all seriousness you are literally god
+2015-01-24 03:08:46--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :thank u
+2015-01-24 03:08:46--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Map is a REALLY cool type
+2015-01-24 03:08:51--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :i would have never ever figured that out
+2015-01-24 03:09:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lol it's the only other thing in your program
+2015-01-24 03:09:23--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :it wouldn't have even crossed my mind lol. the idea that i cant resize an array
+2015-01-24 03:10:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://www.cplusplus.com/forum/general/11111/  That's the ugly way to do it.
+2015-01-24 03:10:52--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Side question: how did you learn to code? School or on ur own?
+2015-01-24 03:11:55--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Both.  I'm a college dropout that has had a few jobs coding, a few jobs networking, run my own business, and now I'm at a startup doing code-related work.
+2015-01-24 03:12:47--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :What field would you recommend in computer science?
+2015-01-24 03:12:51--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Like networking, programming
+2015-01-24 03:13:02--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :I'm only first year so i obviously haven't been exposed  to that much
+2015-01-24 03:13:06--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Ummmm, it really depends... how do you prefer your headaches?
+2015-01-24 03:13:16--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Idk lol
+2015-01-24 03:16:14--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :I have another question. Before i had picture in my private section. But, now how do i pass it values even with a constructor. Because you need to declare the column size with 2D arrays when compiling right? Like char picture[][1] or something. And I can't change it after that
+2015-01-24 03:17:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I linked you above.  It's not pretty and it's probably NOT how you're supposed to be doing it.  
+2015-01-24 03:17:49--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :I guess i could declare the array in main
+2015-01-24 03:17:54--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :and just pass it to the display and stuff
+2015-01-24 03:17:58--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I would honestly consult your teacher about what she expects here, as there's a few ways to copy an array, and if she hasn't covered them it's kind of fucked up that s/he'd expect you to learn on your own.
+2015-01-24 03:18:01--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :but then the class is useless
+2015-01-24 03:18:17--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Yeah I emailed her about this problem that I had. she didn't respond :/
+2015-01-24 03:19:40--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :For now, just ask her how to resize an array, in her opinion, and based on what she gives you back, I'll give you an answer.
+2015-01-24 03:19:57--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :There's about 10 ways to do it, and she's probably taught you 1 of them
+2015-01-24 03:20:04--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Alright. Ill email her with that question
+2015-01-24 03:20:25--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :I guess I got everything I need from you. Thanks a bunch man. you're actually really helpful
+2015-01-24 03:20:36--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :Ill see you again with her response possibly. Thank you again
+2015-01-24 03:20:48--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Drop by again
+2015-01-24 03:20:55--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net PRIVMSG #BeginnersProgramming :See ya!
+2015-01-24 03:20:59--:Fivestar!webchat@d75-157-200-66.bchsia.telus.net QUIT :Quit: Page closed
+2015-01-24 03:20:59--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'll be on around 3 hours earlier than now tomorrow
+2015-01-24 03:21:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Shit.
+2015-01-24 03:21:03--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Well....
+2015-01-24 03:21:07--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :At least he knows.
+2015-01-24 05:16:36--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com JOIN #BeginnersProgramming
+2015-01-24 05:16:36--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v HiiddeN
+2015-01-24 05:16:41--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hey
+2015-01-24 05:16:44--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :Hey DemonSkye
+2015-01-24 05:16:48--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :Thank god you're here
+2015-01-24 05:16:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :lol
+2015-01-24 05:16:53--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :I need major help with java
+2015-01-24 05:17:02--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :K
+2015-01-24 05:17:18--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i want to make a rectangle that moves around with the mouse cursor
+2015-01-24 05:17:29--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :and have the top of the gui say what the x and y of the mouse is
+2015-01-24 05:17:57--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :ive got mouselisteners in there working
+2015-01-24 05:18:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Using Swing?
+2015-01-24 05:18:17--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :http://ideone.com/LUciAR
+2015-01-24 05:18:19--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :yes
+2015-01-24 05:18:30--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :thats the code that compiles
+2015-01-24 05:18:59--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :but idk how to make the JLabels and the paintComponent update each time the mouse moves
+2015-01-24 05:19:09--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i already checked if moving the mouse changes x and y. it does
+2015-01-24 05:20:09--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Because you don't understand MVC, which is what Swing is based on.
+2015-01-24 05:20:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You never interact directly with the view.
+2015-01-24 05:20:30--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You interact with the view through the controller.
+2015-01-24 05:21:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Rather than plowing ahead with swing with the goal of becoming a game designer today, why not learn swing the right way?
+2015-01-24 05:21:15--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://zetcode.com/tutorials/javaswingtutorial/
+2015-01-24 05:21:29--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Will give you a MUCH better idea of what swing is made for (hint: it's not games)
+2015-01-24 05:21:48--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :im not trying to make any type of game
+2015-01-24 05:21:57--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Although the final exercise in that is to make a tetris game
+2015-01-24 05:21:59--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :im trying to move the damn rectangle with the mouse
+2015-01-24 05:22:57--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :how do you propose i move the rectangle without using swing
+2015-01-24 05:23:12--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :AWT works fine for shit like that as well.
+2015-01-24 05:23:27--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Or perhaps you don't need swing because you're not going to use a jframe
+2015-01-24 05:23:33--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Or jpanels.
+2015-01-24 05:23:33--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i set a goal for myself to move the rectangle around. ive almost gotten there but now im stuck and i need help
+2015-01-24 05:23:56--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :There is 0 way you made that code.
+2015-01-24 05:24:09--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So try again on the goal thing.
+2015-01-24 05:24:14--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You can't bullshit a bullshitter.
+2015-01-24 05:24:57--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :0 way?!
+2015-01-24 05:25:11--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i went to a computer club today after school
+2015-01-24 05:25:28--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :we all collaborated and made a program that drew a rectangle that could be dragged around
+2015-01-24 05:25:38--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :If that's the kind of code computer club cranks out, then it should be shut down....
+2015-01-24 05:25:40--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :and displayed its x and y position inside it
+2015-01-24 05:25:52--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i was trying to replicate
+2015-01-24 05:26:09--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :single letter variables, no namespaces, and an empty set of functions that were ripped from an existing shell of a program...
+2015-01-24 05:26:11--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :we're literally just a few kids trying to self teach coding. dont be so cynical
+2015-01-24 05:26:15--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :*Thinks* Nopeee.....
+2015-01-24 05:26:40--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :shit, sorry. did i forget to get my major before i went to computer club?
+2015-01-24 05:26:45--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :my bad. be back in a few years
+2015-01-24 05:26:46--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :no
+2015-01-24 05:26:48--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :what the fuck
+2015-01-24 05:26:50--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :we're all beginners
+2015-01-24 05:27:00--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :if you wanna help and teach me stuff im missing, feel free
+2015-01-24 05:27:02--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :thatd be great
+2015-01-24 05:27:17--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :but simple criticism isnt helping
+2015-01-24 05:27:20--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I already told you what you're missing.  You don't get swing because you don't understand MVC.
+2015-01-24 05:27:26--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!wiki MVC
+2015-01-24 05:27:27--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i dont care how good or bad i am
+2015-01-24 05:27:33--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i care how good or bad i can become
+2015-01-24 05:27:36--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+2015-01-24 05:28:06--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Read and understand that short article, then come back.
+2015-01-24 05:31:23--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :k
+2015-01-24 05:31:25--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :back
+2015-01-24 05:32:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So, few things.  I ran your code, the block doesn't move anywhere for me...
+2015-01-24 05:33:19--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :me neither
+2015-01-24 05:33:30--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :the model isnt sending its state to the view
+2015-01-24 05:33:37--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Is it supposed to move?
+2015-01-24 05:33:48--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :well yeah
+2015-01-24 05:34:02--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :inside mouseMoved it changes x and y and repaints
+2015-01-24 05:34:12--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :which i thought would move the box accordingly...
+2015-01-24 05:36:02--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :im obviously mistaken and i hope my mistake can be pointed out to me
+2015-01-24 05:39:13--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :1 minute,
+2015-01-24 05:39:20--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Jesus fuck you're impatient tonight
+2015-01-24 05:39:55--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i have to be up at 7
+2015-01-24 05:39:59--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i need to go to bed
+2015-01-24 05:40:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You were the one that waited til midnight, not me.
+2015-01-24 05:40:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I've been here since 6am
+2015-01-24 05:40:51--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i havent been in my house today
+2015-01-24 05:41:18--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :anyway, why isny repaint moving my precious square?
+2015-01-24 05:41:57--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :isnt8
+2015-01-24 05:42:00--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :isnt*
+2015-01-24 05:42:08--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Because it can't.
+2015-01-24 05:42:20--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :There is no event happening because you don't have ActionEventListeners
+2015-01-24 05:42:20--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :!seen thrrwfls
+2015-01-24 05:42:43--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :okay
+2015-01-24 05:42:54--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :so i need to implement those
+2015-01-24 05:43:36--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :If you REALLY want the answer I can give it to you
+2015-01-24 05:44:53--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i dont
+2015-01-24 05:45:09--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :okay i made an actionPerformed function. how does that work?
+2015-01-24 05:45:24--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i move the mouse which sets the values of integers x and y
+2015-01-24 05:45:50--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :within mouseMoved()
+2015-01-24 05:46:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You're looking for jFrame.addMouseMotionListener(new MouseMotionAdapter(){ public void mouseMoved(MouseEvent me){  //labelx = me.getx() //labely= me.gety()  repaint();
+2015-01-24 05:48:11--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :its complaining about static references to non-static variables (x and y)?
+2015-01-24 05:48:49--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Because you're trying to call non-static stuff from main, which is static.  Meaning you didn't instantiate an object and you're trying to call it improperly.
+2015-01-24 05:49:03--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :thats unfortunate
+2015-01-24 05:49:13--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Recall how I told you that if I gave you the answer it wouldn't do you much good?
+2015-01-24 05:49:21--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :yes
+2015-01-24 05:49:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Here's a working example:  http://alvinalexander.com/java/java-custom-mouse-cursor-xy-coordinates-position
+2015-01-24 05:49:30--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :remember how i said "no, i dont want the answer"?
+2015-01-24 05:50:53--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :that's too advanced for me.
+2015-01-24 05:50:57--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i dont know any of that
+2015-01-24 05:51:07--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :i need to go to bed. talk to you tomorrow
+2015-01-24 05:51:10--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :thanks for your help
+2015-01-24 05:51:12--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com PRIVMSG #BeginnersProgramming :later
+2015-01-24 05:51:14--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Np, night
+2015-01-24 05:53:12--:HiiddeN!webchat@cpe-65-189-209-109.neo.res.rr.com QUIT :Ping timeout
+2015-01-24 05:55:32--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Going to bed, back in 6-10 hours
+2015-01-24 07:45:27--:Winestone!~Winestone@c122-106-164-128.carlnfd1.nsw.optusnet.com.au JOIN #BeginnersProgramming
+2015-01-24 07:45:27--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Winestone
+2015-01-24 12:24:45--:LMac!webchat@134.226.13.148 JOIN #BeginnersProgramming
+2015-01-24 12:24:45--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v LMac
+2015-01-24 12:24:49--:LMac!webchat@134.226.13.148 PRIVMSG #BeginnersProgramming :Hi
+2015-01-24 12:25:36--:LMac!webchat@134.226.13.148 PRIVMSG #BeginnersProgramming :One of the functions in my code isnt working and I really don't know why
+2015-01-24 12:25:55--:LMac!webchat@134.226.13.148 PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-24 12:26:12--:LMac!webchat@134.226.13.148 QUIT :Quit: Page closed
+2015-01-24 14:09:44--:Taran_!webchat@27.255.214.87 JOIN #BeginnersProgramming
+2015-01-24 14:09:44--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Taran_
+2015-01-24 14:10:11--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :?
+2015-01-24 14:10:21--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hi
+2015-01-24 14:10:42--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :i'm a beginner 
+2015-01-24 14:10:51--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Cool
+2015-01-24 14:11:15--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :and i don't knw about any programing concept 
+2015-01-24 14:11:26--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :wht shuld i do ?
+2015-01-24 14:11:37--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!tutorials
+2015-01-24 14:11:43--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :There ya go :)
+2015-01-24 14:12:21--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :okkk...r u sure by doing this .. i understnd the concepts ?
+2015-01-24 14:12:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yupppp :)
+2015-01-24 14:13:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm here to teach in the meantime
+2015-01-24 14:13:10--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :because i'm having too much trouble 
+2015-01-24 14:14:47--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :in previous days i was rejected in company  placment ..is just because of not good command on C++
+2015-01-24 14:15:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I can help you get better
+2015-01-24 14:15:44--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :thnk you so much 
+2015-01-24 14:16:36--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :how much time i would take to this lessons?in daily 
+2015-01-24 14:18:17--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I don't offer structured lessons like that, but why don't you tell me more about what you don't understand?
+2015-01-24 14:20:58--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :sir 
+2015-01-24 14:21:32--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :i'm only cram the programs 
+2015-01-24 14:22:11--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :nd after some time .. my teacher ask me . write a program in diff. method ..nd i can't write in any method 
+2015-01-24 14:22:22--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :basically 
+2015-01-24 14:27:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So what method do you write in?
+2015-01-24 14:28:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Like, how do you go about writing a program?
+2015-01-24 14:30:37--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :sir i want to start again 
+2015-01-24 14:30:46--:Taran_!webchat@27.255.214.87 PRIVMSG #BeginnersProgramming :core concepts and oll
+2015-01-24 14:33:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then I would suggest the video tutorials that I linked to you.
+2015-01-24 14:35:28--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-24 14:35:40--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Ice Pellets... interesting way to say snowing...
+2015-01-24 14:37:01--:Winestone!~Winestone@c122-106-164-128.carlnfd1.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :indeed XD
+2015-01-24 14:43:12--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hey Wine, I thought you said you were going to be gone for "a long time"
+2015-01-24 14:43:13--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :=P
+2015-01-24 14:54:03--:Winestone!~Winestone@c122-106-164-128.carlnfd1.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :Well it was quite long :P
+2015-01-24 14:54:13--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That was like 18 hours son!
+2015-01-24 14:54:47--:Winestone!~Winestone@c122-106-164-128.carlnfd1.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :for me it was, ehh, kinda busy so maybe that's why XD
+2015-01-24 15:01:10--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lol
+2015-01-24 15:01:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yeah, I'm working right now #Weekend, lol
+2015-01-24 15:04:15--:Winestone!~Winestone@c122-106-164-128.carlnfd1.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :oh, Ima about to go to sleep
+2015-01-24 15:04:21--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lol
+2015-01-24 15:04:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's 10am here
+2015-01-24 15:04:28--:Winestone!~Winestone@c122-106-164-128.carlnfd1.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :2am XD
+2015-01-24 15:14:15--:Taran_!webchat@27.255.214.87 QUIT :Quit: Page closed
+2015-01-24 16:51:46--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Off to the gym, back in 2 hours or less.
+2015-01-24 18:43:59--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :And I'm home
+2015-01-24 18:45:48--:Cj_!webchat@97-104-21-253.res.bhn.net JOIN #BeginnersProgramming
+2015-01-24 18:45:48--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Cj_
+2015-01-24 18:46:45--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Ohai
+2015-01-24 18:47:27--:Cj_!webchat@97-104-21-253.res.bhn.net PRIVMSG #BeginnersProgramming :hi all
+2015-01-24 18:47:27--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Did you need help CJ)
+2015-01-24 18:47:30--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :cj_
+2015-01-24 18:47:32--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :rather
+2015-01-24 18:47:53--:Cj_!webchat@97-104-21-253.res.bhn.net PRIVMSG #BeginnersProgramming :well, just started my c++ course, already moving slow on my 1st assignment
+2015-01-24 18:48:37--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lol that's often how these things happen
+2015-01-24 18:48:43--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Have you checked out the tutorials?
+2015-01-24 18:48:45--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!tutorials
+2015-01-24 18:49:51--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I stand behind them with a 100% money back promise.  If you don't learn something from them I will keep 100% of the money you paid for them ( which is nothing as they're free)
+2015-01-24 18:50:29--:Cj_!webchat@97-104-21-253.res.bhn.net PRIVMSG #BeginnersProgramming :lol, tutorials tend set me back sometimes, since im in an online class, it's taking a toll on me
+2015-01-24 18:50:46--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Mine are video tutorials.
+2015-01-24 18:50:49--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :They are pretty quick
+2015-01-24 18:50:54--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :About 8-15 minutes each.
+2015-01-24 18:51:08--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I cover roughly 1 semester worth of C++ in about 3-4 hours in the new series...
+2015-01-24 18:51:14--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's pretty decent in terms of pacing.
+2015-01-24 18:52:23--:Cj_!webchat@97-104-21-253.res.bhn.net PRIVMSG #BeginnersProgramming :hey demon, i dont see any payment options, what are you talking about?
+2015-01-24 18:55:05--:Cj_!webchat@97-104-21-253.res.bhn.net PART #BeginnersProgramming
+2015-01-24 18:55:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lol
+2015-01-24 20:02:58--:Raz_!webchat@103.3.227.75 JOIN #BeginnersProgramming
+2015-01-24 20:02:58--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Raz_
+2015-01-24 20:03:26--:Raz_!webchat@103.3.227.75 PRIVMSG #BeginnersProgramming :hi is there any C# Expert?
+2015-01-24 20:04:00--:Raz_!webchat@103.3.227.75 PRIVMSG #BeginnersProgramming :i need some help about c#
+2015-01-24 20:05:06--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :No, only C++ and Java
+2015-01-24 20:05:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :We don't do C# At all here
+2015-01-24 20:13:36--:Raz_!webchat@103.3.227.75 QUIT :Quit: Page closed
+2015-01-24 21:24:35--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :well i dont wanna call myself an expert
+2015-01-24 21:24:39--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :but i do c#
+2015-01-24 22:40:02--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Meh
+2015-01-25 00:24:40--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :lol
+2015-01-25 00:24:49--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :snoonet just zlined the majority of the network
+2015-01-25 00:24:51--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :including staff
+2015-01-25 00:46:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lol why?
+2015-01-25 01:11:45--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :-rdv/Wallops- No, that wasn't me (this time Thanks for assuming it was though) and yes, there's a bug in the ircd's code when setting wide ranges of bans (N.N.N.N/X range bans) that affected the plethora even though bans should not affect >10% - In good news we found a bug to patch, every body join #snoonet and tell us how much you love idahodude.
+2015-01-25 01:12:15--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-25 01:12:15--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v jhv
+2015-01-25 01:12:20--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :hello
+2015-01-25 01:12:20--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lol that's funny
+2015-01-25 01:12:26--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hey jhv
+2015-01-25 01:13:09--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :how do i paste long code here
+2015-01-25 01:13:09--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :?
+2015-01-25 01:13:13--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :i have a question
+2015-01-25 01:13:15--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!rules
+2015-01-25 01:13:17--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :about it
+2015-01-25 01:13:26--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Really.. I didn't implement rules into my bot
+2015-01-25 01:13:38--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :ideone.com or pastebin.com
+2015-01-25 01:13:46--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :ty
+2015-01-25 01:14:39--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :http://pastebin.com/54BwcwHB
+2015-01-25 01:14:51--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :This is a code from a c++ programming book and i dont understand it
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 251 Prog-Bot :There are 25 users and 39057 invisible on 40 servers
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 252 Prog-Bot 63 :operator(s) online
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 253 Prog-Bot 5 :unknown connection(s)
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 254 Prog-Bot 26817 :channels formed
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 255 Prog-Bot :I have 2939 clients and 1 servers
+2015-01-25 01:16:31--:underworld2.no.quakenet.org NOTICE Prog-Bot :Highest connection count: 6381 (6380 clients)
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 375 Prog-Bot :- underworld2.no.quakenet.org Message of the Day - 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 2013-5-24 22:06
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :-            Welcome to the QuakeNet IRC Network!     __     __ 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :-     U N D E R W O R L D . N O . Q U A K E N E T . O R G
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- This server is hosted by Underworld <www.underworld.no> in
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- cooperation with UNINETT, The Norwegian research network.
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Disclaimer ]
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- IRC is a free media, the operators of this network take no 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- responsibility whatsoever for opinions expressed or actions
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- taken by users.
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- By connecting to this server you give us the right to
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- probe your machine for open proxies/wingates.
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Staff ]
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- Administrator  ::  Hardy     <hardy(a)underworld.no>
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  akai       <akai(a)underworld.no>
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- Operator       ::  Microbe <microbe(a)underworld.no
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Rules ]                                       
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- This network may NOT be used for:
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- * Flooding (including flood/clonebots).
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- * Distribution of copyrighted material (eg, warez, mp3, 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :-   movies) or pornography.
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- * Channels dedicated to cheats designed to cause unfair
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :-   advantage in multiplayer games.
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- * Clones. Please contact info@quakenet.org if you require
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :-   more than five clients (LAN parties, bots, etc).
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- * Attempts to takeover existing channels or network services.
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- * Racism and/or Nazism.
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- * Spamming and/or advertising.
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- * Hacking (including Virus/Trojan distribution).
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :-  
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- Continued use of this server indicates acceptance of these
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- conditions.
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Information & Help ]
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet web page     ::  http://www.quakenet.org
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet help page    ::  http://www.quakenet.org/faq
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- Quakenet servers      ::  http://www.quakenet.org/Servers
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- Network Channel       ::  #feds
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- Help Channel          ::  #help
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- Server Channel        ::  #underworld
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- Norwegian Channel     ::  #Norge
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- You can contact the staff on <quakenet-staff(a)underworld.no>
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- This network has channel services. Consult the webpage above 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- to find information on how to use and obtain these services.
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :-   [ Have a nice stay! ]
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 372 Prog-Bot :- 
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 376 Prog-Bot :End of /MOTD command.
+2015-01-25 01:16:31--:underworld2.no.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20) tr
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 221 Prog-Bot +i
+2015-01-25 01:16:31--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-25 01:16:31--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot +jhv +Winestone @Q +thrrwfls +DemonSkye
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-25 01:16:31--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-25 01:16:31--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-25 01:16:31--:underworld2.no.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-25 01:16:51--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So, if you go above the square root of a number to test it's primality you've gone too high.
+2015-01-25 01:16:52--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :wouldn't be easier to have n be divided by 2 and if it does not have a remainder, then its prime?
+2015-01-25 01:17:04--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :*not prime
+2015-01-25 01:17:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Well, yes...They do that.
+2015-01-25 01:17:17--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :i dont see the purpose of the square root
+2015-01-25 01:17:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :if (n % i == 0) // If i divides n,
+2015-01-25 01:17:28--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That is testing if the number is even
+2015-01-25 01:17:37--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :ohhh
+2015-01-25 01:17:51--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Only the first time through the loop
+2015-01-25 01:17:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So...
+2015-01-25 01:17:55--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Let me explain.
+2015-01-25 01:17:58--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :ok
+2015-01-25 01:18:33--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :1.  To test a number, you only need to test up to it's square root.. because any number multiplied by it's integer square root (+1) cannot be larger than itself...
+2015-01-25 01:18:35--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So for instance.
+2015-01-25 01:18:40--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Take the number 87.
+2015-01-25 01:18:54--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The square root is 9.xx (I don't know it off the top of my head)
+2015-01-25 01:19:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So if we test the numbers from 1 - 10 for an even factor, we will either get one, or there isn't one.
+2015-01-25 01:19:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Let me give you a better example.
+2015-01-25 01:19:29--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :ok
+2015-01-25 01:19:31--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-25 01:19:31--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-25 01:19:31--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-25 01:19:32--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :81.   sqrt(81) ==9
+2015-01-25 01:19:41--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming : But if we were to test that...
+2015-01-25 01:19:48--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :We would first hit on 3 and 27
+2015-01-25 01:19:51--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Right?
+2015-01-25 01:20:03--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :wat?
+2015-01-25 01:20:05--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then we would hit again on double 9's
+2015-01-25 01:20:09--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :3*27 = 81
+2015-01-25 01:20:33--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Okay....
+2015-01-25 01:20:33--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :hit?
+2015-01-25 01:20:36--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming ::s
+2015-01-25 01:20:54--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hit in this case means "give us an answer without a remainder"
+2015-01-25 01:21:06--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So let me start for a third time.
+2015-01-25 01:21:29--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Rather than giving an example by asking you to trust me... to test a prime you only need to test up to the square root... 
+2015-01-25 01:21:39--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Their implementation is actually a little sloppy, but whatever.
+2015-01-25 01:21:57--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :On line 14 they start by setting their counter = 2
+2015-01-25 01:21:59--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :See that?
+2015-01-25 01:22:07--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :yeah
+2015-01-25 01:22:17--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :i dont know whats that for
+2015-01-25 01:23:05--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Okay, so if you take a peek at the next line, there's a loop that gets set up that tests  (i < sqrt(n)) and continues as long as that is true.
+2015-01-25 01:23:33--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :ok
+2015-01-25 01:24:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So the next line if (n % i == 0)  uses the modulo operator.   This is where it's a little tricky.   The modulo operator divides the first number by the second number, and gets the remainder if there is one.
+2015-01-25 01:24:10--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :For example.   9%5 = 4
+2015-01-25 01:24:23--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Since 5 only goes into 9 once, and then you have 4 left over.
+2015-01-25 01:24:46--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :so 9 was the inpute dnumber, right?
+2015-01-25 01:26:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :No, in this case it was just an example
+2015-01-25 01:26:38--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :In the program n can be anything because it let's the user enter it
+2015-01-25 01:26:46--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :i think thats wat i meant
+2015-01-25 01:26:55--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :There is a cin >> n on line 11 that let's the user enter it.
+2015-01-25 01:27:03--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :i understand
+2015-01-25 01:27:15--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So line 16, which I mentioned above tests, if x/y ==0 that means there is no remainder
+2015-01-25 01:27:20--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :that loop is what gets me
+2015-01-25 01:27:35--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :When 2 numbers divide with no remainder, that means it's not prime (if it's not 1 or itself)
+2015-01-25 01:27:45--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :that aprt i get
+2015-01-25 01:28:02--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That's all the code is doing.
+2015-01-25 01:29:36--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :why does the loop start with 2 as i?
+2015-01-25 01:29:57--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Because it can't start with 1?
+2015-01-25 01:30:02--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Because everything is divisible by 1
+2015-01-25 01:30:32--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :ohhh
+2015-01-25 01:30:36--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The better question is why is that loop so inefficient....There's a much better example on my website...
+2015-01-25 01:30:49--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :ok
+2015-01-25 01:30:50--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It will be about 10000000 more confusing though
+2015-01-25 01:31:19--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :dangit
+2015-01-25 01:31:42--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://ideone.com/Y7wiJ  Lines 42 - 54 is how I test primes.
+2015-01-25 01:31:58--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Again, that's a bit more advanced.
+2015-01-25 01:33:04--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :yeah, i need to learn arrays and fucntions before i look at it again
+2015-01-25 01:33:17--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :..and constructors
+2015-01-25 01:33:21--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming ::/
+2015-01-25 01:34:07--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!tutorials
+2015-01-25 01:34:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I recommend mine.  I cover about an entire semester in 4 hours or so.
+2015-01-25 01:34:54--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :woah
+2015-01-25 01:35:00--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :looks much better 
+2015-01-25 01:35:23--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yeah, the new tutorials are awesome, the old ones .... not so much
+2015-01-25 01:35:39--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :looks more concise than my book
+2015-01-25 01:35:48--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :my book takes too long to explain stuff
+2015-01-25 01:36:07--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yeah, videos are a nice way to do things.
+2015-01-25 01:36:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Use the videos and your book.   Do a LOT of extra programming.
+2015-01-25 01:36:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You can be like me and make a bot
+2015-01-25 01:36:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-25 01:36:32--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Still snowing here...
+2015-01-25 01:36:34--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :wow
+2015-01-25 01:36:46--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :where does it gather the info from?
+2015-01-25 01:37:00--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-25 01:37:06--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's actually fairly complex.
+2015-01-25 01:37:12--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :WOAH
+2015-01-25 01:37:17--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So...
+2015-01-25 01:37:30--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :wow, thats cool
+2015-01-25 01:37:36--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :When you join IRC, your ip isn't directly available... your hostname is.
+2015-01-25 01:37:58--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :In your case your hostname is:  (webchat@pool-96-241-160-203.washdc.fios.verizon.net)
+2015-01-25 01:38:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So the first thing I do is I resolve that hostname to an ip address.
+2015-01-25 01:38:36--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :From there, I take that IP address and I send it to http://ipinfo.io/<ip-address>/json
+2015-01-25 01:38:49--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then I parse the json object of it's city / state / country
+2015-01-25 01:38:57--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then I send THAT information to weatherunderground.com
+2015-01-25 01:39:03--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :jesus christ
+2015-01-25 01:39:05--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Which has an api that will give me weather
+2015-01-25 01:39:10--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then that returns a json object,
+2015-01-25 01:39:13--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Which I parse
+2015-01-25 01:39:13--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :so much networking
+2015-01-25 01:39:20--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :And then I display the results.
+2015-01-25 01:39:29--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's about....~70 lines of code or so.
+2015-01-25 01:39:48--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :that would be awsome to make something like that
+2015-01-25 01:40:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You can take a look, it's in globalFunctions.java the name of the function is doWeather() https://github.com/DemonSkye/IrcBot/tree/master/src
+2015-01-25 01:40:25--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :wow
+2015-01-25 01:40:42--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :im also learning how to use github
+2015-01-25 01:40:50--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :its so damn convoluted though
+2015-01-25 01:41:23--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :i need tutorials for that too
+2015-01-25 01:41:39--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Heh, I suck with Git.  I JUST picked up git like a week ago.
+2015-01-25 01:41:50--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :SVN on the other hand I'm great with.
+2015-01-25 01:41:56--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :But I'm still getting used to Git
+2015-01-25 01:42:00--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :ah
+2015-01-25 01:42:19--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Right now I'm using the built-in git manager inside IntelliJ
+2015-01-25 01:42:35--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :im using the command line. 
+2015-01-25 01:42:39--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :I prefer the gui
+2015-01-25 01:42:50--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net PRIVMSG #BeginnersProgramming :thogu
+2015-01-25 04:36:13--:jhv!webchat@pool-96-241-160-203.washdc.fios.verizon.net QUIT :Ping timeout
+2015-01-25 10:04:00--:Winestone!~Winestone@c122-106-164-128.carlnfd1.nsw.optusnet.com.au QUIT :Ping timeout
+2015-01-25 13:07:36--:jakubx!webchat@staticline-31-182-94-164.toya.net.pl JOIN #BeginnersProgramming
+2015-01-25 13:07:36--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v jakubx
+2015-01-25 13:07:59--:jakubx!webchat@staticline-31-182-94-164.toya.net.pl QUIT :Quit: Page closed
+2015-01-25 16:14:49--:Khinder!webchat@6.252.100.84.rev.sfr.net JOIN #BeginnersProgramming
+2015-01-25 16:14:49--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Khinder
+2015-01-25 16:15:45--:Khinder!webchat@6.252.100.84.rev.sfr.net PRIVMSG #BeginnersProgramming :Hi, i begin c++ and dont find the command for END the executable, someone can help me ?
+2015-01-25 16:36:23--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :return 0;
+2015-01-25 16:36:57--:Anni!webchat@public-gprs517465.centertel.pl JOIN #BeginnersProgramming
+2015-01-25 16:36:57--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Anni
+2015-01-25 16:37:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hey Anni
+2015-01-25 16:37:33--:Anni!webchat@public-gprs517465.centertel.pl PRIVMSG #BeginnersProgramming :Hi, is there anyone who could help with Win32 GUI problems?
+2015-01-25 16:37:54--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Maybe, Win32 is a pain in the ass.
+2015-01-25 16:38:18--:Anni!webchat@public-gprs517465.centertel.pl PRIVMSG #BeginnersProgramming :I'm a beginner, so maybe sb will help me out
+2015-01-25 16:40:11--:Anni!webchat@public-gprs517465.centertel.pl PRIVMSG #BeginnersProgramming :I want to bulid a simple chat, in fact looking almost the same as this on we are on, and I'm stuck on taking the user input from the textfiled and showing it in another window. Any clues what functions I should use? I used GetWindowText, but dont know how to proceed then 
+2015-01-25 16:40:49--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Well, I'm guessing you want to do that over a network, right?
+2015-01-25 16:41:00--:Anni!webchat@public-gprs517465.centertel.pl PRIVMSG #BeginnersProgramming :yes, using sockets
+2015-01-25 16:41:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://beej.us/guide/bgnet/
+2015-01-25 16:41:07--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :There ya go :)
+2015-01-25 16:41:08--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Enjoy
+2015-01-25 16:41:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I should add that to my bot
+2015-01-25 16:41:23--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I link it enough.
+2015-01-25 16:41:30--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!weather
+2015-01-25 16:41:51--:Anni!webchat@public-gprs517465.centertel.pl PRIVMSG #BeginnersProgramming :yep, but I already have the functionality, now i'm working only on GUI
+2015-01-25 16:42:03--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :!weather
+2015-01-25 16:43:04--:Anni!webchat@public-gprs517465.centertel.pl PRIVMSG #BeginnersProgramming :any hints for the GUI itself?
+2015-01-25 16:43:20--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Anni, the gui should be pretty straight forward
+2015-01-25 16:43:27--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You get the info from the socket.
+2015-01-25 16:43:42--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then you display it the same way you would any other information
+2015-01-25 16:44:55--:Anni!webchat@public-gprs517465.centertel.pl PRIVMSG #BeginnersProgramming :yes, but the problem is i have problems with dispaying ANY information. i mean, for now i'm trying to just take user's input and display it in a window - not connecting it with sockets yet. see, I'm a beginner ;)
+2015-01-25 16:46:07--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://www.winprog.org/tutorial/dlgfaq.html  Easy peasy
+2015-01-25 16:46:25--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Just a bit too much code to put into chat
+2015-01-25 16:52:16--:Anni!webchat@public-gprs517465.centertel.pl PRIVMSG #BeginnersProgramming :i'll look into that, thanks a lot!
+2015-01-25 16:56:57--:Anni!webchat@public-gprs517465.centertel.pl QUIT :Quit: Page closed
+2015-01-25 18:15:45--:Khinder!webchat@6.252.100.84.rev.sfr.net QUIT :Ping timeout
+2015-01-26 02:05:24--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com JOIN #BeginnersProgramming
+2015-01-26 02:05:24--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v HiiddeN
+2015-01-26 02:05:33--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :Hey.
+2015-01-26 02:05:47--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hey
+2015-01-26 02:06:07--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :Any interest in teaching me sockets basics
+2015-01-26 02:06:13--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :In C++ or Java?
+2015-01-26 02:06:16--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :Or what I need to know to learn sockets basics
+2015-01-26 02:06:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :In Java they are piss easy
+2015-01-26 02:06:20--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :C++
+2015-01-26 02:06:28--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://beej.us/guide/bgnet/
+2015-01-26 02:06:34--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :One of my most linked guides
+2015-01-26 02:08:08--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :Difference between classes and structs?
+2015-01-26 02:08:16--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :Default access specifier, yes?
+2015-01-26 02:08:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Just public vs private by default
+2015-01-26 02:08:23--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :Struct-public; class-private
+2015-01-26 02:08:28--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :Lame
+2015-01-26 02:08:58--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :I 43% understand pointers.
+2015-01-26 02:09:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Okay....
+2015-01-26 02:09:34--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :They're either an array, or a pointer to a value
+2015-01-26 02:09:36--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :http://pastebin.com/wdhaJjHr
+2015-01-26 02:09:41--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :This is on the guide
+2015-01-26 02:09:50--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :why are two of the variables created pointers?
+2015-01-26 02:09:54--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :Whats the POINT
+2015-01-26 02:09:57--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :huehuehue
+2015-01-26 02:10:09--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :three are nvm not two
+2015-01-26 02:10:17--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :A char * is a character array
+2015-01-26 02:11:03--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Struct * is a pointer to a struct 
+2015-01-26 02:11:14--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :Character array?
+2015-01-26 02:11:39--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :!wiki character arrau
+2015-01-26 02:11:42--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :shit
+2015-01-26 02:11:46--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :!wiki character array
+2015-01-26 02:12:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Character arrays are strings before strings existed
+2015-01-26 02:12:20--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :likeeee char car {'c','a','r'}?
+2015-01-26 02:13:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :No
+2015-01-26 02:13:08--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Like char car[] = "car";
+2015-01-26 02:15:13--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :ahhh oki
+2015-01-26 02:15:46--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :so in that chunk of text i pastebin'd
+2015-01-26 02:16:00--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :char *ai_canonname;
+2015-01-26 02:16:24--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :is the same as:     char ai_cannonname[];
+2015-01-26 02:16:25--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :?
+2015-01-26 02:16:39--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Not exactly, but that's about right.
+2015-01-26 02:16:46--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :alright
+2015-01-26 02:16:51--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :so what about the struct *
+2015-01-26 02:17:09--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :to my virgin eye it looks like a redefinition of the same struct
+2015-01-26 02:17:13--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :but with a semi colon
+2015-01-26 02:17:37--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :nvm
+2015-01-26 02:17:51--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :it looks like hes defining the type of making an object of the same struct
+2015-01-26 02:17:56--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming ::| so confused
+2015-01-26 02:18:48--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then clearly you don't 43% know pointers
+2015-01-26 02:20:59--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :nope
+2015-01-26 02:21:08--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :ive taken a moment to think
+2015-01-26 02:21:17--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :and im dropping that down to about 7%
+2015-01-26 02:21:39--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yeah, then you need to learn pointers (one of the most difficult parts of C++
+2015-01-26 02:21:42--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then sockets
+2015-01-26 02:21:53--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :question
+2015-01-26 02:21:55--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :better style:
+2015-01-26 02:21:59--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :int *x
+2015-01-26 02:22:01--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :int * x
+2015-01-26 02:22:03--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :int* x
+2015-01-26 02:22:14--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :?
+2015-01-26 02:22:18--:Siara!webchat@73.37.53.138 JOIN #BeginnersProgramming
+2015-01-26 02:22:19--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Siara
+2015-01-26 02:22:23--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Doesn't super matter really
+2015-01-26 02:22:30--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I've seen all 3, but typically
+2015-01-26 02:22:46--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :int* varName for pointers.  var * var for multiplication.
+2015-01-26 02:22:55--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :gotcha
+2015-01-26 02:23:02--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :that one looks best
+2015-01-26 02:23:12--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :sosososo
+2015-01-26 02:23:20--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :if int* x = 5
+2015-01-26 02:23:24--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :wait no
+2015-01-26 02:23:26--:Siara!webchat@73.37.53.138 PRIVMSG #BeginnersProgramming :!rules
+2015-01-26 02:24:49--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :if int salad is declared and then int* dressing = &salad
+2015-01-26 02:25:05--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :nope
+2015-01-26 02:25:07--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :lost myself
+2015-01-26 02:25:09--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :never mind
+2015-01-26 02:25:32--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yeah, nope
+2015-01-26 02:26:27--:Siara!webchat@73.37.53.138 QUIT :Quit: Page closed
+2015-01-26 02:27:18--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :GOT IT
+2015-01-26 02:27:37--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :int salad; int* dressing = &salad; *dressing = 5; thus salad = 5
+2015-01-26 02:29:23--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :struct sockaddr *ai_addr; <- from guide. what is it pointing to?!?
+2015-01-26 02:29:44--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You made 1 pointer work, that's not "getting it"
+2015-01-26 02:29:51--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :yeah i know
+2015-01-26 02:30:00--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :i was saying "GOT IT" as in "I UNDERSTAND EVERYTHING ABOUT POINTERS
+2015-01-26 02:30:02--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :"
+2015-01-26 02:30:10--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :more like "I UNDERSTAND MY SALAD DRESSING PROBLEM"
+2015-01-26 02:30:20--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Well, if you look at the comment on the line, it tells you what it does...
+2015-01-26 02:30:24--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :wasnt*****
+2015-01-26 02:30:34--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :i wasnt***** saying "GOT IT" as in "I UNDERSTAND EVERYTHING ABOUT POINTERS
+2015-01-26 02:30:50--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :struct sockaddr_in or _in6
+2015-01-26 02:30:53--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :thats the comment
+2015-01-26 02:31:23--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :sockaddr is a different struct.
+2015-01-26 02:31:27--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :that comment means nothing to my sad brain
+2015-01-26 02:31:59--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :so if strict sockaddr already exists, why is he using the keyword struct
+2015-01-26 02:32:11--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :isnt that like int x = 5; int x = 30?
+2015-01-26 02:33:06--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It could be a forward declaration.
+2015-01-26 02:34:25--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :ahhhh good point
+2015-01-26 02:36:14--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :http://ideone.com/pyHbQX
+2015-01-26 02:37:08--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Because that's larger than maxint
+2015-01-26 02:38:15--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :whats the max of a long int
+2015-01-26 02:38:55--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Totally dependent upon operating system, memory, and IDE
+2015-01-26 02:39:32--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :why is max of long int the same as max of normal int in my case
+2015-01-26 02:39:49--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :it makes long ints seem quite obsolete
+2015-01-26 02:40:58--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://stackoverflow.com/a/900243/1146032
+2015-01-26 02:41:10--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :If you need something bigger than a long, you can look into uint_64
+2015-01-26 02:41:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Which is a typedef
+2015-01-26 02:46:42--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :long long works
+2015-01-26 02:46:54--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :idk what typedef is
+2015-01-26 02:47:03--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :other than it more than likely stand for type definition
+2015-01-26 02:47:09--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :which i now understand...
+2015-01-26 02:47:21--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :int, string, long, double, float....typedefs
+2015-01-26 02:47:23--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :cool.
+2015-01-26 02:47:42--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :uint_64 means a 64 byte unsigned integer which means it cant be negative?
+2015-01-26 02:47:43--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :right?
+2015-01-26 02:48:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Right
+2015-01-26 02:48:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It means it can hold twice as much as a signed variable
+2015-01-26 02:48:40--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :uint_64 is an invalid typedef
+2015-01-26 02:48:50--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :the only thing thats working is uint64_t
+2015-01-26 02:48:52--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :wuzzat
+2015-01-26 02:49:34--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://stackoverflow.com/questions/6013245/are-types-like-uint32-int32-uint64-int64-defined-in-any-stdlib-header
+2015-01-26 02:50:07--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :the highest uint64_t i could make was 9999999999999999999
+2015-01-26 02:50:52--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :do you really need a number that big
+2015-01-26 02:51:12--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :nope
+2015-01-26 02:51:12--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :never
+2015-01-26 02:51:21--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Scientific Notation
+2015-01-26 02:51:21--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :unless im measuring my dick in inches
+2015-01-26 02:51:36--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :<insert 12 year-old "OOOOOOOOOH">
+2015-01-26 02:51:48--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :thrrwfls are you even alive
+2015-01-26 02:51:49--:Pleasehelp!webchat@cpe-67-49-187-114.hawaii.res.rr.com JOIN #BeginnersProgramming
+2015-01-26 02:51:49--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Pleasehelp
+2015-01-26 02:51:57--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :i see you talk roughly once every 17 weeks
+2015-01-26 02:52:11--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :i work weird hours
+2015-01-26 02:52:13--:Pleasehelp!webchat@cpe-67-49-187-114.hawaii.res.rr.com QUIT :Quit: Page closed
+2015-01-26 02:52:14--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :then sleep
+2015-01-26 02:52:22--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :sometimes both at the same time
+2015-01-26 02:52:35--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :He's around a decent amount.  Keeps me up to date on tech news
+2015-01-26 02:52:47--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :maybe im just not around as much
+2015-01-26 02:52:55--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :im the problem
+2015-01-26 02:53:02--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :;(
+2015-01-26 02:53:50--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :btw DemonSkye that stackoverflow didnt really clear anything up
+2015-01-26 02:54:04--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :except that uint64_t is defined by a header in C99
+2015-01-26 02:54:10--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :so what is uint_64?
+2015-01-26 02:54:28--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :An unsigned 64-bit integer
+2015-01-26 02:54:45--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :but its not a thing
+2015-01-26 02:54:47--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :its an error
+2015-01-26 02:54:48--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :unsigned int long long
+2015-01-26 02:55:06--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :depending on the system
+2015-01-26 02:55:09--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :can be different
+2015-01-26 02:55:36--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :when i try to do uint_64 x it doesnt recognize uint_64 as a type
+2015-01-26 02:55:51--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :is it under a special header that im not including?
+2015-01-26 02:56:06--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :try uint_64t
+2015-01-26 02:56:45--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :nop
+2015-01-26 02:56:46--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :e
+2015-01-26 02:56:53--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :only uint64_t works
+2015-01-26 02:56:59--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :yeah thats what i meant
+2015-01-26 02:58:12--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :oh
+2015-01-26 02:58:17--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :what does the t mean
+2015-01-26 02:58:29--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :type
+2015-01-26 02:59:18--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming ::|
+2015-01-26 02:59:21--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :https://stackoverflow.com/a/231807
+2015-01-26 03:01:38--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :is that a C thing
+2015-01-26 03:01:51--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :cause i tried int_t on c++ and it didnt recognize it
+2015-01-26 03:02:19--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :i dont think int_t is a thing
+2015-01-26 03:02:22--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :but i might be wrong
+2015-01-26 03:02:27--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :its not just a c thing
+2015-01-26 03:02:29--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :but it started there
+2015-01-26 03:04:58--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :so why is there int8_t
+2015-01-26 03:05:01--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :but no int_t
+2015-01-26 03:05:09--:thrrwfls!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :beats me
+2015-01-26 03:05:25--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :obama is a lizard iloominatee 666
+2015-01-26 03:05:34--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :anarchy
+2015-01-26 03:06:43--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :im tired. thats why.
+2015-01-26 03:08:50--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :going to bed goodnight
+2015-01-26 03:08:53--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com QUIT :Quit: Page closed
+2015-01-26 03:21:02--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That kid
+2015-01-26 03:21:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Oi.
+2015-01-26 03:21:20--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Wants to be a rockstar programmer but doesn't want to learn anything
+2015-01-26 03:22:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I have to learn Javascript, node, and Angular for my job.  Ugh
+2015-01-26 03:37:46--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-26 03:37:46--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Damien_Desk
+2015-01-26 03:42:37--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net QUIT :Ping timeout
+2015-01-26 03:45:42--:cppStudent!webchat@130.108.200.65 JOIN #BeginnersProgramming
+2015-01-26 03:45:42--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v cppStudent
+2015-01-26 03:46:35--:cppStudent!webchat@130.108.200.65 PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-26 03:49:56--:cppStudent!webchat@130.108.200.65 PRIVMSG #BeginnersProgramming :I need some help on a project I am working on. I have to create a chararray class and I have to create an chararrayarray class. I am having trouble creating an array of references to the chararray class. I tried doing CharArray** m_chararray; then in the constructor, chararray = new CharArray*[100]; but that doesn't work
+2015-01-26 03:59:53--:cppStudent!webchat@130.108.200.65 QUIT :Quit: Page closed
+2015-01-26 08:36:55--:ayush!webchat@123.63.13.117 JOIN #BeginnersProgramming
+2015-01-26 08:36:56--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v ayush
+2015-01-26 08:37:21--:ayush!webchat@123.63.13.117 PRIVMSG #BeginnersProgramming :i have a question in c++ can i ask it
+2015-01-26 08:38:03--:ayush!webchat@123.63.13.117 QUIT :Quit: Page closed
+2015-01-26 09:47:55--:uzair!webchat@202.69.12.26 JOIN #BeginnersProgramming
+2015-01-26 09:47:55--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v uzair
+2015-01-26 09:48:22--:uzair!webchat@202.69.12.26 PRIVMSG #BeginnersProgramming :i have some questions regarding c++
+2015-01-26 09:49:29--:uzair!webchat@202.69.12.26 PRIVMSG #BeginnersProgramming :is there anyone who can help me out out
+2015-01-26 09:50:08--:uzair!webchat@202.69.12.26 QUIT :Quit: Page closed
+2015-01-26 14:05:01--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net JOIN #BeginnersProgramming
+2015-01-26 14:05:01--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Damien_Work
+2015-01-26 17:14:12--:Damien_Work!~Damien@50-198-116-221-static.hfc.comcastbusiness.net QUIT :Ping timeout
+2015-01-26 20:41:58--:MSDN_Please!webchat@cpc15-dund13-2-0-cust788.16-4.cable.virginm.net JOIN #BeginnersProgramming
+2015-01-26 20:41:58--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v MSDN_Please
+2015-01-26 20:42:17--:MSDN_Please!webchat@cpc15-dund13-2-0-cust788.16-4.cable.virginm.net PRIVMSG #BeginnersProgramming :Hello ? Anyone helping a crying lil' child ?
+2015-01-26 20:45:16--:MSDN_Please!webchat@cpc15-dund13-2-0-cust788.16-4.cable.virginm.net QUIT :Ping timeout
+2015-01-26 22:42:13--:yoro!webchat@148.166.41.230 JOIN #BeginnersProgramming
+2015-01-26 22:42:14--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v yoro
+2015-01-26 22:42:28--:yoro!webchat@148.166.41.230 PRIVMSG #BeginnersProgramming :hello
+2015-01-26 22:42:47--:yoro!webchat@148.166.41.230 QUIT :Quit: Page closed
+2015-01-27 02:22:33--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com JOIN #BeginnersProgramming
+2015-01-27 02:22:33--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v HiiddeN
+2015-01-27 02:22:41--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :Damien_Desk
+2015-01-27 02:23:13--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :SO. A *object uses object->doStuff() rather than object.doStuff().
+2015-01-27 02:23:55--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :!seen thrrwfls
+2015-01-27 02:24:03--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :!seen Damien_Desk
+2015-01-27 02:24:11--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :Shit.
+2015-01-27 02:24:42--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Ohai
+2015-01-27 02:24:45--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :YAYAYAY
+2015-01-27 02:25:02--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :SO. A *object uses object->doStuff() rather than object.doStuff().
+2015-01-27 02:25:18--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :and you also have to do destroy object;
+2015-01-27 02:26:17--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com PRIVMSG #BeginnersProgramming :anything else?
+2015-01-27 02:28:30--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Well, you don't need to destroy it explicitly.
+2015-01-27 02:28:45--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It should have a destructor, unless it uses heap memory it shouldn't need a delete for anything.
+2015-01-27 02:29:33--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You can call free if you're super paranoid about memory or REALLY don't need the object to get back some memory, but in general unless you did something dumb or allocated from the stack you don't need to explicitly delete shit
+2015-01-27 02:35:08--:gdg!webchat@cpe-67-248-122-57.nycap.res.rr.com JOIN #BeginnersProgramming
+2015-01-27 02:35:08--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v gdg
+2015-01-27 02:37:08--:gdg!webchat@cpe-67-248-122-57.nycap.res.rr.com QUIT :Ping timeout
+2015-01-27 02:40:17--:HiiddeN!webchat@cpe-65-189-211-126.neo.res.rr.com QUIT :Ping timeout
+2015-01-27 07:41:54--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Sleeping, back in 6 hours or so
+2015-01-27 07:41:59--:Damien_Desk!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net NICK :DemonSkye
+2015-01-27 07:42:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Sleeping, back in 6 hours or so
+2015-01-27 12:31:43--:Mike_!webchat@host-85-30-181-108.sydskane.nu JOIN #BeginnersProgramming
+2015-01-27 12:31:43--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Mike_
+2015-01-27 12:31:46--:Mike_!webchat@host-85-30-181-108.sydskane.nu PRIVMSG #BeginnersProgramming :Hi
+2015-01-27 12:32:04--:Mike_!webchat@host-85-30-181-108.sydskane.nu PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 005 Prog-Bot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 005 Prog-Bot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 251 Prog-Bot :There are 25 users and 50068 invisible on 40 servers
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 252 Prog-Bot 65 :operator(s) online
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 253 Prog-Bot 5 :unknown connection(s)
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 254 Prog-Bot 27756 :channels formed
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 255 Prog-Bot :I have 6433 clients and 1 servers
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org NOTICE Prog-Bot :Highest connection count: 7347 (7346 clients)
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 422 Prog-Bot :MOTD File is missing
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org NOTICE Prog-Bot :on 2 ca 1(4) ft 20(20)
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 221 Prog-Bot +i
+2015-01-27 17:38:24--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net MODE Prog-Bot +i
+2015-01-27 17:38:24--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 332 Prog-Bot #BeginnersProgramming :Welcome to Beginners Programming, don't ask to ask your question, just ask it.  All Code Goes on ideone.com, or pastebin, violating this rule will result in a lifetime ban.
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 333 Prog-Bot #BeginnersProgramming DemonSkye 1419840522
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 353 Prog-Bot @ #BeginnersProgramming :Prog-Bot @DemonSkye +Mike_ +thrrwfls @Q
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 366 Prog-Bot #BeginnersProgramming :End of /NAMES list.
+2015-01-27 17:38:24--:blacklotus.ca.us.quakenet.org 404 Prog-Bot #BeginnersProgramming :Cannot send to channel
+2015-01-27 17:38:25--:Prog-Bot!~Prog-Bot@pool-108-20-26-37.bstnma.fios.verizon.net JOIN #testing1234
+2015-01-27 17:38:25--:blacklotus.ca.us.quakenet.org 353 Prog-Bot = #testing1234 :@Prog-Bot
+2015-01-27 17:38:25--:blacklotus.ca.us.quakenet.org 366 Prog-Bot #testing1234 :End of /NAMES list.
+2015-01-27 17:38:25--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Prog-Bot
+2015-01-27 17:38:50--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-27 17:38:51--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +o Prog-Bot
+2015-01-27 17:38:51--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :You are now logged in as Prog-Bot.
+2015-01-27 17:38:51--:Q!TheQBot@CServe.quakenet.org NOTICE Prog-Bot :Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+2015-01-27 17:38:57--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Brrrrr
+2015-01-27 17:40:42--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net JOIN #BeginnersProgramming
+2015-01-27 17:40:43--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v DaneHughes
+2015-01-27 17:41:30--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Need help with finding frequency of characters from an array
+2015-01-27 17:41:39--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Okay, that's not hard
+2015-01-27 17:42:19--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Well, no its not. Im having problems finding the HIGHEST frequency
+2015-01-27 17:42:27--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :would u like to see my function?
+2015-01-27 17:42:33--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Sure.
+2015-01-27 17:42:34--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!rules
+2015-01-27 17:43:56--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :OK, so on ideone.com, do i post my full code?
+2015-01-27 17:44:50--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Ok so here is my code: http://ideone.com/epTBu8
+2015-01-27 17:45:43--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Im having my problems with the frequency function, as you can see I am able to print out all frequencies above 1, but what I'd like to do is print only the highest frequency
+2015-01-27 17:47:27--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :1 minute phone call.
+2015-01-27 17:47:55--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :No, problem take your time
+2015-01-27 17:48:23--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Sorry, daily meeting from 12:45p - 1p.   Zzzzzz
+2015-01-27 17:49:41--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Ok, Ill check back here at 1.
+2015-01-27 17:50:53--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Sure thing
+2015-01-27 17:58:42--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Okay, I'm back
+2015-01-27 17:58:46--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So.... let's see.
+2015-01-27 17:59:15--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Ok im here
+2015-01-27 17:59:38--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :I accidently posted my code under Java, I am using C++
+2015-01-27 17:59:51--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Okay so.   Let me ask you 3 questions:  1. Do you know how to debug.  2. Do you want to learn to debug.  3. Do you want me to just tell you what's wrong?
+2015-01-27 18:00:34--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :I know how to deBug using Visual Studio, and yes I'd like to know what im doing wrong
+2015-01-27 18:01:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Well, you didn't see it when you debugged?
+2015-01-27 18:01:24--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :The program runs great with no errors.... theres nothing to debug
+2015-01-27 18:02:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The program runs, but then hangs for me.
+2015-01-27 18:02:33--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It asks me for letters, I put them in, then it does nothing.
+2015-01-27 18:02:41--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :hmm thats odd, well can you help me out just looking at my syntax?
+2015-01-27 18:03:30--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Well, are you just trying to do the frequency thing?
+2015-01-27 18:04:14--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Yes, everything else is working great
+2015-01-27 18:04:25--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-27 18:04:25--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v kylevladimir
+2015-01-27 18:04:34--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-01-27 18:04:42--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :hey demon
+2015-01-27 18:05:07--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hey there Kylev
+2015-01-27 18:05:59--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :so i'm taking cps 2 now and we're learning java, i know this is C++ but are you familiar with eclipse? you're my last option of a solution lol
+2015-01-27 18:06:08--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Dane:  So in that function, you're not sorting values after you're done.
+2015-01-27 18:06:58--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You should do a bubble sort again, but this time you should have an additional variable.
+2015-01-27 18:07:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :maxChar.   You set maxChar when it exceeds the size of the existing max character.  
+2015-01-27 18:07:45--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :If you want you can make it a char array for when 2 are tied.
+2015-01-27 18:08:15--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :by maxChar do you mean maxCount?
+2015-01-27 18:08:17--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :But you assign the maxChar to the maximum frequency, then you simply bubble sort the numbers and only display the cop.
+2015-01-27 18:08:19--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :top*
+2015-01-27 18:08:26--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :No.  
+2015-01-27 18:08:37--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I mean maxChar, the value of the letter that appears most
+2015-01-27 18:08:39--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Example.
+2015-01-27 18:08:42--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :xxxl
+2015-01-27 18:08:50--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :yes. x. i know
+2015-01-27 18:08:55--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Right.
+2015-01-27 18:09:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Oh wait, you don't even need an array to bubble sort since you have maxCount.
+2015-01-27 18:09:26--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Perfect.
+2015-01-27 18:09:51--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :So when I run this for example say I enter: This class will be great!#
+2015-01-27 18:10:10--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :it will prin tout this:
+2015-01-27 18:10:24--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :i   occurs  2 times l     3 s     3
+2015-01-27 18:10:31--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :disregard that sry
+2015-01-27 18:10:39--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :i occurs 2 times
+2015-01-27 18:10:46--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :s occurs 3 times
+2015-01-27 18:10:53--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :l occurs 3 times
+2015-01-27 18:11:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yeah. Of course it does
+2015-01-27 18:11:06--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Your if statement is inside a loop
+2015-01-27 18:11:41--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :And you're not comparing maxcount to anything
+2015-01-27 18:11:45--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :yes , if i do it out side the loop mxCOunt is no londer 3 it goes back to the initial value I assigned it which was 1
+2015-01-27 18:12:03--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Right, because you need 2 variables.
+2015-01-27 18:12:25--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :would the second variable be (maxCount-1)?
+2015-01-27 18:12:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You need maxCount and temp, then maxChar and tempChar.  if temp > maxCount {maxCount = temp; maxChar = tempChar;}  
+2015-01-27 18:14:42--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :hmm ok let me try this out really quick, I will get back to you soon
+2015-01-27 18:14:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :1 min, coding an example
+2015-01-27 18:15:07--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :copy.
+2015-01-27 18:16:41--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :!rules
+2015-01-27 18:20:58--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net QUIT :Quit: Page closed
+2015-01-27 18:21:11--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net JOIN #BeginnersProgramming
+2015-01-27 18:21:11--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v kylevladimir
+2015-01-27 18:21:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Welcome back
+2015-01-27 18:22:09--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :thanks, so i'm in cps 2 now, and i'm learning java, i know this is c
+2015-01-27 18:22:19--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :++ but are you familiar with eclipse?
+2015-01-27 18:22:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :This is C and java.
+2015-01-27 18:22:26--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :C++ and Java
+2015-01-27 18:22:33--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :awesome.
+2015-01-27 18:22:34--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The web bot you used is coded in java by me
+2015-01-27 18:22:36--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!weather
+2015-01-27 18:22:51--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :haha that's awesome
+2015-01-27 18:22:55--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Try it out
+2015-01-27 18:23:11--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :!help
+2015-01-27 18:23:24--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :!wiki
+2015-01-27 18:23:32--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :!wiki Russia
+2015-01-27 18:23:34--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Try doing weather or temp
+2015-01-27 18:23:39--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-27 18:23:52--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :that's so sick.
+2015-01-27 18:24:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I do good work.
+2015-01-27 18:24:07--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-27 18:24:13--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :that is awesome!
+2015-01-27 18:24:33--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :seems like were all affected by this "blizzard"
+2015-01-27 18:24:35--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's not super-complex code, but it took me a few hours.
+2015-01-27 18:24:46--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Indeed.  My state is getting the worst of it.
+2015-01-27 18:25:15--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Yes, we were supposed to get 24in+ but only got about 8
+2015-01-27 18:25:45--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :ok, so here's a monkey wrench for your knowledge. I'm working on a TowerDefense program from youtube, and i'm on the second tutorial setting up the code. All its supposed to do is pop out a window and keep it there until closed.
+2015-01-27 18:25:49--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :There's a few places that got hit hard, but yeah, I think I'm at about 12-14 inches.
+2015-01-27 18:26:12--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :there's no error in my code, but when i click "Run", nothing happens.
+2015-01-27 18:26:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Kylev:  Youtube tutorials suck.  They get outdated too quickly.
+2015-01-27 18:26:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Are you showing your jpanel?
+2015-01-27 18:26:47--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :i'm not a good learner by reading though :/ and what's a jpanel?
+2015-01-27 18:27:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :^ See, that's kind of the issue.
+2015-01-27 18:27:01--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :i need like someone showing me what to do lol
+2015-01-27 18:27:15--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :hands on type
+2015-01-27 18:27:40--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Do you have the line in there that says jFrame.setVisible(true);?
+2015-01-27 18:29:24--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :demon, is there anyway to keep a count variable at its highest count for use out side of the loop?
+2015-01-27 18:29:50--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt JOIN #BeginnersProgramming
+2015-01-27 18:29:50--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v LithuanianBegg
+2015-01-27 18:29:53--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :Hello guys
+2015-01-27 18:29:57--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hey there
+2015-01-27 18:29:59--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :Can anyone help me?
+2015-01-27 18:30:04--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :I have a huge problem
+2015-01-27 18:30:08--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :Well for me it's huge
+2015-01-27 18:30:09--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Dane: I'm coding that now
+2015-01-27 18:30:19--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Sure, I can maybe help.  Helping 2 others at the moment :)
+2015-01-27 18:30:37--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :sorry demon take your time.
+2015-01-27 18:30:50--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's all good.  Snow day, lol.
+2015-01-27 18:30:53--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :ight, should I write here, or do you have any other way to connect to you?
+2015-01-27 18:31:25--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :!rules
+2015-01-27 18:32:02--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Lithuanian you may ask your questions here
+2015-01-27 18:32:11--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :no i do not have that line but where should i put it?
+2015-01-27 18:33:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Dane:  http://ideone.com/P5R5CA
+2015-01-27 18:34:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Kyle:  Depends on how your code is structured.
+2015-01-27 18:34:23--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It should be with your jFrame code after you define it all.
+2015-01-27 18:35:17--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Thank you Demon, let me run this and study it. Ill get back to you shortly
+2015-01-27 18:38:35--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :LithuanianBegg:  You can ask in here
+2015-01-27 18:38:50--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :so i realized what the problem was, i didn't initiate the class in the main() method. but now that i did, i got a "Exception in thread "main" java.lang.UnsatisfiedLinkError: no lwjgl64 in java.library.path" in the console part.
+2015-01-27 18:39:42--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm guessing you skipped something in the setup part of the tutorial
+2015-01-27 18:40:03--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Demon, when I type in Thisclasswillbefun, it says 's' appears 7 times, when there is only 3
+2015-01-27 18:40:34--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That's really weird, 1 min Dane...
+2015-01-27 18:43:20--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Got it... my bad
+2015-01-27 18:43:25--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Forgot to reset the value
+2015-01-27 18:43:43--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://ideone.com/STEgyu
+2015-01-27 18:45:11--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Ah yes that should be it lol
+2015-01-27 18:45:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That does NOT handle cases where 2 values are tied.
+2015-01-27 18:46:17--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :If you wanted to do that, you could change maxChar to a char array and use strcat
+2015-01-27 18:46:37--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :lol funny I had just realized that and was going to ask you
+2015-01-27 18:46:55--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :YOU ARE THE MAN. i didn't set up one of the library locations right. THANKS SO MUCH. if you wanna play LoL sometime again, let me know.
+2015-01-27 18:46:55--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :ok i will try using an array
+2015-01-27 18:47:08--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Kylev:  Sure, we can make that happen sometime
+2015-01-27 18:47:20--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :http://pastebin.com/mSipJxY0 help me with this
+2015-01-27 18:47:22--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming ::c
+2015-01-27 18:47:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :In the mean time, if anyone is interested:  My pizza fund is running dry
+2015-01-27 18:47:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!donate
+2015-01-27 18:47:34--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lithuanian: Sure let me look
+2015-01-27 18:47:37--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :you got a steam account?
+2015-01-27 18:47:47--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yup.  
+2015-01-27 18:47:49--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :I'm really a begginer
+2015-01-27 18:49:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Kylev:  76561198019567683
+2015-01-27 18:50:15--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lithuanian:  I don't see what you've done here.
+2015-01-27 18:50:23--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I know how to solve that... but have you tried?
+2015-01-27 18:50:28--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :my display name is VovA, and those numbers are not it lol
+2015-01-27 18:51:16--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :yes
+2015-01-27 18:51:28--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :But I have no idea how does loop for works
+2015-01-27 18:51:31--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Kylev:  steamcommunity.com/profiles/76561198019567683/ 
+2015-01-27 18:51:35--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :I haven't been in school for a while
+2015-01-27 18:51:43--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl JOIN #BeginnersProgramming
+2015-01-27 18:51:44--:Q!TheQBot@CServe.quakenet.org MODE #BeginnersProgramming +v Mike1990
+2015-01-27 18:51:48--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :Hello
+2015-01-27 18:51:53--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :Hello :p
+2015-01-27 18:51:53--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hey Mike
+2015-01-27 18:52:01--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :I'm trying to sort a dynamic array.
+2015-01-27 18:52:11--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :int* E = new int[m];
+2015-01-27 18:52:16--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :by
+2015-01-27 18:52:19--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :using sort(E, E+m);
+2015-01-27 18:52:23--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :and I get an error
+2015-01-27 18:52:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lithuanian:  http://beginnerscpp.com/lesson-9-for-while-loop/
+2015-01-27 18:52:46--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming : invalid conversion from 'int*' to 'int' [-fpermissive]
+2015-01-27 18:53:09--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :But I still have no time, I have to submit it to my teacher in 1 hour, can you help me? :c
+2015-01-27 18:53:17--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :I'll learn it later cause I'll need but
+2015-01-27 18:54:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lithuanian, I can't right now.  You should have come earlier.
+2015-01-27 18:54:34--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :I have no idea what to do with that... Any ideas anyone? Perhaps you DemonSkye?
+2015-01-27 18:54:35--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming ::/
+2015-01-27 18:54:49--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Mike:  Is m the size of the array?
+2015-01-27 18:54:57--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :yes, it is
+2015-01-27 18:55:03--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :LithuanianBegg:  If you have specific questions, ask them
+2015-01-27 18:55:17--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :But if you are just looking for a handout, I can't really help you with that right now.
+2015-01-27 18:56:09--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Mike, let me test something
+2015-01-27 18:56:25--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :awesome, I sent you a request. I'll pretty much be on my laptop all day working on this program
+2015-01-27 18:56:33--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :I've tried various things like 	sort(E, *E+m); 
+2015-01-27 18:56:41--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :but then I just get a different error
+2015-01-27 18:56:55--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :expression list treated as compound expression in initializer [-fpermissive]
+2015-01-27 18:57:01--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt PRIVMSG #BeginnersProgramming :Demon, do you know any else who could make it for me?
+2015-01-27 18:57:02--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :Thanks for taking the time DemonSkye
+2015-01-27 18:57:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lithuanian:  I will for $100 / hour, which is my rate for custom programming.
+2015-01-27 18:57:41--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Mike:  No worries, let me test a little more :)
+2015-01-27 18:58:33--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :one more question, what is the "gl" mean in something like: glMatrixMode(); glLoadIdentity(); glOrtho;
+2015-01-27 18:59:05--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's part of OpenGL, 
+2015-01-27 18:59:27--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :game library. duh lol
+2015-01-27 18:59:40--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :and what exactly is OpenGL?
+2015-01-27 19:00:02--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!wiki OpenGL
+2015-01-27 19:00:03--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :its a graphic library
+2015-01-27 19:00:20--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hey Mike, can you try doing....
+2015-01-27 19:00:21--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :OpenGl is a rendering tool I believe
+2015-01-27 19:00:44--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :int start = *E+0;  int end = *E+m;
+2015-01-27 19:00:49--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :sort(start, end);
+2015-01-27 19:00:53--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :ex: Minecraft uses OpenGl because its always rendering something
+2015-01-27 19:02:08--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Demon, Im having a hard time making this function work with array's, I am not familiar with strcat
+2015-01-27 19:02:23--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Strcat just adds to the end of the array.
+2015-01-27 19:02:45--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :On a related note, C-strings suck ass, use C++ strings.
+2015-01-27 19:03:17--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Tl:Dr:  strcat( arrayName, stringName );
+2015-01-27 19:03:25--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://www.cplusplus.com/reference/cstring/strcat/
+2015-01-27 19:03:42--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :Oh my god. I forgot a simple ; before. I'm blind. Sorry for taking your time DemonSkye. My bad, thanks for the help !
+2015-01-27 19:03:54--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Lol it's okay
+2015-01-27 19:04:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Did you try the method I mentioned?
+2015-01-27 19:04:21--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I think it might work since *e+0 would be beginning / +m would be end .
+2015-01-27 19:04:27--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That would act as a shitty iterator
+2015-01-27 19:05:28--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :Im afraid i may lose points if I use something i've never been taught
+2015-01-27 19:05:33--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-27 19:05:34--:Mike1990!webchat@178-36-131-44.adsl.inetia.pl PRIVMSG #BeginnersProgramming :I put it in and then I've noticed my mistake.
+2015-01-27 19:05:48--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :And.... it keeps getting colder...
+2015-01-27 19:05:58--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :!temp
+2015-01-27 19:06:19--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!seen kylevladimir
+2015-01-27 19:06:59--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :demon, if im using an array there should be no need for a temp char right?
+2015-01-27 19:07:00--:LithuanianBegg!webchat@ip-77-221-72-79.kava.lt QUIT :Ping timeout
+2015-01-27 19:07:05--:DaneHughes!webchat@ool-18ba86f9.dyn.optonline.net PRIVMSG #BeginnersProgramming :just one char array to store them all
+2015-01-27 19:07:53--:kylevladimir!webchat@pool-100-40-156-144.pghkny.fios.verizon.net PRIVMSG #BeginnersProgramming :hey demon, have you ever made a game? jw

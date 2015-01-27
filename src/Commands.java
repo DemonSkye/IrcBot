@@ -83,6 +83,21 @@ public class Commands {
             System.out.println(globalFunctions.timeStamp() + "--PRIVMSG " + channel + "Help:  Available commands are: " + globalFunctions.getCommandList() + "\r\n");
         }
 
+        //Help Command
+        if (command.toLowerCase().startsWith("rules")) {
+            globalFunctions.writeMsg(ircBot, channel, "Rules:  The rules are:  1. No code in the channel.  All code gets posted to ideone.com or pastebin.com.   All images go to" +
+                    "imgur.com or another image host.  2. No swearing at helpers.  3. No being impatient.  FIFO rules in here.\r\n");
+            System.out.println(globalFunctions.timeStamp() + "--PRIVMSG " + channel + "Rules:  The rules are:  1. No code in the channel.  All code gets posted to ideone.com or pastebin.com.   All images go to\" +\n" +
+                    "imgur.com or another image host.  2. No swearing at helpers.  3. No being impatient.  FIFO rules in here.\r\n");
+        }
+
+        //BotProject
+        if (command.equalsIgnoreCase("botproj") || command.equalsIgnoreCase("BotProject")) {
+            globalFunctions.writeMsg(ircBot, channel, "Bot Project is available here: https://github.com/DemonSkye/IrcBot/tree/master/src\r\n");
+            System.out.println(globalFunctions.timeStamp() + "--PRIVMSG " + channel + "Bot Project is available here: https://github.com/DemonSkye/IrcBot/tree/master/src\n" +
+                    "\"\r\n");
+        }
+
 
 
         //Admin Commands
