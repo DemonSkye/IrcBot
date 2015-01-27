@@ -94,8 +94,7 @@ public class Commands {
         //BotProject
         if (command.equalsIgnoreCase("botproj") || command.equalsIgnoreCase("BotProject")) {
             globalFunctions.writeMsg(ircBot, channel, "Bot Project is available here: https://github.com/DemonSkye/IrcBot/tree/master/src\r\n");
-            System.out.println(globalFunctions.timeStamp() + "--PRIVMSG " + channel + "Bot Project is available here: https://github.com/DemonSkye/IrcBot/tree/master/src\n" +
-                    "\"\r\n");
+            System.out.println(globalFunctions.timeStamp() + "--PRIVMSG " + channel + "Bot Project is available here: https://github.com/DemonSkye/IrcBot/tree/master/src\n");
         }
 
 
