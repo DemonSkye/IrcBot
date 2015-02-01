@@ -1,6 +1,7 @@
 public class Commands {
     public static void handleCommands(String command, ircBot ircBot, String channel, boolean isAdmin) throws Exception {
         if(command.startsWith("!") || command.toLowerCase().contains(":!weather") || command.toLowerCase().contains(":!temp")){
+            System.out.println("Command, pre chop: " + command);
             command = command.substring(1,command.length());
             bangCommands(command, ircBot, channel, isAdmin);
         }
@@ -18,6 +19,18 @@ public class Commands {
             command = command.trim();
             command = command.replace(" ", "_");
             globalFunctions.writeMsg(ircBot, channel, "http://en.wikipedia.org/wiki/" + command + "\r\n");
+        }
+
+        if (command.toLowerCase().startsWith("swwiki")) {
+            if (command.length() < 6) {
+                globalFunctions.writeMsg(ircBot, channel, "The correct usage for this command is !swwiki <article>, example: !swwiki China\r\n");
+                return;
+            }
+            command = command.substring(6, command.length());
+            command = command.trim();
+            command = command.replace(" ", "-");
+
+            globalFunctions.writeMsg(ircBot, channel, "http://summonerswarskyarena.info/" + command + "\r\n");
         }
 
 

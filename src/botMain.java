@@ -27,7 +27,7 @@ public class botMain {
                 // Keep reading lines from the server.
                 while ((line = ircBot.getReader().readLine()) != null) {
                     PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ircLogs.txt", true)));
-                    if (!line.toLowerCase().startsWith("ping")) {
+                    if (!line.toLowerCase().startsWith("ping") && line.contains("PRIVMSG ") && line.contains("!")) {
                         out.println(globalFunctions.timeStamp() + "--" + line);
                     }
 

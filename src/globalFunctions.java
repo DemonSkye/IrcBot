@@ -90,7 +90,17 @@ public class globalFunctions {
 
 
         //
-        String currentConditions = getWeather(userCity, userState);
+        String currentConditions = "";
+        if (userCity != null && userState != null) {
+            currentConditions = getWeather(userCity, userState);
+        }
+        if (userState == null && userCity != null) {
+            currentConditions = getWeather(userCity, userCountry);
+        }
+        if (userCity == null && userState == null) {
+            writeMsg(ircBot, channel, "Could not get weather for your region");
+            return;
+        }
 
         int cw = currentConditions.indexOf("weather=");
         String currentWeather = currentConditions.substring(cw, currentConditions.length());
@@ -163,15 +173,16 @@ public class globalFunctions {
 
     //Logscrape will dig through the logs and search for a username as part of the !Seen function
     public static String logScrape(String userName, String channel, ircBot ircBot) {
+        System.out.println("First Check In Function:" + userName);
         if (userName.length() < 6) {
             return "The seen command requires a username after it, example: !seen DemonSkye";
         }
         userName = userName.substring(5, userName.length());
+        userName = userName.trim();
         String logUserName = ":" + userName + "!";
         String lastSaid="";
         String userFoundTime = "";
         try {
-            PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ircLogs.txt", true)));
             BufferedReader br = new BufferedReader(new FileReader("ircLogs.txt"));
             String line;
             while ((line = br.readLine()) != null) {
@@ -185,18 +196,26 @@ public class globalFunctions {
                 }
             }
             br.close();
+            if (lastSaid == "" && userFoundTime == "") {
+                lastSaid = "User has not chatted in this channel since I started keeping logs";
+                return lastSaid;
+            }
+            /*System.out.println("LastSaid: " + lastSaid);
+            System.out.println("LastSaid Time: " + userFoundTime);*/
+
             writeMsg(ircBot, channel, "The last message sent from that user was: " + lastSaid + " -- \r\n");
         }catch (IOException ioe){ ioe.printStackTrace(); }
 
-        userFoundTime = compareTime(userFoundTime, userName);
+        userFoundTime = compareTime(userFoundTime);
 
         return userFoundTime;
     }
-    public static String compareTime(String lastSeen, String userName){
+
+    public static String compareTime(String lastSeen) {
         DateTime lastOnline = new DateTime(lastSeen);
         DateTime now = DateTime.now(TimeZone.getTimeZone("UTC"));
-/*        System.out.println(lastOnline.getMilliseconds(TimeZone.getTimeZone("UTC")));
-        System.out.println(now.getMilliseconds(TimeZone.getTimeZone("UTC")));*/
+        System.out.println("LastOnline time: " + lastOnline.getMilliseconds(TimeZone.getTimeZone("UTC")));
+        System.out.println("Now time: " + now.getMilliseconds(TimeZone.getTimeZone("UTC")));
 
         long lastSeenInMilli = now.getMilliseconds(TimeZone.getTimeZone("UTC")) - lastOnline.getMilliseconds(TimeZone.getTimeZone("UTC"));
         long MILLIS_IN_SECOND = 1000, SECONDS_IN_MINUTE = 60, MINUTES_IN_HOUR = 60, HOURS_IN_DAY = 24, DAYS_IN_YEAR = 365,
@@ -237,7 +256,9 @@ public class globalFunctions {
         if(daysSinceLast >=1){lastSeen += daysSinceLast.toString(); lastSeen+= " day"; lastSeen+=pluralize(daysSinceLast); lastSeen +=", ";}
         if(hoursSinceLast >=1){lastSeen += hoursSinceLast.toString(); lastSeen+= " hour"; lastSeen+=pluralize(hoursSinceLast); lastSeen +=", ";}
         if(minutesSinceLast >=1){lastSeen += minutesSinceLast.toString(); lastSeen+= " minute"; lastSeen+=pluralize(minutesSinceLast); lastSeen +=", ";}
-        if(secondsSinceLast >=1){lastSeen += secondsSinceLast.toString(); lastSeen+= " second"; lastSeen+=pluralize(secondsSinceLast); lastSeen +=" ago.";}
+        lastSeen += secondsSinceLast.toString();
+        lastSeen += " seconds";
+        lastSeen += " ago.";
 
         return lastSeen;
     }

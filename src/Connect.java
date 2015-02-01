@@ -37,7 +37,7 @@ public class Connect {
                 writer.write("JOIN " + channels[i] + "\r\n");
                 writer.flush();
                 Thread.sleep(300);
-                writer.write("PRIVMSG " + channels[i] + " :<Java IRC BOT V.0.0.3 --Online> \r\n");
+                //writer.write("PRIVMSG " + channels[i] + " :<Java IRC BOT V.0.0.3 --Online> \r\n");
                 writer.flush();
             }
 
