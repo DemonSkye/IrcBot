@@ -1,7 +1,3 @@
-/**
- * Created by Damien on 1/15/2015.
- */
-
 //https://github.com/FasterXML/jackson-core/wiki -- Json Parser, or on MVC
 
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -71,8 +67,8 @@ public class globalFunctions {
         //Assign values returned by function
 
         //System.out.println(ipLocation); //diagnostic
-        String userCity = "";
-        String userState= "";
+        String userCity;
+        String userState;
         try {
             userCity = ipLocation.get("city").toString();
             userState = ipLocation.get("region").toString();
@@ -139,8 +135,7 @@ public class globalFunctions {
 
         try {
             ObjectMapper mapper = new ObjectMapper();
-            Map<String, Object> ipLocation = mapper.readValue(in, Map.class);
-            return ipLocation;
+            return mapper.readValue(in, Map.class);
         }catch(IOException ioe){ioe.printStackTrace(); }
 
         //Debug values
@@ -164,8 +159,7 @@ public class globalFunctions {
             Map<String, Object> userWeather = mapper.readValue(in, Map.class);
 
             //To fix later
-            String currentConditions = userWeather.get("current_observation").toString();
-            return currentConditions;
+            return userWeather.get("current_observation").toString();
         } catch(IOException ioe) { ioe.printStackTrace(); }
         return null;
     }

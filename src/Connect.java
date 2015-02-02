@@ -4,7 +4,7 @@
 import java.io.*;
 import java.lang.Thread;
 public class Connect {
-    public static void Connect(BufferedReader reader, BufferedWriter writer, String channels[]) {
+    public static void Connection(BufferedReader reader, BufferedWriter writer, String channels[]) {
         // The server to connect to and our details.
         String nick = "Prog-Bot";
         String login = "Prog-Bot";
@@ -24,17 +24,17 @@ public class Connect {
                     writer.write("PONG " + line.substring(5) + "\r\n");
                     writer.flush();
                 }
-                if (line.indexOf("004") >= 0) {
+                if (line.contains("004")) {
                     // We are now logged in.
                     break;
-                } else if (line.indexOf("433") >= 0) {
+                } else if (line.contains("433")) {
                     System.out.println("Nickname is already in use.");
                     return;
                 }
             }
             // Join the channel.
-            for (int i = 0; i < channels.length; i++) {
-                writer.write("JOIN " + channels[i] + "\r\n");
+            for (String ss : channels) {
+                writer.write("JOIN " + ss + "\r\n");
                 writer.flush();
                 Thread.sleep(300);
                 //writer.write("PRIVMSG " + channels[i] + " :<Java IRC BOT V.0.0.3 --Online> \r\n");

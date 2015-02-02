@@ -21,7 +21,7 @@ public class botMain {
 
             String line;
             boolean isAdmin = false;
-            Connect.Connect(ircBot.getReader(), ircBot.getWriter(), channels);
+            Connect.Connection(ircBot.getReader(), ircBot.getWriter(), channels);
 
             try {
                 // Keep reading lines from the server.
