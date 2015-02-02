@@ -1,6 +1,3 @@
-/**
- * Created by Damien on 1/15/2015.
- */
 import java.io.*;
 import java.lang.Thread;
 public class Connect {
@@ -16,7 +13,7 @@ public class Connect {
             writer.flush();
 
             // Read lines from the server until it tells us we have connected.
-            String line = null;
+            String line;
             while ((line = reader.readLine()) != null) {
                 System.out.println(line);
                 if (line.toLowerCase().contains("ping")) {
