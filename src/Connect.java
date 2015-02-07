@@ -1,11 +1,12 @@
 import java.io.*;
 import java.lang.Thread;
 public class Connect {
-    public static void Connection(BufferedReader reader, BufferedWriter writer, String channels[]) {
+    public static void Connection(ircBot ircBot, BufferedWriter writer, String channels[]) {
         // The server to connect to and our details.
         String nick = "Prog-Bot";
         String login = "Prog-Bot";
 
+        ircBot.setUserName(nick);
         // Log on to the server.
         try {
             writer.write("NICK " + nick + "\r\n");
@@ -14,12 +15,19 @@ public class Connect {
 
             // Read lines from the server until it tells us we have connected.
             String line;
-            while ((line = reader.readLine()) != null) {
+            while ((line = ircBot.getReader().readLine()) != null) {
                 System.out.println(line);
                 if (line.toLowerCase().contains("ping")) {
                     // We must respond to PINGs to avoid being disconnected.
                     writer.write("PONG " + line.substring(5) + "\r\n");
                     writer.flush();
+                }
+                //Set the host
+                if (line.contains("001")) {
+                    int hostName = line.indexOf(":");
+                    int hostName2 = line.indexOf("001");
+                    System.out.println("IRCBOT SERVERHOST: " + line.substring(hostName, hostName2 - 1));
+                    ircBot.setServerHost(line.substring(hostName, hostName2 - 1));
                 }
                 if (line.contains("004")) {
                     // We are now logged in.

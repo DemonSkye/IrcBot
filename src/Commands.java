@@ -23,7 +23,7 @@ public class Commands {
 
         if (command.toLowerCase().startsWith("swwiki")) {
             if (command.length() < 6) {
-                globalFunctions.writeMsg(ircBot, channel, "The correct usage for this command is !swwiki <article>, example: !swwiki China\r\n");
+                globalFunctions.writeMsg(ircBot, channel, "The correct usage for this command is !swwiki <article>, example: !swwiki Magic Archer\r\n");
                 return;
             }
             command = command.substring(6, command.length());
@@ -32,7 +32,6 @@ public class Commands {
 
             globalFunctions.writeMsg(ircBot, channel, "http://summonerswarskyarena.info/" + command + "\r\n");
         }
-
 
 
         if (command.toLowerCase().startsWith("seen")) {
@@ -44,6 +43,18 @@ public class Commands {
         if (command.equalsIgnoreCase("forums") || command.equalsIgnoreCase("forum")) {
             globalFunctions.writeMsg(ircBot, channel, "C++ Forums:  http://beginnerscpp.com/forums/ \r\n");
         }
+
+        //getinfo
+        if (command.toLowerCase().startsWith("getinfo")) {
+            if (command.length() > 8) {
+                if (ircBot.getUserHostName(command.substring(6, command.length())) == null) {
+                    globalFunctions.writeServerMsg(ircBot, ircBot.getServer(), "whois " + command.substring(6, command.length()) + "\r\n");
+                }
+            } else {
+                globalFunctions.writeMsg(ircBot, channel, "The getinfo command is meant to take a username (Ex: !getinfo DemonSkye) \r\n");
+            }
+        }
+
 
         //Weather Command
         if (command.toLowerCase().contains("weather") || command.toLowerCase().contains("temp")) {
@@ -111,20 +122,19 @@ public class Commands {
         }
 
 
-
         //Admin Commands
         if (command.toLowerCase().equalsIgnoreCase("auth")) {
             command = command.replace(" ", "_");
             System.out.println(globalFunctions.timeStamp() + "--AUTH Prog-Bot " + privateStuff.getPassword());
-            if(isAdmin) {
+            if (isAdmin) {
                 ircBot.getWriter().write("AUTH Prog-Bot " + privateStuff.getPassword() + "\r\n");
                 ircBot.getWriter().flush();
-            }
+        }
         }
 
         if (command.toLowerCase().startsWith("kb ")) {
-            System.out.println(globalFunctions.timeStamp() +"--KickBan: user");
-            if(isAdmin) {
+            System.out.println(globalFunctions.timeStamp() + "--KickBan: user");
+            if (isAdmin) {
                 ircBot.getWriter().write("/msg Q TEMPBAN #BeginnersProgramming \r\n");
             }
         }
