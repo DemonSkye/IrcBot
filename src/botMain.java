@@ -27,7 +27,9 @@ public class botMain {
             try {
                 // Keep reading lines from the server.
                 while ((line = ircBot.getReader().readLine()) != null) {
-                    System.out.println(line);
+                    /*if (!line.startsWith("PING") || !line.startsWith(":Q!")) {
+                        System.out.println(line);
+                    }*/
                     PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ircLogs.txt", true)));
                     if (!line.toLowerCase().startsWith("ping") && line.contains("PRIVMSG ") && line.contains("!")) {
                         out.println(globalFunctions.timeStamp() + "--" + line);
@@ -41,24 +43,32 @@ public class botMain {
 
                     //Returned HostInfo
                     if (line.contains("311") && line.startsWith(ircBot.getServerHost()) && !(line.startsWith("PING"))) {
-                        String userName = line.substring(line.indexOf("~") + 1, line.length());
+                        String userName = line.substring(line.indexOf(ircBot.getUserName()), line.length());
+                        userName = userName.substring(userName.indexOf(" ") + 1, userName.length());
                         userName = userName.substring(0, userName.indexOf(" "));
-                        String hostName = line.substring(line.indexOf("~"), line.indexOf("*") - 1);
-                        hostName = hostName.substring(hostName.indexOf(" "), hostName.length());
-                        //System.out.println("userName: " + userName + " -- hostName: " + hostName);
+
+
+                        String hostName = line.substring(line.indexOf(ircBot.getUserName()) + 1, line.length());
+                        hostName = hostName.substring(hostName.indexOf(" "), hostName.indexOf("*") - 1);
+                        hostName = hostName.substring(hostName.lastIndexOf(" "), hostName.length());
                         ircBot.setUserHostName(userName, hostName);
                     }
 
-                    /*if(line.contains("353") && line.startsWith(ircBot.getServerHost()) && !(line.startsWith("PING")) ){
+                    if (line.contains("353") && line.startsWith(ircBot.getServerHost()) && !(line.startsWith("PING"))) {
                         line=line.substring(1,line.length());
                         line=line.substring(line.indexOf(":"), line.length());
                         String userNames[] = line.split(" ");
+                        String userNameList = "";
                         for(String s:userNames){
-                            if(!(s.substring(1).equals("Q")) || !(s.equals(ircBot.getUserName()))) {
-                                globalFunctions.writeServerMsg(ircBot, ircBot.getServer(), "whois " + s.substring(1, s.length()) + "\r\n");
+                            s = s.substring(1, s.length());
+                            if (!s.equals("Q") && s.equals(ircBot.getUserName())) {
+                                userNameList += s + ",";
                             }
                         }
-                    }*/
+                        userNameList = userNameList.substring(0, userNameList.length() - 1); //Removes extra comma from above
+
+                        globalFunctions.writeServerMsg(ircBot, "whois " + ircBot.getServerHost() + " " + userNameList);
+                    }
 
                     if (line.startsWith(":DemonSkye!") || line.startsWith(":thearrowflies!")) {
                         isAdmin = true;

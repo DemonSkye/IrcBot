@@ -4,7 +4,8 @@ public class Connect {
     public static void Connection(ircBot ircBot, BufferedWriter writer, String channels[]) {
         // The server to connect to and our details.
         String nick = "Prog-Bot";
-        String login = "Prog-Bot";
+        String nick2 = "Prog-Bot2";
+        String login = "Damien-Lol";
 
         ircBot.setUserName(nick);
         // Log on to the server.
@@ -33,7 +34,10 @@ public class Connect {
                     // We are now logged in.
                     break;
                 } else if (line.contains("433")) {
-                    System.out.println("Nickname is already in use.");
+                    System.out.println("Nickname is already in use, trying Nickname 2");
+                    writer.write("NICK " + nick2 + "\r\n");
+                    writer.write("USER " + login + " 8 * : Test\r\n");
+
                     return;
                 }
             }

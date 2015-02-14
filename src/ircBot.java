@@ -1,20 +1,20 @@
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.IOException;
 import java.net.Socket;
-import java.util.Collection;
-import java.util.HashMap;
+import java.util.*;
+import java.util.concurrent.locks.ReentrantLock;
 
-/**
- * Created by Damien on 1/22/2015.
- */
-public class ircBot {
+public class ircBot implements Runnable {
     private Socket socket;
     private BufferedReader reader;
     private BufferedWriter writer;
     private String server;
     private String userName;
     private String serverHost;
+    private Deque<String> nextMessage = new ArrayDeque<String>();
     private HashMap<String, String> userHostName = new HashMap<String, String>();
+    public final ReentrantLock lock = new ReentrantLock();
     ircBot() {
 
     }
@@ -75,6 +75,40 @@ public class ircBot {
         this.userHostName.put(userName, userHost);
     }
 
+    public String getNextMessage() {
+        String myString = nextMessage.getLast();
+        System.out.println("MyString: " + myString);
+        nextMessage.removeLast();
+        return myString;
+    }
 
+    public void setNextMessage(String nextMessageText) {
+        this.nextMessage.addFirst(nextMessageText);
+    }
+
+    //Non-blocking message sending.
+    public void run() {
+        boolean messageSent = false;
+        try {
+            while (!messageSent) {
+                if (!lock.isLocked()) {
+                    lock.lock();
+                    String myMessage = getNextMessage();
+                    this.getWriter().write(myMessage + "\r\n");
+                    this.getWriter().flush();
+                    messageSent = true;
+                    int timer = 1000 + (myMessage.length() * 4) * 6;
+                    //System.out.println(globalFunctions.timeStamp() + "--Waiting " + timer + "ms before next message. ");
+                    Thread.sleep(timer);
+                    lock.unlock();
+                    //System.out.println(globalFunctions.timeStamp() + "--Next Message available to be sent");
+                }
+            }
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
+        } catch (InterruptedException interrupted) {
+            interrupted.printStackTrace();
+        }
+    }
 }
 

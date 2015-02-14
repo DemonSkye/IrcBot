@@ -1,7 +1,6 @@
 public class Commands {
     public static void handleCommands(String command, ircBot ircBot, String channel, boolean isAdmin) throws Exception {
         if(command.startsWith("!") || command.toLowerCase().contains(":!weather") || command.toLowerCase().contains(":!temp")){
-            System.out.println("Command, pre chop: " + command);
             command = command.substring(1,command.length());
             bangCommands(command, ircBot, channel, isAdmin);
         }

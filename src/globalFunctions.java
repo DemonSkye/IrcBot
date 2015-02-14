@@ -16,6 +16,9 @@ import java.util.Map;
 import java.util.TimeZone;
 import java.io.*;
 import java.net.InetAddress;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 
 public class globalFunctions {
     public static int channelCheck(String chatChannels[], String line) {
@@ -187,7 +190,7 @@ public class globalFunctions {
             while ((line = br.readLine()) != null) {
                 if (line.contains(logUserName)){
                     int lastChat = line.indexOf(channel);
-                    if(line.contains("QUIT")!= true) {
+                    if (!line.contains("QUIT")) {
                         lastSaid = line.substring((lastChat + channel.length()), line.length());
                     }
                     line =line.substring(0,19); //Removes all characters after the first 19, which are the timestamp
@@ -195,7 +198,7 @@ public class globalFunctions {
                 }
             }
             br.close();
-            if (lastSaid == "" && userFoundTime == "") {
+            if (lastSaid.equals("") && userFoundTime.equals("")) {
                 lastSaid = "User has not chatted in this channel since I started keeping logs";
                 return lastSaid;
             }
@@ -213,8 +216,8 @@ public class globalFunctions {
     public static String compareTime(String lastSeen) {
         DateTime lastOnline = new DateTime(lastSeen);
         DateTime now = DateTime.now(TimeZone.getTimeZone("UTC"));
-        System.out.println("LastOnline time: " + lastOnline.getMilliseconds(TimeZone.getTimeZone("UTC")));
-        System.out.println("Now time: " + now.getMilliseconds(TimeZone.getTimeZone("UTC")));
+        //System.out.println("LastOnline time: " + lastOnline.getMilliseconds(TimeZone.getTimeZone("UTC")));
+        //System.out.println("Now time: " + now.getMilliseconds(TimeZone.getTimeZone("UTC")));
 
         long lastSeenInMilli = now.getMilliseconds(TimeZone.getTimeZone("UTC")) - lastOnline.getMilliseconds(TimeZone.getTimeZone("UTC"));
         long MILLIS_IN_SECOND = 1000, SECONDS_IN_MINUTE = 60, MINUTES_IN_HOUR = 60, HOURS_IN_DAY = 24, DAYS_IN_YEAR = 365,
@@ -228,27 +231,27 @@ public class globalFunctions {
             yearsSinceLast++;
             lastSeenInMilli-=MILLISECONDS_IN_YEAR;
         }
-        System.out.println("Years Since Last: " + yearsSinceLast);
+        //System.out.println("Years Since Last: " + yearsSinceLast);
         while(lastSeenInMilli >= 86400000){
             daysSinceLast++;
             lastSeenInMilli-=86400000;
         }
-        System.out.println("Days Since Last: " + daysSinceLast);
+        //System.out.println("Days Since Last: " + daysSinceLast);
         while(lastSeenInMilli >= 3600000){
             hoursSinceLast++;
             lastSeenInMilli-=3600000;
         }
-        System.out.println("Hours Since Last: " + hoursSinceLast);
+        //System.out.println("Hours Since Last: " + hoursSinceLast);
         while(lastSeenInMilli >= 60000){
             minutesSinceLast++;
             lastSeenInMilli-=60000;
         }
-        System.out.println("Minutes Since Last: " + minutesSinceLast);
+        //System.out.println("Minutes Since Last: " + minutesSinceLast);
         while(lastSeenInMilli >= 1000){
             secondsSinceLast++;
             lastSeenInMilli-=1000;
         }
-        System.out.println("Seconds Since Last: " + secondsSinceLast);
+        //System.out.println("Seconds Since Last: " + secondsSinceLast);
 
         lastSeen ="Which was sent: ";
         if(yearsSinceLast >=1){lastSeen += yearsSinceLast.toString(); lastSeen+= " year"; lastSeen+=pluralize(yearsSinceLast); lastSeen +=", ";}
@@ -270,11 +273,28 @@ public class globalFunctions {
     }
 
     public static void writeMsg(ircBot ircBot, String Channel, String Message) {
+        ircBot.setNextMessage("PRIVMSG " + Channel + Message);
         try {
-            System.out.println("Bot Command: PRIVMSG " + Channel + Message);
-            ircBot.getWriter().write("PRIVMSG " + Channel + Message);
-            ircBot.getWriter().flush();
-        }catch(IOException ioe){ioe.printStackTrace(); }
+            ExecutorService threadPool = Executors.newSingleThreadExecutor();
+            threadPool.execute(ircBot);
+            threadPool.shutdown();
+        } catch (Exception e) {
+            System.err.println("Thread Exception: ");
+            e.printStackTrace();
+        }
     }
+
+    public static void writeServerMsg(ircBot ircBot, String Message) {
+        ircBot.setNextMessage(Message);
+        try {
+            ExecutorService threadPool = Executors.newSingleThreadExecutor();
+            threadPool.execute(ircBot);
+            threadPool.shutdown();
+        } catch (Exception e) {
+            System.err.println("Thread Exception: ");
+            e.printStackTrace();
+        }
+    }
+
 }
 
