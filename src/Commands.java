@@ -44,7 +44,7 @@ public class Commands {
             globalFunctions.writeMsg(ircBot, channel, "C++ Forums:  http://beginnerscpp.com/forums/ \r\n");
         }
 
-        //getinfo
+        /*//getinfo
         if (command.toLowerCase().startsWith("getinfo")) {
             if (command.length() > 8) {
                 if (ircBot.getUserHostName(command.substring(6, command.length())) == null) {
@@ -53,7 +53,7 @@ public class Commands {
             } else {
                 globalFunctions.writeMsg(ircBot, channel, "The getinfo command is meant to take a username (Ex: !getinfo DemonSkye) \r\n");
             }
-        }
+        }*/
 
 
         //Weather Command
@@ -72,8 +72,9 @@ public class Commands {
         }
 
         //Donate
-        if (command.equalsIgnoreCase("donate")) {
-            globalFunctions.writeMsg(ircBot, channel, "Make your donations here: http://beginnerscpp.com/donate/\r\n");
+        if (command.equalsIgnoreCase("plug")) {
+            globalFunctions.writeMsg(ircBot, channel, "Hopefully this was helpful to you, consider unblocking us from adblock, telling your friends and if you have " +
+                    "the means, you could consider donating: http://beginnerscpp.com/donate/\r\n");
         }
 
         //File handling
@@ -96,8 +97,12 @@ public class Commands {
             globalFunctions.writeMsg(ircBot, channel, "Lesson 8: Hard Debugging--  http://beginnerscpp.com/lesson-8-hard-debugging/ \r\n");
 
         }
+        if (command.toLowerCase().equalsIgnoreCase("array") || command.toLowerCase().equalsIgnoreCase("arrays")) {
+            globalFunctions.writeMsg(ircBot, channel, "http://beginnerscpp.com/placeholder-lesson-14-introduction-to-arrays/ \r\n");
+
+        }
         //Functions
-        if (command.toLowerCase().equalsIgnoreCase("function")) {
+        if (command.toLowerCase().equalsIgnoreCase("function") || command.toLowerCase().equalsIgnoreCase("functions")) {
             globalFunctions.writeMsg(ircBot, channel, "Lesson 18: Intro To Functions -- http://beginnerscpp.com/placeholder-lesson-18-introduction-to-functions/\r\n");
         }
 

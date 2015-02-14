@@ -107,12 +107,17 @@ public class globalFunctions {
         String currentTemp = currentConditions.substring(cw, currentConditions.length());
         cw = currentTemp.indexOf(",");
         currentTemp = currentTemp.substring(7, cw);
+
+        cw = currentConditions.indexOf("temp_c");
+        String currentTempC = currentConditions.substring(cw, currentConditions.length());
+        cw = currentTempC.indexOf(",");
+        currentTempC = currentTempC.substring(7, cw);
         if(userState == null || userState.equals("")) {
-            String userForeCast = "The current conditions for: " + userCity + ", " + userCountry + " are: " + currentTemp + "F, and " + currentWeather;
+            String userForeCast = "The current conditions for: " + userCity + ", " + userCountry + " are: " + currentTemp + "F / " + currentTempC + ", and " + currentWeather;
             writeMsg(ircBot, channel, userForeCast + "\r\n");
         }
         else{
-            String userForeCast = "The current conditions for: " + userCity + ", " + userState + " are: " + currentTemp + "F, and " + currentWeather;
+            String userForeCast = "The current conditions for: " + userCity + ", " + userState + " are: " + currentTemp + "F / " + currentTempC + ", and " + currentWeather;
             writeMsg(ircBot, channel, userForeCast + "\r\n");
         }
     }
