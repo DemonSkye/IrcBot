@@ -27,9 +27,12 @@ public class botMain {
             try {
                 // Keep reading lines from the server.
                 while ((line = ircBot.getReader().readLine()) != null) {
-                    /*if (!line.startsWith("PING") || !line.startsWith(":Q!")) {
+                    if ((!line.startsWith("PING") && !line.startsWith(":Q!") && !line.contains("NOTICE") && !line.contains("372") &&
+                            !line.contains("376") && !line.contains("366")) && !line.contains("312") &&
+                            !line.contains("313") && !line.contains("318") && !line.contains("317") && !line.contains("319") ||
+                            line.contains("PRIVMSG")) {
                         System.out.println(line);
-                    }*/
+                    }
                     PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ircLogs.txt", true)));
                     if (!line.toLowerCase().startsWith("ping") && line.contains("PRIVMSG ") && line.contains("!")) {
                         out.println(globalFunctions.timeStamp() + "--" + line);
@@ -55,19 +58,13 @@ public class botMain {
                     }
 
                     if (line.contains("353") && line.startsWith(ircBot.getServerHost()) && !(line.startsWith("PING"))) {
-                        line=line.substring(1,line.length());
+                        line = line.substring(1);
                         line=line.substring(line.indexOf(":"), line.length());
                         String userNames[] = line.split(" ");
-                        String userNameList = "";
-                        for(String s:userNames){
-                            s = s.substring(1, s.length());
-                            if (!s.equals("Q") && s.equals(ircBot.getUserName())) {
-                                userNameList += s + ",";
-                            }
+                        for (String s : userNames) {
+                            System.out.println("BOT WHOIS:  whois" + ircBot.getServerHost().substring(1) + " " + s);
+                            globalFunctions.writeServerMsg(ircBot, "whois " + ircBot.getServerHost().substring(1) + " " + s.substring(1));
                         }
-                        userNameList = userNameList.substring(0, userNameList.length() - 1); //Removes extra comma from above
-
-                        globalFunctions.writeServerMsg(ircBot, "whois " + ircBot.getServerHost() + " " + userNameList);
                     }
 
                     if (line.startsWith(":DemonSkye!") || line.startsWith(":thearrowflies!")) {

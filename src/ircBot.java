@@ -13,6 +13,7 @@ public class ircBot implements Runnable {
     private String userName;
     private String serverHost;
     private Deque<String> nextMessage = new ArrayDeque<String>();
+    private Deque<Boolean> nextServerMessage = new ArrayDeque<Boolean>();
     private HashMap<String, String> userHostName = new HashMap<String, String>();
     public final ReentrantLock lock = new ReentrantLock();
     ircBot() {
@@ -77,7 +78,6 @@ public class ircBot implements Runnable {
 
     public String getNextMessage() {
         String myString = nextMessage.getLast();
-        System.out.println("MyString: " + myString);
         nextMessage.removeLast();
         return myString;
     }
@@ -86,7 +86,17 @@ public class ircBot implements Runnable {
         this.nextMessage.addFirst(nextMessageText);
     }
 
-    //Non-blocking message sending.
+    public void setNextServerMessage(Boolean nextMessageServer) {
+        this.nextServerMessage.addFirst(nextMessageServer);
+    }
+
+    public Boolean getNextServerMessage() {
+        Boolean isServermessage = nextServerMessage.getLast();
+        nextServerMessage.removeLast();
+        return isServermessage;
+    }
+
+    //Non-blocking message sending.  So much coding for this
     public void run() {
         boolean messageSent = false;
         try {
@@ -94,14 +104,17 @@ public class ircBot implements Runnable {
                 if (!lock.isLocked()) {
                     lock.lock();
                     String myMessage = getNextMessage();
+                    if (!getNextServerMessage()) {
+                        myMessage += " - Queued messages: " + nextMessage.size();
+                    }
+                    //System.out.println(globalFunctions.timeStamp() + " -- " + myMessage); //
                     this.getWriter().write(myMessage + "\r\n");
                     this.getWriter().flush();
                     messageSent = true;
                     int timer = 1000 + (myMessage.length() * 4) * 6;
-                    //System.out.println(globalFunctions.timeStamp() + "--Waiting " + timer + "ms before next message. ");
                     Thread.sleep(timer);
                     lock.unlock();
-                    //System.out.println(globalFunctions.timeStamp() + "--Next Message available to be sent");
+                    //System.out.println(globalFunctions.timeStamp() + "--Next Message available to be sent"); // Debugs line timer
                 }
             }
         } catch (IOException ioe) {

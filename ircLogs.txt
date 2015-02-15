@@ -6445,3 +6445,133 @@
 2015-02-14 10:46:40--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
 2015-02-14 10:46:45--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Testing this out
 2015-02-14 10:46:50--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2015-02-14 10:56:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!botproject
+2015-02-14 11:03:20--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Be back in about 16 hours.  Valentine's Day calls.
+2015-02-14 16:50:23--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :sup demon
+2015-02-14 16:51:10--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :http://ideone.com/gxMQjC
+2015-02-14 16:51:36--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :i cant get this to work wtf did i do the $state var is a value held in php from maxmind for visitor
+2015-02-14 17:03:29--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I'm pretty sure that your Where is fucked up, I'll look closer in about 2 hours
+2015-02-14 17:03:33--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Be back in a few
+2015-02-14 17:03:46--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :@Scripture:  I fixed it by the way
+2015-02-14 17:03:47--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :k bro thank you 
+2015-02-14 17:03:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Be back in 2 hours
+2015-02-14 17:04:04--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :http://ideone.com/MKyQee
+2015-02-14 17:04:12--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :ok thats updated im gonna run it and check it again
+2015-02-14 17:05:15--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :no go but ill keep trying to you get a chance to help me this is really holding me up but obviously it aint your problem i appreciate the help ill come back in 2 hours if i cant get it
+2015-02-14 18:46:54--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Back
+2015-02-14 18:47:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 18:47:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 18:47:02--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 18:52:24--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :hey demon i fixed it a while ago
+2015-02-14 18:52:29--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :got lucky
+2015-02-14 18:52:40--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Cool
+2015-02-14 18:52:43--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 18:52:43--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 18:52:43--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 18:52:45--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :my order by date desc was before my where
+2015-02-14 18:52:49--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :(Testing something)
+2015-02-14 18:52:52--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :cool
+2015-02-14 18:53:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Huh.... that's really strange...
+2015-02-14 18:53:48--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :http://ideone.com/e06Xkp
+2015-02-14 18:53:59--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :now visitors only see posts from ri etc
+2015-02-14 18:54:10--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :im building a custom social networking like site
+2015-02-14 18:54:15--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :for someone
+2015-02-14 18:54:29--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :learning as i go shit i know better than to say it was an easy idea
+2015-02-14 18:54:40--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :i learned allot of lessons lol
+2015-02-14 18:55:16--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :mostly to always charge and not say its easy makes it seem quick to someone when i could get paid an been done weeks ago they dont need to know etc
+2015-02-14 18:56:10--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :First rule of programming
+2015-02-14 18:56:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Estimate how long a job will take you
+2015-02-14 18:56:23--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Multiply that by 3.
+2015-02-14 18:56:26--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Now double that number
+2015-02-14 18:56:32--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That's how long it will take.
+2015-02-14 18:57:00--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :i have a custom email like private messaging system and a blog i made myself that has sqli and xss protection
+2015-02-14 18:57:16--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :so it all ties together to location for the user make it more personal
+2015-02-14 18:58:02--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :so if it is gonna take me 30 days say 90
+2015-02-14 18:58:10--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :or 180
+2015-02-14 18:58:30--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :i mean what if i had to pay someone i did this all for 200 dollars
+2015-02-14 18:58:42--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Estimate in hours, not days
+2015-02-14 18:58:47--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :that was crazy  took me a week or so
+2015-02-14 18:58:55--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :should have charged way more huh
+2015-02-14 18:59:10--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :hope he get some traffic 
+2015-02-14 18:59:43--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :popular
+2015-02-14 18:59:53--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :More testing, 1 sec.
+2015-02-14 18:59:57--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 18:59:58--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 18:59:58--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 19:00:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Wtf m80
+2015-02-14 19:00:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Oh wait, I think I know....
+2015-02-14 19:00:26--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :u break something on yourself lol
+2015-02-14 19:00:32--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :i do it all the time
+2015-02-14 19:02:08--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Oh, lol
+2015-02-14 19:02:12--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :He left fast
+2015-02-14 19:02:15--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 19:02:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 19:11:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 19:11:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 19:11:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 19:28:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-14 19:28:38--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!showhost DemonSkye
+2015-02-14 19:31:37--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-14 19:32:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!showhost DemonSkye
+2015-02-14 19:32:24--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!function
+2015-02-14 19:36:55--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-14 19:37:00--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!showhost DemonSkye
+2015-02-14 19:40:03--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Test
+2015-02-14 19:40:08--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-14 19:42:18--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-14 19:44:35--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-14 20:06:02--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-14 20:07:56--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-14 20:16:07--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-14 20:20:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-14 20:22:58--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-14 20:24:17--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!showhost DemonSkye
+2015-02-14 20:28:53--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-14 20:28:56--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!showhost DemonSkye
+2015-02-14 20:32:31--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :functions
+2015-02-14 20:32:34--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!functions
+2015-02-14 20:32:36--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!weather
+2015-02-14 20:32:55--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!showhost DemonSkye
+2015-02-14 20:33:08--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Wtffffff
+2015-02-14 20:33:40--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :How can I get the ip for weather, but the SAME EXACT CALL fails for this....
+2015-02-14 20:33:49--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Oh well, semi-working
+2015-02-14 20:43:39--:tadpole!webchat@0587395731.wireless.umich.net PRIVMSG #BeginnersProgramming :What exactly is the difference between int and double in a math problem?
+2015-02-14 22:13:36--:tadpole!webchat@0587395731.wireless.umich.net PRIVMSG #BeginnersProgramming :help with math problem?
+2015-02-14 23:57:02--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :yo demon
+2015-02-14 23:58:12--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :let me ask you this if i code something for somebody and i  own it and they havent paid me they own no patent and there was no verbal agreement or written and i even changed what he was doing and make it diffrent do i own it if he hasnt paid me cuz honestly every i dea he had i changed and he just agreed fuck actually all he did was keep me motivated lol
+2015-02-14 23:58:38--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :and a little aggravated
+2015-02-14 23:58:45--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :im sure you know that all to well
+2015-02-15 00:00:37--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :im putting it on kick starter im very excited to go live i hope you get a chance in the future do view it when its done 
+2015-02-15 00:17:52--:thearrowflies!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :i got all this food in preparation for the blizzard and it isnt even that bad
+2015-02-15 00:17:54--:thearrowflies!~arrow@i.am.a.shady.ninja PRIVMSG #BeginnersProgramming :what a rip off
+2015-02-15 01:16:50--:reality!webchat@pool-74-97-41-47.prvdri.fios.verizon.net PRIVMSG #BeginnersProgramming :sup demon  shit im tired lol
+2015-02-15 02:12:05--:alex____!webchat@24-148-58-204.c3-0.lem-ubr1.chi-lem.il.cable.rcn.com PRIVMSG #BeginnersProgramming :how to get the occurrance
+2015-02-15 02:12:15--:alex____!webchat@24-148-58-204.c3-0.lem-ubr1.chi-lem.il.cable.rcn.com PRIVMSG #BeginnersProgramming :from dice
+2015-02-15 02:49:29--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :@arrow:  I agree
+2015-02-15 02:49:34--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Except I didn't really shop at all
+2015-02-15 02:50:39--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!getinfo DemonSkye
+2015-02-15 02:50:43--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!showhost DemonSkye
+2015-02-15 03:14:21--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :If you didn't make it with setters / getters, then no
+2015-02-15 03:14:24--:crissy!webchat@112.200.155.137 PRIVMSG #BeginnersProgramming :!temp
+2015-02-15 03:14:28--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Errrm, with a constructor
+2015-02-15 03:15:04--:crissy!webchat@112.200.155.137 PRIVMSG #BeginnersProgramming :so a method is different from a set/get method?
+2015-02-15 03:15:26--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :No
+2015-02-15 03:15:26--:crissy!webchat@112.200.155.137 PRIVMSG #BeginnersProgramming :https://ideone.com/jQ2hc8
+2015-02-15 03:15:28--:crissy!webchat@112.200.155.137 PRIVMSG #BeginnersProgramming :this
+2015-02-15 03:15:53--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yeah, those are just methods
+2015-02-15 03:16:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Not even setters / getters
+2015-02-15 03:16:13--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You don't use setters / getters until you get into objects
+2015-02-15 03:16:35--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :They look something like this
+2015-02-15 03:16:44--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :    public String getServerHost() {
+2015-02-15 03:16:44--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :        return serverHost;
+2015-02-15 03:16:44--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :    }
+2015-02-15 03:16:51--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :public void setServerHost(String serverHost) {
+2015-02-15 03:16:51--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :        this.serverHost = serverHost;
+2015-02-15 03:16:51--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :    }
+2015-02-15 03:17:58--:crissy!webchat@112.200.155.137 PRIVMSG #BeginnersProgramming :whats the difference between using just a method and set/get?
+2015-02-15 03:18:11--:crissy!webchat@112.200.155.137 PRIVMSG #BeginnersProgramming :i mean, when should i use a set/get
+2015-02-15 03:18:47--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :When you need to set the contents of an object's private members
+2015-02-15 03:19:38--:crissy!webchat@112.200.155.137 PRIVMSG #BeginnersProgramming :so if i am setting something prive, i use set get... like password and stuff that i dont want other classes to see, otherwise just use a method?
+2015-02-15 03:23:42--:crissy!webchat@112.200.155.137 PRIVMSG #BeginnersProgramming :so thats when i need a set/get
+2015-02-15 03:24:02--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Mmmmhmm
+2015-02-15 03:24:14--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So you'd then do a set / get, like above.

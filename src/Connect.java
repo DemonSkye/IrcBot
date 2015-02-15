@@ -5,7 +5,7 @@ public class Connect {
         // The server to connect to and our details.
         String nick = "Prog-Bot";
         String nick2 = "Prog-Bot2";
-        String login = "Damien-Lol";
+        String login = "DamienBot";
 
         ircBot.setUserName(nick);
         // Log on to the server.
@@ -17,7 +17,6 @@ public class Connect {
             // Read lines from the server until it tells us we have connected.
             String line;
             while ((line = ircBot.getReader().readLine()) != null) {
-                System.out.println(line);
                 if (line.toLowerCase().contains("ping")) {
                     // We must respond to PINGs to avoid being disconnected.
                     writer.write("PONG " + line.substring(5) + "\r\n");

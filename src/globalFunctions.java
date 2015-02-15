@@ -50,24 +50,12 @@ public class globalFunctions {
                 "!weather, !temp, !Temp, !Tutorials, !file, !string, !ss, !debug, !function";
     }
 
-    public static void doWeather(String line, ircBot ircBot, String channel) throws Exception {
+    public static void doWeather(String line, ircBot ircBot, String channel) {
         String userHostName = getHostByMsg(line);
         //System.out.println("UserHostNam: " + userHostName);
-        String userIpAddress = null;
-        try { //To get the ip address from the hostname
-            InetAddress userIpAddressObj = InetAddress.getByName(userHostName);
-            userIpAddress = userIpAddressObj.toString();
-            System.out.println("userIpAddress: " + userIpAddress);
-            if(userIpAddress.contains("/")){
-                int findSlash = userIpAddress.indexOf("/");
-                userIpAddress = userIpAddress.substring(findSlash+1, userIpAddress.length());
-            }
-            //Diagnostic ip address output
-            //writeMsg(writer, channel, "IP Address: " + userIpAddress + "\r\n");
-        }catch(UnknownHostException uhe){ uhe.printStackTrace(); }
+        String userIpAddress = getIpFromHostName((userHostName));
 
         Map ipLocation = getIpInfoByIP(userIpAddress);
-        //Assign values returned by function
 
         //System.out.println(ipLocation); //diagnostic
         String userCity;
@@ -76,7 +64,7 @@ public class globalFunctions {
             userCity = ipLocation.get("city").toString();
             userState = ipLocation.get("region").toString();
         }catch(NullPointerException npe){ npe.getStackTrace();
-            writeMsg(ircBot, channel, "Could not get the weather for: IP Address: " + userIpAddress + "\r\n");
+            writeMsg(ircBot, channel, "Could not get the weather for: IP Address: " + userIpAddress);
             return;
         }
         userState = Abbr.getStateAbbr(userState); //Change state to 2-letter abbreviation
@@ -117,14 +105,33 @@ public class globalFunctions {
         currentTempC = currentTempC.substring(7, cw);
         if(userState == null || userState.equals("")) {
             String userForeCast = "The current conditions for: " + userCity + ", " + userCountry + " are: " + currentTemp + "F / " + currentTempC + "C, and " + currentWeather;
-            writeMsg(ircBot, channel, userForeCast + "\r\n");
+            writeMsg(ircBot, channel, userForeCast);
         }
         else{
             String userForeCast = "The current conditions for: " + userCity + ", " + userState + " are: " + currentTemp + "F / " + currentTempC + "C, and " + currentWeather;
-            writeMsg(ircBot, channel, userForeCast + "\r\n");
+            writeMsg(ircBot, channel, userForeCast);
         }
     }
 
+    public static String getIpFromHostName(String userHostName) {
+        String userIpAddress = "";
+        System.out.println(userHostName);
+        try {
+            InetAddress userIpAddressObj = InetAddress.getByName(userHostName);
+            userIpAddress = userIpAddressObj.toString();
+            System.out.println("userIpAddress: " + userIpAddress);
+            if (userIpAddress.contains("/")) {
+                int findSlash = userIpAddress.indexOf("/");
+                userIpAddress = userIpAddress.substring(findSlash + 1, userIpAddress.length());
+            }
+            //Diagnostic ip address output
+            //writeMsg(writer, channel, "IP Address: " + userIpAddress + "\r\n");
+        } catch (UnknownHostException uhe) {
+            uhe.printStackTrace();
+        } finally {
+            return userIpAddress;
+        }
+    }
     public static String getHostByMsg(String line){
         int hostFinder = line.indexOf("@");
         int hostFinder2 = line.indexOf("PRIVMSG");
@@ -205,7 +212,7 @@ public class globalFunctions {
             /*System.out.println("LastSaid: " + lastSaid);
             System.out.println("LastSaid Time: " + userFoundTime);*/
 
-            writeMsg(ircBot, channel, "The last message sent from that user was: " + lastSaid + " -- \r\n");
+            writeMsg(ircBot, channel, "The last message sent from that user was: " + lastSaid);
         }catch (IOException ioe){ ioe.printStackTrace(); }
 
         userFoundTime = compareTime(userFoundTime);
@@ -274,6 +281,8 @@ public class globalFunctions {
 
     public static void writeMsg(ircBot ircBot, String Channel, String Message) {
         ircBot.setNextMessage("PRIVMSG " + Channel + Message);
+        ircBot.setNextServerMessage(false);
+
         try {
             ExecutorService threadPool = Executors.newSingleThreadExecutor();
             threadPool.execute(ircBot);
@@ -286,6 +295,7 @@ public class globalFunctions {
 
     public static void writeServerMsg(ircBot ircBot, String Message) {
         ircBot.setNextMessage(Message);
+        ircBot.setNextServerMessage(true);
         try {
             ExecutorService threadPool = Executors.newSingleThreadExecutor();
             threadPool.execute(ircBot);
