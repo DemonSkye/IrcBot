@@ -44,6 +44,13 @@ public class botMain {
                         ircBot.getWriter().flush();
                     }
 
+                    if (line.contains("JOIN") && !line.contains("PRIVMSG")) {
+                        line = line.substring(1, line.length());
+                        String userName = line.substring(0, line.indexOf("!"));
+                        String userHostname = line.substring(line.indexOf("@") + 1, line.indexOf(" "));
+                        ircBot.setUserHostName(userName, userHostname);
+                    }
+
                     //Returned HostInfo
                     if (line.contains("311") && line.startsWith(ircBot.getServerHost()) && !(line.startsWith("PING"))) {
                         String userName = line.substring(line.indexOf(ircBot.getUserName()), line.length());
@@ -54,7 +61,7 @@ public class botMain {
                         String hostName = line.substring(line.indexOf(ircBot.getUserName()) + 1, line.length());
                         hostName = hostName.substring(hostName.indexOf(" "), hostName.indexOf("*") - 1);
                         hostName = hostName.substring(hostName.lastIndexOf(" "), hostName.length());
-                        ircBot.setUserHostName(userName, hostName);
+                        ircBot.setUserHostName(userName.toLowerCase(), hostName);
                     }
 
                     if (line.contains("353") && line.startsWith(ircBot.getServerHost()) && !(line.startsWith("PING"))) {
@@ -69,6 +76,8 @@ public class botMain {
 
                     if (line.startsWith(":DemonSkye!") || line.startsWith(":thearrowflies!")) {
                         isAdmin = true;
+                    } else {
+                        isAdmin = false;
                     }
 
                     int found = globalFunctions.channelCheck(chatChannels, line);
@@ -85,11 +94,11 @@ public class botMain {
                 }
 
             } catch (IOException e) {
-                System.out.println("Error: " + e.getMessage());
+                System.out.println("IOE - Botmain: " + e.getMessage());
                 e.printStackTrace();
             }
         } catch (Exception e) {
-            System.out.println("Error: " + e.getMessage());
+            System.out.println("Exception E: " + e.getMessage());
             e.printStackTrace();
         }
 

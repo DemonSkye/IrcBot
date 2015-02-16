@@ -58,24 +58,39 @@ public class Commands {
         }
 
         //showInfo
-        if (command.toLowerCase().startsWith("showhost")) {
-            System.out.println("Inside showHost: " + command);
-            if (command.length() > 9) {
-                String userName = command.substring(9, command.length());
-                userName = userName.trim();
-                System.out.println("UserName: " + userName);
-                String userHost = ircBot.getUserHostName(userName);
-                System.out.println("userHost: " + userHost);
-                System.out.println("Bot Command: PRIVMSG" + channel + "Information for user: " + userName + userHost);
-                globalFunctions.writeMsg(ircBot, channel, "Information for user: " + userName + "-- Hostname: " + userHost + " IP Address: " + globalFunctions.getIpFromHostName(userHost));
+        if (command.toLowerCase().startsWith("showhost") || command.toLowerCase().startsWith("showinfo")) {
+            if (isAdmin) {
+                if (command.length() > 9) {
+                    String userName = command.substring(9, command.length());
+                    userName = userName.trim();
+                    System.out.println("UserName: " + userName);
+                    String userHost = ircBot.getUserHostName(userName);
+                    System.out.println("userHost: " + userHost);
+                    System.out.println("Bot Command: PRIVMSG" + channel + "Information for user: " + userName + userHost);
+                    globalFunctions.writeMsg(ircBot, channel, "Information for user: " + userName + "-- Hostname: " + userHost + " IP Address: "
+                            + globalFunctions.getIpFromHostName(userHost));
+                } else {
+                    globalFunctions.writeMsg(ircBot, channel, "The showInfo command is meant to take a username (Ex: !showInfo DemonSkye)");
+                }
             } else {
-                globalFunctions.writeMsg(ircBot, channel, "The showInfo command is meant to take a username (Ex: !showInfo DemonSkye)");
+                globalFunctions.writeMsg(ircBot, channel, "You do not have adequate permissions to use this command.");
             }
         }
 
         //Weather Command
         if (command.toLowerCase().contains("weather") || command.toLowerCase().contains("temp")) {
-            globalFunctions.doWeather(command, ircBot, channel);
+            int findTemp = command.lastIndexOf("temp");
+            String command2 = command.substring(findTemp, command.length());
+            if (command2.length() > 5) {
+                command2 = command2.substring(5, command2.length());
+                command2 = command2.trim();
+                String command3 = command2.toLowerCase();
+                String userHostName = ircBot.getUserHostName(command2);
+                globalFunctions.doWeather(userHostName, ircBot, channel);
+            } else {
+                String userHostName = globalFunctions.getHostByMsg(command);
+                globalFunctions.doWeather(userHostName, ircBot, channel);
+            }
         }
 
         //C++ List Implementation

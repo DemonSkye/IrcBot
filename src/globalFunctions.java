@@ -50,9 +50,8 @@ public class globalFunctions {
                 "!weather, !temp, !Temp, !Tutorials, !file, !string, !ss, !debug, !function";
     }
 
-    public static void doWeather(String line, ircBot ircBot, String channel) {
-        String userHostName = getHostByMsg(line);
-        //System.out.println("UserHostNam: " + userHostName);
+    public static void doWeather(String userHostName, ircBot ircBot, String channel) {
+
         String userIpAddress = getIpFromHostName((userHostName));
 
         Map ipLocation = getIpInfoByIP(userIpAddress);
@@ -71,6 +70,9 @@ public class globalFunctions {
         String userCountry = ipLocation.get("country").toString();
 
         //Debug Values
+        userCity = userCity.replaceAll(" ", "%20");
+        userState = userState.replaceAll(" ", "%20");
+        userCountry = userCountry.replaceAll(" ", "%20");
         System.out.println(userCity);
         System.out.println(userState);
         System.out.println(userCountry);
@@ -103,6 +105,11 @@ public class globalFunctions {
         String currentTempC = currentConditions.substring(cw, currentConditions.length());
         cw = currentTempC.indexOf(",");
         currentTempC = currentTempC.substring(7, cw);
+
+        userCity = userCity.replaceAll("%20", " ");
+        userState = userState.replaceAll("%20", " ");
+        userCountry = userCountry.replaceAll("%20", " ");
+
         if(userState == null || userState.equals("")) {
             String userForeCast = "The current conditions for: " + userCity + ", " + userCountry + " are: " + currentTemp + "F / " + currentTempC + "C, and " + currentWeather;
             writeMsg(ircBot, channel, userForeCast);
@@ -116,6 +123,7 @@ public class globalFunctions {
     public static String getIpFromHostName(String userHostName) {
         String userIpAddress = "";
         System.out.println(userHostName);
+        userHostName = userHostName.trim();
         try {
             InetAddress userIpAddressObj = InetAddress.getByName(userHostName);
             userIpAddress = userIpAddressObj.toString();
