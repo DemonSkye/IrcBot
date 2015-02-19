@@ -27,16 +27,15 @@ public class botMain {
             try {
                 // Keep reading lines from the server.
                 while ((line = ircBot.getReader().readLine()) != null) {
-                    if ((!line.startsWith("PING") && !line.startsWith(":Q!") && !line.contains("NOTICE") && !line.contains("372") &&
+/*                    if ((!line.startsWith("PING") && !line.startsWith(":Q!") && !line.contains("NOTICE") && !line.contains("372") &&
                             !line.contains("376") && !line.contains("366")) && !line.contains("312") &&
                             !line.contains("313") && !line.contains("318") && !line.contains("317") && !line.contains("319") ||
-                            line.contains("PRIVMSG")) {
+                            line.contains("PRIVMSG")) {*/
                         System.out.println(line);
-                    }
+                    // }
                     PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ircLogs.txt", true)));
-                    if (!line.toLowerCase().startsWith("ping") && line.contains("PRIVMSG ") && line.contains("!")) {
+                    if (!line.toLowerCase().startsWith("ping") && line.contains("PRIVMSG ") && line.contains("!"))
                         out.println(globalFunctions.timeStamp() + "--" + line);
-                    }
 
                     if (line.toLowerCase().startsWith("ping")) {
                         // We must respond to PINGs to avoid being disconnected.
@@ -52,12 +51,12 @@ public class botMain {
                     }
 
                     //Returned HostInfo
-                    if (line.contains("311") && line.startsWith(ircBot.getServerHost()) && !(line.startsWith("PING"))) {
+                    if (line.contains(ircBot.getServerHost() + " 311") && !(line.startsWith("PING"))) {
                         String userName = line.substring(line.indexOf(ircBot.getUserName()), line.length());
                         userName = userName.substring(userName.indexOf(" ") + 1, userName.length());
                         userName = userName.substring(0, userName.indexOf(" "));
 
-
+                        System.out.println(line);
                         String hostName = line.substring(line.indexOf(ircBot.getUserName()) + 1, line.length());
                         hostName = hostName.substring(hostName.indexOf(" "), hostName.indexOf("*") - 1);
                         hostName = hostName.substring(hostName.lastIndexOf(" "), hostName.length());
@@ -69,8 +68,8 @@ public class botMain {
                         line=line.substring(line.indexOf(":"), line.length());
                         String userNames[] = line.split(" ");
                         for (String s : userNames) {
-                            System.out.println("BOT WHOIS:  whois" + ircBot.getServerHost().substring(1) + " " + s);
-                            globalFunctions.writeServerMsg(ircBot, "whois " + ircBot.getServerHost().substring(1) + " " + s.substring(1));
+                            System.out.println("BOT WHOIS:  whois " + ircBot.getServerHost().substring(1, ircBot.getServerHost().length()) + " " + s.substring(1, s.length()));
+                            globalFunctions.writeServerMsg(ircBot, "whois " + ircBot.getServerHost().substring(1) + " " + s.substring(1, s.length()));
                         }
                     }
 
@@ -98,7 +97,7 @@ public class botMain {
                 e.printStackTrace();
             }
         } catch (Exception e) {
-            System.out.println("Exception E: " + e.getMessage());
+            System.out.println("Exception E botmain - : " + e.getMessage());
             e.printStackTrace();
         }
 

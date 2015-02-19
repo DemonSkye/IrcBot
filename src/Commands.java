@@ -84,7 +84,6 @@ public class Commands {
             if (command2.length() > 5) {
                 command2 = command2.substring(5, command2.length());
                 command2 = command2.trim();
-                String command3 = command2.toLowerCase();
                 String userHostName = ircBot.getUserHostName(command2);
                 globalFunctions.doWeather(userHostName, ircBot, channel);
             } else {

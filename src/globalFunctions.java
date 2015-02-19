@@ -51,44 +51,62 @@ public class globalFunctions {
     }
 
     public static void doWeather(String userHostName, ircBot ircBot, String channel) {
-
-        String userIpAddress = getIpFromHostName((userHostName));
+        System.out.println("UserHostName in weather: " + userHostName);
+        String userIpAddress = getIpFromHostName(userHostName);
 
         Map ipLocation = getIpInfoByIP(userIpAddress);
+        System.out.println(ipLocation); //diagnostic
 
-        //System.out.println(ipLocation); //diagnostic
-        String userCity;
-        String userState;
+        String userCity = "";
+        String userRegion = "";
+        String userCountry = "";
         try {
             userCity = ipLocation.get("city").toString();
-            userState = ipLocation.get("region").toString();
+            userRegion = ipLocation.get("region").toString();
+            userCountry = ipLocation.get("country").toString();
         }catch(NullPointerException npe){ npe.getStackTrace();
             writeMsg(ircBot, channel, "Could not get the weather for: IP Address: " + userIpAddress);
             return;
+        } catch (Exception e) {
+            System.err.println("Weahter iplocation.get: ");
+            e.printStackTrace();
         }
-        userState = Abbr.getStateAbbr(userState); //Change state to 2-letter abbreviation
-        String userCountry = ipLocation.get("country").toString();
+        userRegion = Abbr.getStateAbbr(userRegion); //Change state to 2-letter abbreviation
+
 
         //Debug Values
-        userCity = userCity.replaceAll(" ", "%20");
-        userState = userState.replaceAll(" ", "%20");
-        userCountry = userCountry.replaceAll(" ", "%20");
+        if (userCity != null) {
+            if (userCity.contains(" ")) {
+                userCity = userCity.replaceAll(" ", "%20");
+            }
+        }
+
+        if (userRegion != null) {
+            if (userRegion.contains(" ")) {
+                userRegion = userRegion.replaceAll(" ", "%20");
+            }
+        }
+        if (userCountry != null) {
+            if (userCountry.contains(" ")) {
+                userCountry = userCountry.replaceAll(" ", "%20");
+            }
+        }
         System.out.println(userCity);
-        System.out.println(userState);
+        System.out.println(userRegion);
         System.out.println(userCountry);
 
 
         //
         String currentConditions = "";
-        if (userCity != null && userState != null) {
-            currentConditions = getWeather(userCity, userState);
-        }
-        if (userState == null && userCity != null) {
-            currentConditions = getWeather(userCity, userCountry);
-        }
-        if (userCity == null && userState == null) {
+        if (userCity == "" && userRegion == "") {
             writeMsg(ircBot, channel, "Could not get weather for your region");
             return;
+        }
+        if (userCity != "" && userRegion != "") {
+            currentConditions = getWeather(userCity, userRegion);
+        }
+        if (userRegion == "" && userCity != "" && userCountry != "") {
+            currentConditions = getWeather(userCity, userCountry);
         }
 
         int cw = currentConditions.indexOf("weather=");
@@ -107,15 +125,15 @@ public class globalFunctions {
         currentTempC = currentTempC.substring(7, cw);
 
         userCity = userCity.replaceAll("%20", " ");
-        userState = userState.replaceAll("%20", " ");
+        userRegion = userRegion.replaceAll("%20", " ");
         userCountry = userCountry.replaceAll("%20", " ");
 
-        if(userState == null || userState.equals("")) {
+        if (userRegion == null || userRegion.equals("")) {
             String userForeCast = "The current conditions for: " + userCity + ", " + userCountry + " are: " + currentTemp + "F / " + currentTempC + "C, and " + currentWeather;
             writeMsg(ircBot, channel, userForeCast);
         }
         else{
-            String userForeCast = "The current conditions for: " + userCity + ", " + userState + " are: " + currentTemp + "F / " + currentTempC + "C, and " + currentWeather;
+            String userForeCast = "The current conditions for: " + userCity + ", " + userRegion + " are: " + currentTemp + "F / " + currentTempC + "C, and " + currentWeather;
             writeMsg(ircBot, channel, userForeCast);
         }
     }

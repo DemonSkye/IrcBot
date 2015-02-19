@@ -20,6 +20,7 @@ public class ircBot implements Runnable {
 
     }
 
+
     public Socket getSocket() {
         return socket;
     }
@@ -91,9 +92,9 @@ public class ircBot implements Runnable {
     }
 
     public Boolean getNextServerMessage() {
-        Boolean isServermessage = nextServerMessage.getLast();
+        Boolean isServerMessage = nextServerMessage.getLast();
         nextServerMessage.removeLast();
-        return isServermessage;
+        return isServerMessage;
     }
 
     //Non-blocking message sending.  So much coding for this
