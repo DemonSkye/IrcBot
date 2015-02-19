@@ -51,7 +51,10 @@ public class globalFunctions {
     }
 
     public static void doWeather(String userHostName, ircBot ircBot, String channel) {
-        System.out.println("UserHostName in weather: " + userHostName);
+        if (userHostName == null) {
+            writeMsg(ircBot, channel, "Could not resolve hostname: ");
+            return;
+        }
         String userIpAddress = getIpFromHostName(userHostName);
 
         Map ipLocation = getIpInfoByIP(userIpAddress);

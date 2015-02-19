@@ -11773,3 +11773,41 @@
 2015-02-19 06:00:54--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!botproj
 2015-02-19 06:00:57--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That's the code.
 2015-02-19 06:01:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Let me push the latest fix
+2015-02-19 06:02:05--:Green_guy37!webchat@c-50-142-142-9.hsd1.tn.comcast.net PRIVMSG #BeginnersProgramming :!temp
+2015-02-19 06:02:13--:Green_guy37!webchat@c-50-142-142-9.hsd1.tn.comcast.net PRIVMSG #BeginnersProgramming :???
+2015-02-19 06:02:27--:Green_guy37!webchat@c-50-142-142-9.hsd1.tn.comcast.net PRIVMSG #BeginnersProgramming :aye lagg
+2015-02-19 06:02:29--:G14!webchat@cpe-72-191-19-188.satx.res.rr.com PRIVMSG #BeginnersProgramming :!temp
+2015-02-19 06:02:31--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Took a minute, It has to run a lot of queries when it first starts
+2015-02-19 06:03:01--:Green_guy37!webchat@c-50-142-142-9.hsd1.tn.comcast.net PRIVMSG #BeginnersProgramming :9.9F??? damn i aint going outside XD
+2015-02-19 06:03:07--:G14!webchat@cpe-72-191-19-188.satx.res.rr.com PRIVMSG #BeginnersProgramming :Yay, so it dropped 0.2 degrees in a few minutes
+2015-02-19 06:03:15--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It runs rate-limited whois queries on everyone in the room at a rate of 1.4s or so each
+2015-02-19 06:03:22--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :And there's 8 of us
+2015-02-19 06:03:25--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2015-02-19 06:03:33--:Green_guy37!webchat@c-50-142-142-9.hsd1.tn.comcast.net PRIVMSG #BeginnersProgramming :and nowq
+2015-02-19 06:05:52--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :This is going to crash again on G14, which is ok
+2015-02-19 06:05:56--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :As I expect it
+2015-02-19 06:09:04--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp G14
+2015-02-19 06:09:09--:Green_guy37!webchat@c-50-142-142-9.hsd1.tn.comcast.net PRIVMSG #BeginnersProgramming :so crash fixed?
+2015-02-19 06:09:10--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :There ya go.
+2015-02-19 06:09:11--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yup
+2015-02-19 06:09:21--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I still need to handle when it returns null... which is a quick one
+2015-02-19 06:09:53--:Green_guy37!webchat@c-50-142-142-9.hsd1.tn.comcast.net PRIVMSG #BeginnersProgramming :!temp Q
+2015-02-19 06:10:03--:Green_guy37!webchat@c-50-142-142-9.hsd1.tn.comcast.net PRIVMSG #BeginnersProgramming :Q is you right>
+2015-02-19 06:10:10--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :No
+2015-02-19 06:10:16--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Q is the chat bot for quakenet
+2015-02-19 06:10:19--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The server that we're on
+2015-02-19 06:10:24--:Green_guy37!webchat@c-50-142-142-9.hsd1.tn.comcast.net PRIVMSG #BeginnersProgramming :oh ok
+2015-02-19 06:10:25--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's like the police in a sense
+2015-02-19 06:10:35--:Green_guy37!webchat@c-50-142-142-9.hsd1.tn.comcast.net PRIVMSG #BeginnersProgramming :i wonder what happens
+2015-02-19 06:10:46--:Green_guy37!webchat@c-50-142-142-9.hsd1.tn.comcast.net PRIVMSG #BeginnersProgramming :!temp Prog-Bot
+2015-02-19 06:10:54--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That resolves to me.  Lol
+2015-02-19 06:10:59--:G14!webchat@cpe-72-191-19-188.satx.res.rr.com PRIVMSG #BeginnersProgramming :lol, nice
+2015-02-19 06:10:59--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It's running on the same pc as me
+2015-02-19 06:11:31--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp notEvenARealPerson
+2015-02-19 06:11:40--:Green_guy37!webchat@c-50-142-142-9.hsd1.tn.comcast.net PRIVMSG #BeginnersProgramming :sweet
+2015-02-19 06:11:46--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yup, that'll do it
+2015-02-19 06:11:50--:G14!webchat@cpe-72-191-19-188.satx.res.rr.com PRIVMSG #BeginnersProgramming :Nice
+2015-02-19 06:11:53--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp Green_Guy37
+2015-02-19 06:12:01--:DemonSkye!~DemonSkye@pool-108-20-26-37.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yup, so that should all be working now.
+2015-02-19 06:12:20--:G14!webchat@cpe-72-191-19-188.satx.res.rr.com PRIVMSG #BeginnersProgramming :!temp temp
+2015-02-19 06:12:22--:G14!webchat@cpe-72-191-19-188.satx.res.rr.com PRIVMSG #BeginnersProgramming ::V
