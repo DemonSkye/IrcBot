@@ -64,9 +64,8 @@ public class Commands {
                     String userName = command.substring(9, command.length());
                     userName = userName.trim();
                     System.out.println("UserName: " + userName);
-                    String userHost = ircBot.getUserHostName(userName);
+                    String userHost = ircBot.getUserHostName(userName.toLowerCase());
                     System.out.println("userHost: " + userHost);
-                    System.out.println("Bot Command: PRIVMSG" + channel + "Information for user: " + userName + userHost);
                     globalFunctions.writeMsg(ircBot, channel, "Information for user: " + userName + "-- Hostname: " + userHost + " IP Address: "
                             + globalFunctions.getIpFromHostName(userHost));
                 } else {

@@ -2,23 +2,17 @@
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import hirondelle.date4j.DateTime;
-import org.apache.http.client.methods.CloseableHttpResponse;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.HttpClients;
-
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.net.UnknownHostException;
+import java.text.DecimalFormat;
 import java.util.Map;
 import java.util.TimeZone;
 import java.io.*;
 import java.net.InetAddress;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
 
 public class globalFunctions {
     public static int channelCheck(String chatChannels[], String line) {
@@ -57,87 +51,69 @@ public class globalFunctions {
         }
         String userIpAddress = getIpFromHostName(userHostName);
 
-        Map ipLocation = getIpInfoByIP(userIpAddress);
+        Map ipLocation = getIpInfoByIP(userIpAddress, ircBot);
         System.out.println(ipLocation); //diagnostic
 
+        String latitude = "";
+        String longitude = "";
+        try {
+            latitude = ipLocation.get("latitude").toString();
+            longitude = ipLocation.get("longitude").toString();
+        } catch (NullPointerException npe) {
+            npe.printStackTrace();
+            writeMsg(ircBot, channel, "Could not get your Lat / Long from GEOIP Provider");
+            return;
+        }
         String userCity = "";
         String userRegion = "";
         String userCountry = "";
         try {
             userCity = ipLocation.get("city").toString();
-            userRegion = ipLocation.get("region").toString();
-            userCountry = ipLocation.get("country").toString();
-        }catch(NullPointerException npe){ npe.getStackTrace();
-            writeMsg(ircBot, channel, "Could not get the weather for: IP Address: " + userIpAddress);
-            return;
+            userRegion = ipLocation.get("region_code").toString();
+            userCountry = ipLocation.get("country_code").toString();
+        } catch (NullPointerException npe) {
+            System.err.println("Weahter iplocation.get NPE: ");
+            npe.getStackTrace();
         } catch (Exception e) {
             System.err.println("Weahter iplocation.get: ");
             e.printStackTrace();
         }
-        userRegion = Abbr.getStateAbbr(userRegion); //Change state to 2-letter abbreviation
 
-
-        //Debug Values
-        if (userCity != null) {
-            if (userCity.contains(" ")) {
-                userCity = userCity.replaceAll(" ", "%20");
-            }
-        }
-
-        if (userRegion != null) {
-            if (userRegion.contains(" ")) {
-                userRegion = userRegion.replaceAll(" ", "%20");
-            }
-        }
-        if (userCountry != null) {
-            if (userCountry.contains(" ")) {
-                userCountry = userCountry.replaceAll(" ", "%20");
-            }
-        }
         System.out.println(userCity);
         System.out.println(userRegion);
         System.out.println(userCountry);
 
-
-        //
         String currentConditions = "";
-        if (userCity == "" && userRegion == "") {
-            writeMsg(ircBot, channel, "Could not get weather for your region");
-            return;
-        }
-        if (userCity != "" && userRegion != "") {
-            currentConditions = getWeather(userCity, userRegion);
-        }
-        if (userRegion == "" && userCity != "" && userCountry != "") {
-            currentConditions = getWeather(userCity, userCountry);
+        try {
+            currentConditions = getWeather(latitude, longitude, ircBot);
+        } catch (NullPointerException npe) {
+            System.err.println("Weather NullPointerException, getWeather Call: ");
+            npe.printStackTrace();
         }
 
-        int cw = currentConditions.indexOf("weather=");
+        System.out.println(currentConditions);
+        int cw = currentConditions.indexOf("summary=");
         String currentWeather = currentConditions.substring(cw, currentConditions.length());
         cw = currentWeather.indexOf(",");
         currentWeather = currentWeather.substring(8, cw);
 
-        cw = currentConditions.indexOf("temp_f");
+        cw = currentConditions.indexOf("temperature=");
         String currentTemp = currentConditions.substring(cw, currentConditions.length());
         cw = currentTemp.indexOf(",");
-        currentTemp = currentTemp.substring(7, cw);
+        currentTemp = currentTemp.substring(12, cw);
 
-        cw = currentConditions.indexOf("temp_c");
-        String currentTempC = currentConditions.substring(cw, currentConditions.length());
-        cw = currentTempC.indexOf(",");
-        currentTempC = currentTempC.substring(7, cw);
+        Double tempCelcius = ((Double.parseDouble(currentTemp) - 32) * 5 / 9);
+        DecimalFormat df = new DecimalFormat("#.##");
 
-        userCity = userCity.replaceAll("%20", " ");
-        userRegion = userRegion.replaceAll("%20", " ");
-        userCountry = userCountry.replaceAll("%20", " ");
-
-        if (userRegion == null || userRegion.equals("")) {
-            String userForeCast = "The current conditions for: " + userCity + ", " + userCountry + " are: " + currentTemp + "F / " + currentTempC + "C, and " + currentWeather;
+        if ((userRegion != null || !userRegion.equals("")) && userCountry.equals("US")) {
+            String userForeCast = "The current conditions for: " + userCity + ", " + userRegion + " are: " + currentTemp + "F / " + (df.format(tempCelcius) + "C, and " + currentWeather);
             writeMsg(ircBot, channel, userForeCast);
+            return;
         }
         else{
-            String userForeCast = "The current conditions for: " + userCity + ", " + userRegion + " are: " + currentTemp + "F / " + currentTempC + "C, and " + currentWeather;
+            String userForeCast = "The current conditions for: " + userCity + " " + userRegion + ", " + userCountry + " are: " + currentTemp + "F / " + (df.format(tempCelcius) + "C, and " + currentWeather);
             writeMsg(ircBot, channel, userForeCast);
+            return;
         }
     }
 
@@ -157,9 +133,8 @@ public class globalFunctions {
             //writeMsg(writer, channel, "IP Address: " + userIpAddress + "\r\n");
         } catch (UnknownHostException uhe) {
             uhe.printStackTrace();
-        } finally {
-            return userIpAddress;
         }
+        return userIpAddress;
     }
     public static String getHostByMsg(String line){
         int hostFinder = line.indexOf("@");
@@ -167,43 +142,26 @@ public class globalFunctions {
         return line.substring(hostFinder+1, hostFinder2-1);
     }
 
-    public static Map getIpInfoByIP(String userIpAddress){
-        CloseableHttpClient httpclient = HttpClients.createDefault();
-        HttpGet httpget = new HttpGet("http://ipinfo.io/" + userIpAddress + "/json");
-        CloseableHttpResponse response;
-        InputStream in=null;
-        try{
-            response = httpclient.execute(httpget);
-            in = response.getEntity().getContent();
-        }catch(Exception e){ e.printStackTrace(); }
-
+    public static Map getIpInfoByIP(String userIpAddress, ircBot ircBot) {
+        String ipInfo = "https://freegeoip.net/json/" + userIpAddress;
+        InputStream in = ircBot.doHTTPSConnection(ipInfo);
+        ObjectMapper mapper = new ObjectMapper();
         try {
-            ObjectMapper mapper = new ObjectMapper();
-            return mapper.readValue(in, Map.class);
-        }catch(IOException ioe){ioe.printStackTrace(); }
-
-        //Debug values
+            Map<String, Object> ipGeo = mapper.readValue(in, Map.class);
+            return ipGeo;
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
+        }
         return null;
     }
 
-    public static String getWeather(String userCity, String userState){
-        CloseableHttpClient httpclient = HttpClients.createDefault();
-        HttpGet httpget = new HttpGet("http://api.wunderground.com/api/" + privateStuff.getApiKey() + "/conditions/q/" + userState + "/" + userCity + ".json");
-        CloseableHttpResponse response;
-        InputStream in=null;
-        try {
-            response = httpclient.execute(httpget);
-            in = response.getEntity().getContent();
-        } catch (Exception e) {
-            System.out.println("Test");
-            e.printStackTrace();
-        }
+    public static String getWeather(String userLat, String userLong, ircBot ircBot) {
+        String weatherGet = "https://api.forecast.io/forecast/" + privateStuff.getApiKey() + "/" + userLat + "," + userLong;
+        InputStream in = ircBot.doHTTPSConnection(weatherGet);
         ObjectMapper mapper = new ObjectMapper();
         try {
             Map<String, Object> userWeather = mapper.readValue(in, Map.class);
-
-            //To fix later
-            return userWeather.get("current_observation").toString();
+            return userWeather.get("currently").toString();
         } catch(IOException ioe) { ioe.printStackTrace(); }
         return null;
     }

@@ -1,7 +1,8 @@
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.IOException;
+import javax.net.ssl.*;
+import java.io.*;
 import java.net.Socket;
+import java.net.URL;
+import java.security.cert.X509Certificate;
 import java.util.*;
 import java.util.concurrent.locks.ReentrantLock;
 
@@ -95,6 +96,51 @@ public class ircBot implements Runnable {
         Boolean isServerMessage = nextServerMessage.getLast();
         nextServerMessage.removeLast();
         return isServerMessage;
+    }
+
+    public InputStream doHTTPSConnection(String weatherURL) {
+        try {
+
+            TrustManager[] trustAllCerts = new TrustManager[]{
+                    new X509TrustManager() {
+                        public java.security.cert.X509Certificate[] getAcceptedIssuers() {
+                            return null;
+                        }
+
+                        public void checkClientTrusted(X509Certificate[] certs, String authType) {
+                        }
+
+                        public void checkServerTrusted(X509Certificate[] certs, String authType) {
+                        }
+
+                    }
+            };
+
+            SSLContext sc = SSLContext.getInstance("SSL");
+            sc.init(null, trustAllCerts, new java.security.SecureRandom());
+            HttpsURLConnection.setDefaultSSLSocketFactory(sc.getSocketFactory());
+
+            // Create all-trusting host name verifier
+            HostnameVerifier allHostsValid = new HostnameVerifier() {
+                public boolean verify(String hostname, SSLSession session) {
+                    return true;
+                }
+            };
+            HttpsURLConnection.setDefaultHostnameVerifier(allHostsValid);
+
+            URL url = new URL(weatherURL);
+            HttpsURLConnection con = (HttpsURLConnection) url.openConnection();
+            con.setRequestProperty("User-Agent", "Mozilla/5.0 ( compatible ) ");
+            con.setRequestProperty("Accept", "*/*");
+            con.setDoOutput(true);
+            con.setDoInput(true);
+
+
+            return con.getInputStream();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return null;
     }
 
     //Non-blocking message sending.  So much coding for this
