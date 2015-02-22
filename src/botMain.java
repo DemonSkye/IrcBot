@@ -29,7 +29,9 @@ public class botMain {
                 while ((line = ircBot.getReader().readLine()) != null) {
                     if ((!line.startsWith("PING") && !line.startsWith(":Q!") && !line.contains("NOTICE") && !line.contains("372") &&
                             !line.contains("376") && !line.contains("366")) && !line.contains("312") &&
-                            !line.contains("313") && !line.contains("318") && !line.contains("317") && !line.contains("319") ||
+                            !line.contains("313") && !line.contains("318") && !line.contains("317") && !line.contains("319") &&
+                            !line.contains("005") && !line.contains("252") && !line.contains("254") && !line.contains("255") &&
+                            !line.contains("375") && !line.contains("221") ||
                             line.contains("PRIVMSG")) {
                         System.out.println(line);
                     }
@@ -56,7 +58,7 @@ public class botMain {
                         userName = userName.substring(userName.indexOf(" ") + 1, userName.length());
                         userName = userName.substring(0, userName.indexOf(" "));
 
-                        System.out.println(line);
+                        //System.out.println(line);
                         String hostName = line.substring(line.indexOf(ircBot.getUserName()) + 1, line.length());
                         hostName = hostName.substring(hostName.indexOf(" "), hostName.indexOf("*") - 1);
                         hostName = hostName.substring(hostName.lastIndexOf(" "), hostName.length());
@@ -68,7 +70,7 @@ public class botMain {
                         line=line.substring(line.indexOf(":"), line.length());
                         String userNames[] = line.split(" ");
                         for (String s : userNames) {
-                            System.out.println("BOT WHOIS:  whois " + ircBot.getServerHost().substring(1, ircBot.getServerHost().length()) + " " + s.substring(1, s.length()));
+                            //System.out.println("BOT WHOIS:  whois " + ircBot.getServerHost().substring(1, ircBot.getServerHost().length()) + " " + s.substring(1, s.length()));
                             globalFunctions.writeServerMsg(ircBot, "whois " + ircBot.getServerHost().substring(1) + " " + s.substring(1, s.length()));
                         }
                     }
