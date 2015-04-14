@@ -22,6 +22,7 @@ public class Commands {
             globalFunctions.writeMsg(ircBot, channel, "http://en.wikipedia.org/wiki/" + command);
         }
 
+        //Swwiki
         if (command.toLowerCase().startsWith("swwiki")) {
             if (command.length() < 6) {
                 globalFunctions.writeMsg(ircBot, channel, "The correct usage for this command is !swwiki <article>, example: !swwiki Magic Archer");
@@ -34,7 +35,7 @@ public class Commands {
             globalFunctions.writeMsg(ircBot, channel, "http://summonerswarskyarena.info/" + command);
         }
 
-
+        //Seen
         if (command.toLowerCase().startsWith("seen")) {
             String lastSeen = globalFunctions.logScrape(command, channel, ircBot);
             globalFunctions.writeMsg(ircBot, channel, lastSeen);
@@ -66,8 +67,12 @@ public class Commands {
                     System.out.println("UserName: " + userName);
                     String userHost = ircBot.getUserHostName(userName.toLowerCase());
                     System.out.println("userHost: " + userHost);
-                    globalFunctions.writeMsg(ircBot, channel, "Information for user: " + userName + "-- Hostname: " + userHost + " IP Address: "
-                            + globalFunctions.getIpFromHostName(userHost));
+                    if (userHost != null) {
+                        globalFunctions.writeMsg(ircBot, channel, "Information for user: " + userName + "-- Hostname: " + userHost + " IP Address: "
+                                + globalFunctions.getIpFromHostName(userHost));
+                    } else {
+                        globalFunctions.writeMsg(ircBot, channel, "User:" + userName + " was not found in my records.");
+                    }
                 } else {
                     globalFunctions.writeMsg(ircBot, channel, "The showInfo command is meant to take a username (Ex: !showInfo DemonSkye)");
                 }
@@ -77,7 +82,7 @@ public class Commands {
         }
 
         //Weather Command
-        if (command.toLowerCase().contains("weather") || command.toLowerCase().contains("temp")) {
+        if (command.toLowerCase().contains("temp")) {
             int findTemp = command.lastIndexOf("temp");
             String command2 = command.substring(findTemp, command.length());
             if (command2.length() > 5) {
@@ -107,9 +112,19 @@ public class Commands {
                     "the means, you could consider donating: http://beginnerscpp.com/donate/");
         }
 
+        //If statements
+        if (command.toLowerCase().equalsIgnoreCase("if")) {
+            globalFunctions.writeMsg(ircBot, channel, "Lesson 6: Simple If Statements --  http://beginnerscpp.com/lesson-6-simple-if-structure/");
+        }
+
+        //Chat
+        if (command.toLowerCase().equalsIgnoreCase("chat")) {
+            globalFunctions.writeMsg(ircBot, channel, "Live-Chat Link --  http://beginnerscpp.com/Live-Chat/");
+        }
+
         //File handling
         if (command.toLowerCase().equalsIgnoreCase("file")) {
-            globalFunctions.writeMsg(ircBot, channel, "Lesson 13: File I/O --  http://beginnerscpp.com/placeholder-lesson-13-file-input-output/");
+            globalFunctions.writeMsg(ircBot, channel, "Lesson 13: File I/O --  http://beginnerscpp.com/lesson-13-file-input-output/");
         }
 
         //String
@@ -119,7 +134,7 @@ public class Commands {
 
         //Stringstream
         if (command.toLowerCase().equalsIgnoreCase("ss")) {
-            globalFunctions.writeMsg(ircBot, channel, "Lesson 17: Data Validation with StringStream -- http://beginnerscpp.com/placeholder-lesson-17-data-validation-type-checking-with-stringstream/");
+            globalFunctions.writeMsg(ircBot, channel, "Lesson 17: Data Validation with StringStream -- http://beginnerscpp.com/lesson-17-data-validation-type-checking-with-stringstream/");
         }
 
         //Debug
@@ -127,13 +142,14 @@ public class Commands {
             globalFunctions.writeMsg(ircBot, channel, "Lesson 8: Hard Debugging--  http://beginnerscpp.com/lesson-8-hard-debugging/");
 
         }
+        //Array
         if (command.toLowerCase().equalsIgnoreCase("array") || command.toLowerCase().equalsIgnoreCase("arrays")) {
-            globalFunctions.writeMsg(ircBot, channel, "http://beginnerscpp.com/placeholder-lesson-14-introduction-to-arrays/");
+            globalFunctions.writeMsg(ircBot, channel, "http://beginnerscpp.com/lesson-14-introduction-to-arrays/");
 
         }
         //Functions
         if (command.toLowerCase().equalsIgnoreCase("function") || command.toLowerCase().equalsIgnoreCase("functions")) {
-            globalFunctions.writeMsg(ircBot, channel, "Lesson 18: Intro To Functions -- http://beginnerscpp.com/placeholder-lesson-18-introduction-to-functions/");
+            globalFunctions.writeMsg(ircBot, channel, "Lesson 18: Intro To Functions -- http://beginnerscpp.com/lesson-18-introduction-to-functions/");
         }
 
         //Help Command
@@ -141,7 +157,7 @@ public class Commands {
             globalFunctions.writeMsg(ircBot, channel, "Help:  Available commands are: " + globalFunctions.getCommandList());
         }
 
-        //Help Command
+        //Rules Command
         if (command.toLowerCase().startsWith("rules")) {
             globalFunctions.writeMsg(ircBot, channel, "Rules:  The rules are:  1. No code in the channel.  All code gets posted to ideone.com or pastebin.com.   All images go to" +
                     "imgur.com or another image host.  2. No swearing at helpers.  3. No being impatient.  FIFO rules in here.");

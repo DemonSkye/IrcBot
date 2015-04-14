@@ -13,6 +13,7 @@ public class ircBot implements Runnable {
     private String server;
     private String userName;
     private String serverHost;
+    private String lastSaidTime;
     private Deque<String> nextMessage = new ArrayDeque<String>();
     private Deque<Boolean> nextServerMessage = new ArrayDeque<Boolean>();
     private HashMap<String, String> userHostName = new HashMap<String, String>();
@@ -70,6 +71,14 @@ public class ircBot implements Runnable {
         this.serverHost = serverHost;
     }
 
+    public String getLastSaidTime() {
+        return lastSaidTime;
+    }
+
+    public void setLastSaidTime(String lastSaidTime) {
+        this.lastSaidTime = lastSaidTime;
+    }
+
     public String getUserHostName(String userName) {
         return this.userHostName.get(userName);
     }
@@ -100,22 +109,17 @@ public class ircBot implements Runnable {
 
     public InputStream doHTTPSConnection(String weatherURL) {
         try {
-
             TrustManager[] trustAllCerts = new TrustManager[]{
                     new X509TrustManager() {
                         public java.security.cert.X509Certificate[] getAcceptedIssuers() {
                             return null;
                         }
-
                         public void checkClientTrusted(X509Certificate[] certs, String authType) {
                         }
-
                         public void checkServerTrusted(X509Certificate[] certs, String authType) {
                         }
-
                     }
             };
-
             SSLContext sc = SSLContext.getInstance("SSL");
             sc.init(null, trustAllCerts, new java.security.SecureRandom());
             HttpsURLConnection.setDefaultSSLSocketFactory(sc.getSocketFactory());
@@ -134,9 +138,8 @@ public class ircBot implements Runnable {
             con.setRequestProperty("Accept", "*/*");
             con.setDoOutput(true);
             con.setDoInput(true);
-
-
             return con.getInputStream();
+
         } catch (Exception e) {
             e.printStackTrace();
         }

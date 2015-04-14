@@ -15,13 +15,11 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class globalFunctions {
-    public static int channelCheck(String chatChannels[], String line) {
-        for (String s : chatChannels) {
-            int found = line.indexOf(s);
-            if (line.contains(s)) {
+    public static int channelCheck(String channel, String line) {
+        int found = line.indexOf(channel);
+        if (line.contains(channel)) {
                 return found;
             }
-        }
         return -1;
     }
 
@@ -169,7 +167,6 @@ public class globalFunctions {
 
     //Logscrape will dig through the logs and search for a username as part of the !Seen function
     public static String logScrape(String userName, String channel, ircBot ircBot) {
-        System.out.println("First Check In Function:" + userName);
         if (userName.length() < 6) {
             return "The seen command requires a username after it, example: !seen DemonSkye";
         }
@@ -202,7 +199,7 @@ public class globalFunctions {
             writeMsg(ircBot, channel, "The last message sent from that user was: " + lastSaid);
         }catch (IOException ioe){ ioe.printStackTrace(); }
 
-        userFoundTime = compareTime(userFoundTime);
+        userFoundTime = "Which was sent: " + compareTime(userFoundTime) + " ago.";
 
         return userFoundTime;
     }
@@ -247,14 +244,13 @@ public class globalFunctions {
         }
         //System.out.println("Seconds Since Last: " + secondsSinceLast);
 
-        lastSeen ="Which was sent: ";
+        lastSeen = "";
         if(yearsSinceLast >=1){lastSeen += yearsSinceLast.toString(); lastSeen+= " year"; lastSeen+=pluralize(yearsSinceLast); lastSeen +=", ";}
         if(daysSinceLast >=1){lastSeen += daysSinceLast.toString(); lastSeen+= " day"; lastSeen+=pluralize(daysSinceLast); lastSeen +=", ";}
         if(hoursSinceLast >=1){lastSeen += hoursSinceLast.toString(); lastSeen+= " hour"; lastSeen+=pluralize(hoursSinceLast); lastSeen +=", ";}
         if(minutesSinceLast >=1){lastSeen += minutesSinceLast.toString(); lastSeen+= " minute"; lastSeen+=pluralize(minutesSinceLast); lastSeen +=", ";}
         lastSeen += secondsSinceLast.toString();
         lastSeen += " seconds";
-        lastSeen += " ago.";
 
         return lastSeen;
     }
@@ -268,6 +264,7 @@ public class globalFunctions {
 
     public static void writeMsg(ircBot ircBot, String Channel, String Message) {
         ircBot.setNextMessage("PRIVMSG " + Channel + Message);
+        System.out.println("PRIVMSG " + Channel + Message);
         ircBot.setNextServerMessage(false);
 
         try {
@@ -282,6 +279,7 @@ public class globalFunctions {
 
     public static void writeServerMsg(ircBot ircBot, String Message) {
         ircBot.setNextMessage(Message);
+        System.out.println("SERVER MESSAGE: PRIVMSG " + Message);
         ircBot.setNextServerMessage(true);
         try {
             ExecutorService threadPool = Executors.newSingleThreadExecutor();

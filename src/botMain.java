@@ -7,10 +7,6 @@ public class botMain {
             // The server to connect to and our details.
             String server = "irc.quakenet.org";
             String channels[] = {"#BeginnersProgramming"};
-            String chatChannels[] = new String[channels.length];
-            for (int i = 0; i < channels.length; i++) {
-                chatChannels[i] = channels[i].concat(" :");
-            }
 
 
             ircBot ircBot = new ircBot();
@@ -18,15 +14,15 @@ public class botMain {
             ircBot.setWriter((new BufferedWriter(new OutputStreamWriter(ircBot.getSocket().getOutputStream()))));
             ircBot.setReader((new BufferedReader(new InputStreamReader(ircBot.getSocket().getInputStream()))));
             ircBot.setServer(server);
-
-
             String line;
             boolean isAdmin = false;
             Connect.Connection(ircBot, ircBot.getWriter(), channels);
-
             try {
                 // Keep reading lines from the server.
                 while ((line = ircBot.getReader().readLine()) != null) {
+                    String channel = globalFunctions.getChannelName(channels, line);
+                    channel += " :";
+                    //System.out.println("Channel: " + channel );
                     if ((!line.startsWith("PING") && !line.startsWith(":Q!") && !line.contains("NOTICE") && !line.contains("372") &&
                             !line.contains("376") && !line.contains("366")) && !line.contains("312") &&
                             !line.contains("313") && !line.contains("318") && !line.contains("317") && !line.contains("319") &&
@@ -36,8 +32,10 @@ public class botMain {
                         System.out.println(line);
                     }
                     PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ircLogs.txt", true)));
-                    if (!line.toLowerCase().startsWith("ping") && line.contains("PRIVMSG ") && line.contains("!"))
+                    if (!line.toLowerCase().startsWith("ping") && line.contains("PRIVMSG ") && line.contains("!")) {
                         out.println(globalFunctions.timeStamp() + "--" + line);
+                        ircBot.setLastSaidTime(globalFunctions.timeStamp());
+                    }
 
                     if (line.toLowerCase().startsWith("ping")) {
                         // We must respond to PINGs to avoid being disconnected.
@@ -46,12 +44,20 @@ public class botMain {
                     }
 
                     if (line.contains("JOIN") && !line.contains("PRIVMSG")) {
-                        line = line.substring(1, line.length());
-                        String userName = line.substring(0, line.indexOf("!"));
+                        String userName = line.substring(1, line.indexOf("!"));
                         String userHostname = line.substring(line.indexOf("@") + 1, line.indexOf(" "));
-                        ircBot.setUserHostName(userName, userHostname);
+                        //System.out.println("Username on join: " +userName + "/UserHost on join:" +userHostname);
+                        ircBot.setUserHostName(userName.toLowerCase(), userHostname.toLowerCase());
+                        if (ircBot.getLastSaidTime() != null) {
+                            String idleTime = globalFunctions.compareTime(ircBot.getLastSaidTime());
+                            if (idleTime.contains("hours")) {
+                                globalFunctions.writeMsg(ircBot, channel, " The channel has been inactive for: " + idleTime
+                                        + " You can check the away message by typing !seen DemonSkye");
+                            } else {
+                                globalFunctions.writeMsg(ircBot, channel, "Welcome to Beginners Programming!");
+                            }
+                        }
                     }
-
                     //Returned HostInfo
                     if (line.contains(ircBot.getServerHost() + " 311") && !(line.startsWith("PING"))) {
                         String userName = line.substring(line.indexOf(ircBot.getUserName()), line.length());
@@ -65,7 +71,7 @@ public class botMain {
                         ircBot.setUserHostName(userName.toLowerCase(), hostName);
                     }
 
-                    if (line.contains("353") && line.startsWith(ircBot.getServerHost()) && !(line.startsWith("PING"))) {
+                    if (line.startsWith(ircBot.getServerHost() + " 353") && !(line.startsWith("PING"))) {
                         line = line.substring(1);
                         line=line.substring(line.indexOf(":"), line.length());
                         String userNames[] = line.split(" ");
@@ -75,21 +81,16 @@ public class botMain {
                         }
                     }
 
-                    if (line.startsWith(":DemonSkye!") || line.startsWith(":thearrowflies!")) {
-                        isAdmin = true;
-                    } else {
-                        isAdmin = false;
-                    }
+                    isAdmin = line.startsWith(":DemonSkye!") || line.startsWith(":thearrowflies!");
 
-                    int found = globalFunctions.channelCheck(chatChannels, line);
+                    int found = globalFunctions.channelCheck(channel, line);
                     if (found >= 0) {
                         String command = line;
-                        String channelName = globalFunctions.getChannelName(chatChannels, line);
                         if (!((line.contains("!Weather") || line.contains("!weather") || line.contains("!temp") || line.contains("!Temp")))) {
                             command = line.substring(found, line.length());
-                            command = command.substring(channelName.length(), command.length());
+                            command = command.substring(channel.length(), command.length());
                         }
-                        Commands.handleCommands(command, ircBot, channelName, isAdmin);
+                        Commands.handleCommands(command, ircBot, channel, isAdmin);
                     }
                     out.close();
                 }
@@ -102,7 +103,6 @@ public class botMain {
             System.out.println("Exception E botmain - : " + e.getMessage());
             e.printStackTrace();
         }
-
 
     }
 }
