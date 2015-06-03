@@ -146,6 +146,7 @@ public class globalFunctions {
         ObjectMapper mapper = new ObjectMapper();
         try {
             Map<String, Object> ipGeo = mapper.readValue(in, Map.class);
+            System.out.println("IP GEO: " + ipGeo);
             return ipGeo;
         } catch (IOException ioe) {
             ioe.printStackTrace();
@@ -190,7 +191,7 @@ public class globalFunctions {
             }
             br.close();
             if (lastSaid.equals("") && userFoundTime.equals("")) {
-                lastSaid = "User has not chatted in this channel since I started keeping logs";
+                lastSaid = "User has not chatted in this channel since I started keeping logs, note, names are case sensitive (DemonSkye is not the same as Demonskye)";
                 return lastSaid;
             }
             /*System.out.println("LastSaid: " + lastSaid);
@@ -279,7 +280,7 @@ public class globalFunctions {
 
     public static void writeServerMsg(ircBot ircBot, String Message) {
         ircBot.setNextMessage(Message);
-        System.out.println("SERVER MESSAGE: PRIVMSG " + Message);
+        System.out.println("SERVER MESSAGE:" + Message);
         ircBot.setNextServerMessage(true);
         try {
             ExecutorService threadPool = Executors.newSingleThreadExecutor();

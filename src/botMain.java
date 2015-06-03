@@ -19,6 +19,7 @@ public class botMain {
             Connect.Connection(ircBot, ircBot.getWriter(), channels);
             try {
                 // Keep reading lines from the server.
+
                 while ((line = ircBot.getReader().readLine()) != null) {
                     String channel = globalFunctions.getChannelName(channels, line);
                     channel += " :";
@@ -51,10 +52,10 @@ public class botMain {
                         if (ircBot.getLastSaidTime() != null) {
                             String idleTime = globalFunctions.compareTime(ircBot.getLastSaidTime());
                             if (idleTime.contains("hours")) {
-                                globalFunctions.writeMsg(ircBot, channel, " The channel has been inactive for: " + idleTime
+                                globalFunctions.writeServerMsg(ircBot, "NOTICE " + userName + " :The channel has been inactive for: " + idleTime
                                         + " You can check the away message by typing !seen DemonSkye");
                             } else {
-                                globalFunctions.writeMsg(ircBot, channel, "Welcome to Beginners Programming!");
+                                globalFunctions.writeServerMsg(ircBot, "NOTICE " + userName + " :Welcome to Beginners Programming!");
                             }
                         }
                     }
@@ -77,7 +78,11 @@ public class botMain {
                         String userNames[] = line.split(" ");
                         for (String s : userNames) {
                             //System.out.println("BOT WHOIS:  whois " + ircBot.getServerHost().substring(1, ircBot.getServerHost().length()) + " " + s.substring(1, s.length()));
-                            globalFunctions.writeServerMsg(ircBot, "whois " + ircBot.getServerHost().substring(1) + " " + s.substring(1, s.length()));
+                            if (s.startsWith("@")) {
+                                globalFunctions.writeServerMsg(ircBot, "whois " + ircBot.getServerHost().substring(1) + " " + s.substring(1, s.length()));
+                            } else {
+                                globalFunctions.writeServerMsg(ircBot, "whois " + ircBot.getServerHost().substring(1) + " " + s.substring(0, s.length()));
+                            }
                         }
                     }
 
