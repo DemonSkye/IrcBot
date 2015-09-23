@@ -25,14 +25,8 @@
     <artifactId>httpclient</artifactId>
     <version>4.5</version>
 </dependency>
-
-<dependency>
-    <groupId>junit</groupId>
-    <artifactId>junit</artifactId>
-    <version>4.8.2</version>
-    <scope>test</scope>
-</dependency>
-<dependency>
+    
+    <dependency>
     <!-- Note: core-annotations version x.y.0 is generally compatible with
          (identical to) version x.y.1, x.y.2, etc. -->
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -50,13 +44,6 @@
     <groupId>com.fasterxml.jackson.core</groupId>
     <artifactId>jackson-databind</artifactId>
     <version>${jackson.version}</version>
-</dependency>
-
-<dependency>
-    <groupId>junit</groupId>
-    <artifactId>junit</artifactId>
-    <version>4.8.2</version>
-    <scope>test</scope>
 </dependency>
 
 </dependencies>
