@@ -145,7 +145,7 @@ public class globalFunctions {
     }
 
     public static Map getIpInfoByIP(String userIpAddress, ircBot ircBot) {
-        String ipInfo = "https://freegeoip.net/json/" + userIpAddress;
+        String ipInfo = "https://telize.com/geoip" + userIpAddress;
         InputStream in = ircBot.doHTTPSConnection(ipInfo);
         ObjectMapper mapper = new ObjectMapper();
         try {
