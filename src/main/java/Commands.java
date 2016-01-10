@@ -160,8 +160,17 @@ public class Commands {
 
         //Rules Command
         if (command.toLowerCase().startsWith("rules")) {
-            globalFunctions.writeMsg(ircBot, channel, "Rules:  The rules are:  1. No code in the channel.  All code gets posted to ideone.com or pastebin.com.   All images go to" +
-                    "imgur.com or another image host.  2. No swearing at helpers.  3. No being impatient.  FIFO rules in here.");
+            globalFunctions.writeMsg(ircBot, channel,
+                    "Rules:  The rules are:  " +
+                            "1. No code in the channel.  All code gets posted to ideone.com or pastebin.com .  All images go to imgur.com or another image host.     " +
+                            "2. You have to have code, have tried debugging it, and do not understand whats going wrong.     " +
+                            "3. If you ask for a full assignment to be done for you, you will be banned.     "
+            );
+            globalFunctions.writeMsg(ircBot, channel,
+                    "4. You are required to use either CLion, or Visual Studio 2010 (or later) for C++ questions or not ask questions that require debugging.    " +
+                            "5. Just ask your fucking question. Yes, you can ask your question.    " +
+                            "6. Your grades and deadlines do not matter to me. Don’t try to justify your begging with your irresponsibility."
+            );
         }
 
         //BotProject
@@ -169,19 +178,61 @@ public class Commands {
             globalFunctions.writeMsg(ircBot, channel, "Bot Project is available here: https://github.com/DemonSkye/IrcBot/tree/master/src");
         }
 
+        if (command.toLowerCase().contains("phone") || command.toLowerCase().contains("phonevalidate") || command.toLowerCase().contains("validate")) {
+            int commandLength = command.indexOf(" ");
+            String phoneNumber = command.substring(commandLength + 1, command.length());
+            System.out.println("phoneNumber: " + phoneNumber);
+            String phoneValidation = globalFunctions.phoneValidate(phoneNumber);
+            globalFunctions.writeMsg(ircBot, channel, phoneValidation);
+        }
+
+        if (command.toLowerCase().contains("currency") || command.toLowerCase().contains("exchange") || command.toLowerCase().contains("currencyChange")) {
+            int commandLength = command.indexOf(" ");
+            String currencies = command.substring(commandLength + 1, command.length());
+            String baseCurrency = currencies.substring(0, currencies.indexOf(" "));
+            currencies = currencies.substring(currencies.indexOf(" ") + 1, currencies.length());
+            String targetCurrency = currencies.substring(0, currencies.indexOf(" "));
+            double quantity = 0.0;
+            currencies = currencies.substring(targetCurrency.length() + 1, currencies.length());
+            try {
+                System.out.println("currencies: " + currencies);
+                quantity = Double.parseDouble(currencies);
+            } catch (Exception e) {
+                e.printStackTrace();
+                quantity = 1.0;
+            }
+            System.out.println("baseCurrency: " + baseCurrency);
+            System.out.println("targetCurrency: " + targetCurrency);
+            System.out.println("Quantity: " + quantity);
+            double currencyExchange = globalFunctions.currencyExchange(baseCurrency, targetCurrency);
+
+            globalFunctions.writeMsg(ircBot, channel, "The current value of " + quantity + " " + baseCurrency + " in " + targetCurrency + " is: " + (currencyExchange * quantity));
+        }
 
         //Admin Commands
         if (command.toLowerCase().equalsIgnoreCase("auth")) {
             command = command.replace(" ", "_");
-            System.out.println(globalFunctions.timeStamp() + "--AUTH Prog-Bot " + privateStuff.getPassword());
             if (isAdmin) {
                 try {
                     ircBot.getWriter().write("AUTH Prog-Bot " + privateStuff.getPassword() + "\r\n");
                     ircBot.getWriter().flush();
+                    System.out.println(globalFunctions.timeStamp() + "--AUTH Prog-Bot " + privateStuff.getPassword());
                 } catch (IOException ioe) {
                     System.err.println("Auth: ");
                     ioe.printStackTrace();
                 }
+            }
+        }
+
+        if (command.toLowerCase().startsWith("ip")) {
+            System.out.println(command);
+            if (isAdmin) {
+                String userName = command.substring(command.indexOf(" ") + 1, command.length()).trim();
+                String userHostName = ircBot.getUserHostName(userName.toLowerCase());
+                String ipAddress = globalFunctions.getIpFromHostName(userHostName);
+                globalFunctions.writeMsg(ircBot, channel, "The ip address for user " + userName + " is: " + ipAddress);
+            } else {
+                globalFunctions.writeMsg(ircBot, channel, "Command is only available to channel administrators");
             }
         }
 

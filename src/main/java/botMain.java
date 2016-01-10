@@ -7,7 +7,7 @@ public class botMain {
     public static void main(String[] args) {
         try {
             // The server to connect to and our details.
-            String server = "irc.quakenet.org";
+            String server = "66.225.225.66";
             String channels[] = {"#BeginnersProgramming"};
 
 
@@ -31,9 +31,8 @@ public class botMain {
                             !line.contains("313") && !line.contains("318") && !line.contains("317") && !line.contains("319") &&
                             !line.contains("005") && !line.contains("252") && !line.contains("254") && !line.contains("255") &&
                             !line.contains("375") && !line.contains("221") ||
-                            line.contains("PRIVMSG")) {
+                            line.contains("PRIVMSG"))
                         System.out.println(line);
-                    }
                     PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ircLogs.txt", true)));
                     if (!line.toLowerCase().startsWith("ping") && line.contains("PRIVMSG ") && line.contains("!")) {
                         out.println(globalFunctions.timeStamp() + "--" + line);
@@ -88,7 +87,7 @@ public class botMain {
                         }
                     }
 
-                    isAdmin = line.startsWith(":DemonSkye!") || line.startsWith(":thearrowflies!");
+                    isAdmin = line.startsWith(":DemonSkye!") || line.startsWith(":thearrowflies!") || line.startsWith(":Damien__");
 
                     int found = globalFunctions.channelCheck(channel, line);
                     if (found >= 0) {

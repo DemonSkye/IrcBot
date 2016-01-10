@@ -109,7 +109,7 @@ public class ircBot implements Runnable {
         return isServerMessage;
     }
 
-    public InputStream doHTTPSConnection(String weatherURL) {
+    public InputStream doHTTPSConnection(String jsonURL) {
         try {
             TrustManager[] trustAllCerts = new TrustManager[]{
                     new X509TrustManager() {
@@ -136,7 +136,7 @@ public class ircBot implements Runnable {
             };
             HttpsURLConnection.setDefaultHostnameVerifier(allHostsValid);
 
-            URL url = new URL(weatherURL);
+            URL url = new URL(jsonURL);
             HttpsURLConnection con = (HttpsURLConnection) url.openConnection();
             con.setRequestProperty("User-Agent", "Mozilla/5.0 ( compatible ) ");
             con.setRequestProperty("Accept", "*/*");

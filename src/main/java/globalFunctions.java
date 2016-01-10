@@ -6,9 +6,11 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import hirondelle.date4j.DateTime;
 
+import javax.imageio.IIOException;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.net.URL;
 import java.net.UnknownHostException;
 import java.text.DecimalFormat;
 import java.util.Map;
@@ -56,8 +58,8 @@ public class globalFunctions {
         Map ipLocation = getIpInfoByIP(userIpAddress, ircBot);
         System.out.println(ipLocation); //diagnostic
 
-        String latitude = "";
-        String longitude = "";
+        String latitude;
+        String longitude;
         try {
             latitude = ipLocation.get("latitude").toString();
             longitude = ipLocation.get("longitude").toString();
@@ -110,15 +112,14 @@ public class globalFunctions {
         if ((userRegion != null || !userRegion.equals("")) && userCountry.equals("US")) {
             String userForeCast = "The current conditions for: " + userCity + ", " + userRegion + " are: " + currentTemp + "F / " + (df.format(tempCelcius) + "C, and " + currentWeather);
             writeMsg(ircBot, channel, userForeCast);
-            return;
         } else {
             String userForeCast = "The current conditions for: " + userCity + " " + userRegion + ", " + userCountry + " are: " + currentTemp + "F / " + (df.format(tempCelcius) + "C, and " + currentWeather);
             writeMsg(ircBot, channel, userForeCast);
-            return;
         }
     }
 
     public static String getIpFromHostName(String userHostName) {
+        System.out.println("userHostName:" + userHostName);
         String userIpAddress = "";
         System.out.println(userHostName);
         userHostName = userHostName.trim();
@@ -145,13 +146,16 @@ public class globalFunctions {
     }
 
     public static Map getIpInfoByIP(String userIpAddress, ircBot ircBot) {
-        String ipInfo = "https://telize.com/geoip" + userIpAddress;
+        String ipInfo = "https://freegeoip.net/json/" + userIpAddress;
+        boolean tryOther = false;
         InputStream in = ircBot.doHTTPSConnection(ipInfo);
         ObjectMapper mapper = new ObjectMapper();
         try {
             Map<String, Object> ipGeo = mapper.readValue(in, Map.class);
             System.out.println("IP GEO: " + ipGeo);
             return ipGeo;
+        } catch (java.net.ConnectException conn) {
+            conn.printStackTrace();
         } catch (IOException ioe) {
             ioe.printStackTrace();
         } catch (Exception e) {
@@ -161,7 +165,7 @@ public class globalFunctions {
     }
 
     public static String getWeather(String userLat, String userLong, ircBot ircBot) {
-        String weatherGet = "https://api.forecast.io/forecast/" + privateStuff.getApiKey() + "/" + userLat + "," + userLong;
+        String weatherGet = "https://api.forecast.io/forecast/" + privateStuff.getWeatherApiKey() + "/" + userLat + "," + userLong;
         InputStream in = ircBot.doHTTPSConnection(weatherGet);
         ObjectMapper mapper = new ObjectMapper();
         try {
@@ -175,6 +179,42 @@ public class globalFunctions {
         return null;
     }
 
+    public static double currencyExchange(String baseCurrency, String targetCurrency) {
+        String currencyGet = "http://api.fixer.io/latest?base=" + baseCurrency + "&symbols=" + targetCurrency;
+        ObjectMapper mapper = new ObjectMapper();
+        String currencyValue = "";
+        try {
+            InputStream input = new URL(currencyGet).openStream();
+            Map<String, Object> currencyMap = mapper.readValue(input, Map.class);
+            System.out.println(currencyMap.toString());
+            currencyValue = currencyMap.get("rates").toString();
+            currencyValue = currencyValue.substring(currencyValue.indexOf("=") + 1, currencyValue.length() - 1);
+            System.out.println("currencyValue after Substring:" + currencyValue);
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return Double.parseDouble(currencyValue);
+    }
+
+    public static String phoneValidate(String number) {
+        String phoneGet = "http://apilayer.net/api/validate?access_key=" + privateStuff.getPhoneValidationKey() + "&number=1" + number;
+        ObjectMapper mapper = new ObjectMapper();
+        String phoneValidation = "";
+        try {
+            InputStream input = new URL(phoneGet).openStream();
+            Map<String, Object> phoneValidationMap = mapper.readValue(input, Map.class);
+            phoneValidation = "Report for phone number " + number + ": Valid-- " + phoneValidationMap.get("valid") + "  Country name-- " + phoneValidationMap.get("country_name")
+                    + "  Location-- " + phoneValidationMap.get("location") + "  Carrier-- " + phoneValidationMap.get("carrier") + "  line type-- " + phoneValidationMap.get("line_type");
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return phoneValidation;
+    }
 
     //Logscrape will dig through the logs and search for a username as part of the !Seen function
     public static String logScrape(String userName, String channel, ircBot ircBot) {
