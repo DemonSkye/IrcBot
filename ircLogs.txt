@@ -19165,3 +19165,916 @@
 2016-01-10 10:19:19--:blackguy!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!ip GBoris
 2016-01-10 10:19:26--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!ip GBoris
 2016-01-10 10:19:32--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Neat.  That's done.
+2016-01-10 10:23:10--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!botproj
+2016-01-10 11:36:12--:vsam!webchat@2.182.44.137 PRIVMSG #BeginnersProgramming :hi
+2016-01-10 11:36:40--:vsam!webchat@2.182.44.137 PRIVMSG #BeginnersProgramming :is there any one in java prog
+2016-01-10 11:36:50--:vsam!webchat@2.182.44.137 PRIVMSG #BeginnersProgramming :??
+2016-01-10 12:37:10--:programmer!webchat@59.89.184.148 PRIVMSG #BeginnersProgramming :help me in this command
+2016-01-10 12:37:44--:programmer!webchat@59.89.184.148 PRIVMSG #BeginnersProgramming :#include<iostream.h> #include<conio.h> #include<stdio.h> struct Time{ int h,m,s; }; struct Bus{ int BNO; char Regno[],Splace[],Eplace[]; Time st; }B[100];  void main() {int i,n,k; clrscr(); cout<<"Enter the no. of Buses whose infomation is needed to be inserted \n"; cin>>n; cout<<"\nEnter Buses information \n"; cout<<"______________________________________________________________ \n";  for(i=0;i<n;i++) { cout<<"\nEnter Bus "<<i+1<<" Informat
+2016-01-10 12:38:26--:programmer!webchat@59.89.184.148 PRIVMSG #BeginnersProgramming :ACTION slaps programmer around a bit with a large fishbot
+2016-01-10 16:00:34--:Akki!webchat@49.207.69.215 PRIVMSG #BeginnersProgramming :help
+2016-01-10 17:13:26--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :Hi
+2016-01-10 17:17:56--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :Hi?
+2016-01-10 17:18:59--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK YOU FUCKING MOTHERFUCKERS!!!
+2016-01-10 17:19:07--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCKS
+2016-01-10 17:19:12--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:14--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:17--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:19--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:20--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:22--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:23--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:25--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:26--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:29--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:31--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:32--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:34--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:36--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:39--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:19:42--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :FUCK
+2016-01-10 17:20:21--:Ciechan!webchat@adat229.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :Jesteście poskurwianymi i pojebanymi pierdolonymi pizdami
+2016-01-10 18:01:32--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!rules
+2016-01-10 18:01:52--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-10 18:02:07--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp thearrowflies
+2016-01-10 18:02:30--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!phone 7813632319
+2016-01-10 18:03:05--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!currency USD GBP 1000
+2016-01-10 18:03:22--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!ip thearrowflies
+2016-01-10 18:03:32--:blackguy!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!ip thearrowflies
+2016-01-10 18:23:04--:panther_!webchat@89-65-133-102.dynamic.chello.pl PRIVMSG #BeginnersProgramming :hey, any1 want to help with xor decryption?
+2016-01-10 18:29:33--:miha!webchat@BSN-142-247-253.dynamic.siol.net PRIVMSG #BeginnersProgramming :hello
+2016-01-11 00:18:02--:Nice!webchat@mikolajczyka.ds.po.opole.pl PRIVMSG #BeginnersProgramming :https://ideone.com/f2rTM8
+2016-01-11 00:18:23--:Nice!webchat@mikolajczyka.ds.po.opole.pl PRIVMSG #BeginnersProgramming :How can I add new struct-object to array? I got an error in this code
+2016-01-11 02:07:36--:Need_help!webchat@99-63-98-29.lightspeed.bcvloh.sbcglobal.net PRIVMSG #BeginnersProgramming :Hello
+2016-01-11 02:07:47--:Need_help!webchat@99-63-98-29.lightspeed.bcvloh.sbcglobal.net PRIVMSG #BeginnersProgramming :I need help
+2016-01-11 05:13:27--:Akki!webchat@14.194.242.45 PRIVMSG #BeginnersProgramming :Hello
+2016-01-11 05:14:59--:Akki!webchat@14.194.242.45 PRIVMSG #BeginnersProgramming :Que: Why all methods are not static in Java?
+2016-01-11 15:57:02--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-11 16:58:08--:TaLLkoTTeH!webchat@188-67-210-160.bb.dnainternet.fi PRIVMSG #BeginnersProgramming :Hello, anyone online?
+2016-01-11 17:02:58--:GBoris!~Admin@87-56-26-228-dynamic.dk.customer.tdc.net PRIVMSG #BeginnersProgramming :Hey DemonSkye
+2016-01-11 17:03:43--:GBoris!~Admin@87-56-26-228-dynamic.dk.customer.tdc.net PRIVMSG #BeginnersProgramming :I got this problem right now. Example code:
+2016-01-11 17:04:07--:GBoris!~Admin@87-56-26-228-dynamic.dk.customer.tdc.net PRIVMSG #BeginnersProgramming :float& variable; (Requires to be initialized)
+2016-01-11 17:04:24--:GBoris!~Admin@87-56-26-228-dynamic.dk.customer.tdc.net PRIVMSG #BeginnersProgramming :float& variable=Color1; (This is ok)
+2016-01-11 17:05:05--:GBoris!~Admin@87-56-26-228-dynamic.dk.customer.tdc.net PRIVMSG #BeginnersProgramming :variable = Color2 (Not redefinable!!)
+2016-01-11 17:06:00--:GBoris!~Admin@87-56-26-228-dynamic.dk.customer.tdc.net PRIVMSG #BeginnersProgramming :I have an int which, which describes an index. Depending on the index selected, it must change the reference.
+2016-01-11 17:06:39--:GBoris!~Admin@87-56-26-228-dynamic.dk.customer.tdc.net PRIVMSG #BeginnersProgramming :I even googled it, they say it isn't supported in C++, but I can use the function reference wrapper
+2016-01-11 17:08:27--:GBoris!~Admin@87-56-26-228-dynamic.dk.customer.tdc.net PRIVMSG #BeginnersProgramming :I found a solution for the problem, but its really bad.. It includes this line: "if(1)"
+2016-01-11 17:40:59--:Mani!webchat@97e79b15.skybroadband.com PRIVMSG #BeginnersProgramming :i need help 
+2016-01-11 17:44:24--:GBoris!~Admin@87-56-26-228-dynamic.dk.customer.tdc.net PRIVMSG #BeginnersProgramming :That guy waited 5 seconds for a response and left
+2016-01-11 17:44:25--:GBoris!~Admin@87-56-26-228-dynamic.dk.customer.tdc.net PRIVMSG #BeginnersProgramming :Kewl
+2016-01-11 19:32:08--:Damien_Work!~Damien@c-76-19-116-250.hsd1.ma.comcast.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-11 19:32:22--:Damien_Work!~Damien@c-76-19-116-250.hsd1.ma.comcast.net PRIVMSG #BeginnersProgramming :Prog bot you lazy piece of shit...
+2016-01-11 19:32:26--:Damien_Work!~Damien@c-76-19-116-250.hsd1.ma.comcast.net PRIVMSG #BeginnersProgramming :!temp DemonSkye
+2016-01-11 20:24:26--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Hey wassup homie :o
+2016-01-11 20:24:29--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2016-01-11 20:24:34--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-11 20:24:45--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :!temp DemonSkye
+2016-01-11 20:29:51--:Dawix!webchat@cpe2-8-223.cable.triera.net PRIVMSG #BeginnersProgramming :Hi
+2016-01-11 20:30:10--:Dawix!webchat@cpe2-8-223.cable.triera.net PRIVMSG #BeginnersProgramming :Anyone here?
+2016-01-11 20:55:47--:NickBot!webchat@c-76-119-205-106.hsd1.ma.comcast.net PRIVMSG #BeginnersProgramming :hi?
+2016-01-11 20:56:26--:NickBot!webchat@c-76-119-205-106.hsd1.ma.comcast.net PRIVMSG #BeginnersProgramming :anyone there?
+2016-01-11 22:12:46--:eta!webchat@69.57.232.203 PRIVMSG #BeginnersProgramming :hi guys
+2016-01-12 01:40:51--:fabrique!webchat@194-144-109-75.du.xdsl.is PRIVMSG #BeginnersProgramming :hey
+2016-01-12 01:41:26--:fabrique!webchat@194-144-109-75.du.xdsl.is PRIVMSG #BeginnersProgramming :does anyone know how to create a game ?
+2016-01-12 01:41:29--:fabrique!webchat@194-144-109-75.du.xdsl.is PRIVMSG #BeginnersProgramming :cheap game
+2016-01-12 03:04:57--:jai!webchat@noida1.synapse.co.in PRIVMSG #BeginnersProgramming :hi
+2016-01-12 03:05:16--:jai!webchat@noida1.synapse.co.in PRIVMSG #BeginnersProgramming :anyone is there
+2016-01-12 06:01:15--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-12 07:08:34--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-12 10:00:36--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!currency USD GBP 100
+2016-01-12 11:58:40--:Composure!webchat@bb115-66-42-210.singnet.com.sg PRIVMSG #BeginnersProgramming :hi anyone here
+2016-01-12 15:59:30--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :Hello. I am trying to use Openssl base 64 functions and I found some nice code on google(https://gist.github.com/barrysteyn/7308212) and also in stack overflow. But for my understanding I have to delete the pointers at the end of the functions.. but application crashes if I delete or free(). So, have I to delete them or not ?
+2016-01-12 16:00:04--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2016-01-12 16:08:57--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :rip
+2016-01-12 16:45:09--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :Hi!
+2016-01-12 16:45:11--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :someone there?
+2016-01-12 16:45:24--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :just me
+2016-01-12 16:45:39--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :could you help me in one c++ thing?
+2016-01-12 16:46:02--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I am here with a c++ problem too.. but you may ask the others and if I know I will answer.
+2016-01-12 16:46:44--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :what's your problem?
+2016-01-12 16:46:47--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :maybe i could help you
+2016-01-12 16:47:15--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I want to use openssl base64 functions
+2016-01-12 16:47:22--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :but I'm a little bit confuse
+2016-01-12 16:47:31--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :cant help you on that
+2016-01-12 16:47:36--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :never touched it
+2016-01-12 16:47:53--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :ok..
+2016-01-12 16:48:00--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :so, what's yours ?
+2016-01-12 16:52:51--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :alone agin
+2016-01-12 16:52:52--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :again
+2016-01-12 17:17:24--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :u know how to work with files?
+2016-01-12 17:17:30--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :yes
+2016-01-12 17:17:38--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :text or binary ?
+2016-01-12 17:17:42--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :text
+2016-01-12 17:17:55--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I know
+2016-01-12 17:17:57--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :wait 1sec
+2016-01-12 17:18:00--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :0
+2016-01-12 17:18:01--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :1
+2016-01-12 17:18:02--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :2
+2016-01-12 17:18:03--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :i tell you what i have to do
+2016-01-12 17:18:05--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :xD
+2016-01-12 17:18:36--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :ok
+2016-01-12 17:18:42--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :i have a text file
+2016-01-12 17:18:45--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :with numbers
+2016-01-12 17:18:47--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :in this format:
+2016-01-12 17:19:22--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :4 4  2 1 1 1 3 2 5 1
+2016-01-12 17:19:39--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :afetr 4 4 theres an endl
+2016-01-12 17:20:08--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :and where is the problem ?
+2016-01-12 17:20:14--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :and with this numbers i have to create a table
+2016-01-12 17:20:18--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :the following format:
+2016-01-12 17:20:25--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :https://imageshack.us/i/p5BQ0KKlp
+2016-01-12 17:20:54--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :first two numbers in file are lines x columns
+2016-01-12 17:20:59--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :in this case 4x4
+2016-01-12 17:21:23--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :next are the white and black(#) spaces
+2016-01-12 17:21:25--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :and
+2016-01-12 17:21:32--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :what is the format
+2016-01-12 17:21:33--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I mean
+2016-01-12 17:21:37--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I see the photo
+2016-01-12 17:21:41--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :but I don't understand it
+2016-01-12 17:21:57--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :we have the txt file
+2016-01-12 17:22:02--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :4 4  2 1 1 1 3 2 5 1
+2016-01-12 17:22:02--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :yes
+2016-01-12 17:22:04--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :4 columns
+2016-01-12 17:22:06--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :4 lines
+2016-01-12 17:22:28--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :and 2 1 1 1 3 2 5 1 ?
+2016-01-12 17:22:29--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :first 2 mean 2 blanc spaces, then 1 black space, then 1 blanc, then 1 black
+2016-01-12 17:22:40--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :etc
+2016-01-12 17:22:46--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :oh
+2016-01-12 17:22:57--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :u got it?
+2016-01-12 17:23:09--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I think yes, let me check
+2016-01-12 17:23:16--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :okay
+2016-01-12 17:24:24--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :think so
+2016-01-12 17:24:24--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :so
+2016-01-12 17:24:28--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :it's like
+2016-01-12 17:24:47--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :if X is black and O is blanc
+2016-01-12 17:24:48--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :then
+2016-01-12 17:25:00--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :OOXO
+2016-01-12 17:25:08--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :XOXX
+2016-01-12 17:25:13--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :XOOX
+2016-01-12 17:25:17--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :XXXX
+2016-01-12 17:25:22--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :O ?
+2016-01-12 17:25:52--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :hm
+2016-01-12 17:26:06--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :kind of
+2016-01-12 17:26:19--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :and what have you done so far ?
+2016-01-12 17:26:41--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :yes its exactly that
+2016-01-12 17:27:00--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :can i post the code here?
+2016-01-12 17:27:02--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :are we alone?
+2016-01-12 17:27:08--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :think so
+2016-01-12 17:27:13--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :ok
+2016-01-12 17:27:15--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :but no
+2016-01-12 17:27:20--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :pastebin
+2016-01-12 17:27:27--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :http://pastebin.com/
+2016-01-12 17:27:37--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :okay
+2016-01-12 17:27:39--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :wait 1sec
+2016-01-12 17:28:24--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :faster :)
+2016-01-12 17:28:28--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :my codeblocks isnt opening xdd
+2016-01-12 17:28:30--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :gimme 1 sec
+2016-01-12 17:28:44--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :rip
+2016-01-12 17:29:36--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :http://pastebin.com/E7xpWea7
+2016-01-12 17:29:39--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I would sugest to try a free version of visual studio if you are using windows
+2016-01-12 17:30:01--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :what about all code xD ?
+2016-01-12 17:30:17--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :thats all i have
+2016-01-12 17:30:19--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :thats the function
+2016-01-12 17:30:29--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :no main function or something 
+2016-01-12 17:30:30--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :?
+2016-01-12 17:31:38--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :ok
+2016-01-12 17:31:40--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :let me try
+2016-01-12 17:31:49--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :4 4  2 1 1 1 3 2 5 1
+2016-01-12 17:39:18--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :are you here ?
+2016-01-12 17:40:40--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :http://pastebin.com/59vamm8f
+2016-01-12 17:40:44--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :this is my implementation
+2016-01-12 17:40:46--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :seems to work
+2016-01-12 17:42:12--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :easy and slow :)
+2016-01-12 17:45:53--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :or http://pastebin.com/hch7y9xm
+2016-01-12 17:46:08--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :Sorry man i am eating
+2016-01-12 17:46:09--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :xD
+2016-01-12 17:46:14--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :yeah it works
+2016-01-12 17:46:26--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :now i need to include the border #'s
+2016-01-12 17:46:29--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :yay
+2016-01-12 17:46:30--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :and the a b c d
+2016-01-12 17:46:41--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :your work now :D
+2016-01-12 17:46:47--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :yep
+2016-01-12 17:46:49--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :ty dude
+2016-01-12 17:46:52--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :np
+2016-01-12 17:48:14--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :will you stay here ?
+2016-01-12 17:48:18--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :so if i have a doubt
+2016-01-12 17:48:19--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :i tell you
+2016-01-12 17:48:26--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I am going to take a shower
+2016-01-12 17:48:47--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :sorry
+2016-01-12 17:50:41--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :okay!
+2016-01-12 18:20:07--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :hi
+2016-01-12 18:20:13--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :i need help about c++
+2016-01-12 18:21:25--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :can anybody heelp me about c++?
+2016-01-12 18:21:35--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :anybody ?
+2016-01-12 18:22:57--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :do you know c++?
+2016-01-12 18:23:48--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :do you want to help me or do you want to help you ?
+2016-01-12 18:24:10--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :i want you to help me if you can.
+2016-01-12 18:24:24--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I could try ..
+2016-01-12 18:24:34--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :lets see
+2016-01-12 18:24:36--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :wait a moment
+2016-01-12 18:25:11--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :can you explain me this thing with true and false
+2016-01-12 18:25:18--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :do you mean booleans ?
+2016-01-12 18:25:35--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :example: int x = true;
+2016-01-12 18:25:39--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :yes
+2016-01-12 18:25:49--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :i cant understand that at all...
+2016-01-12 18:25:59--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :you shouldn't do int x = true;
+2016-01-12 18:26:09--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :their is a native type named bool
+2016-01-12 18:26:22--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :which can hold only 2 value: true and false
+2016-01-12 18:26:25--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :you see,i have a book where it is written like that
+2016-01-12 18:26:29--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :yes that i know
+2016-01-12 18:26:32--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :only that
+2016-01-12 18:26:41--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :if you try to do int x = true;
+2016-01-12 18:26:45--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :x will be 1
+2016-01-12 18:26:50--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :or more right?
+2016-01-12 18:27:10--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :and if you try int x = false
+2016-01-12 18:27:12--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :will be 0
+2016-01-12 18:27:25--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :is very useful if you have to check something
+2016-01-12 18:27:35--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :ok,
+2016-01-12 18:27:50--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :in other half in code its written like
+2016-01-12 18:27:57--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :==, <, > return bools
+2016-01-12 18:28:00--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :etc.
+2016-01-12 18:28:09--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :while ( i <= sqrt (n))
+2016-01-12 18:28:32--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :yes
+2016-01-12 18:28:35--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :{ (n % i == 0)
+2016-01-12 18:28:41--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :x = false;
+2016-01-12 18:28:44--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :i ++ ;
+2016-01-12 18:28:53--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :what it doing now
+2016-01-12 18:29:09--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :(n % i == 0) this is a statement which do nothing
+2016-01-12 18:29:16--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :are you sure this is how is in the book ?
+2016-01-12 18:29:37--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :i can copy paste all of it...you want?
+2016-01-12 18:29:43--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :yes
+2016-01-12 18:29:44--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :but
+2016-01-12 18:29:47--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :pastebin.com
+2016-01-12 18:29:50--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :what
+2016-01-12 18:30:08--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :oh i see let me try to do it
+2016-01-12 18:30:10--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :http://pastebin.com/
+2016-01-12 18:30:12--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :paste here
+2016-01-12 18:30:21--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :can you see it?
+2016-01-12 18:30:37--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :you have to press Create new paste
+2016-01-12 18:30:42--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :paste *
+2016-01-12 18:30:45--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :then give me the link
+2016-01-12 18:31:10--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :ok
+2016-01-12 18:31:14--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :did you get it ?
+2016-01-12 18:31:24--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :http://pastebin.com/9uG0fjeM
+2016-01-12 18:31:26--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :can you see it?
+2016-01-12 18:31:29--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :faster please, I'm hungry :D
+2016-01-12 18:31:35--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :x = is_prime now
+2016-01-12 18:31:42--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :yes
+2016-01-12 18:31:43--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :Ican
+2016-01-12 18:31:59--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :ok can you now tell me whats going on?
+2016-01-12 18:32:16--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I think is checking if a number is prime or not
+2016-01-12 18:32:29--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :yes
+2016-01-12 18:32:38--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :do you know what is a prime number ?
+2016-01-12 18:32:41--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :now i dont understand why is there true and false
+2016-01-12 18:32:50--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :yes 1,3,7...
+2016-01-12 18:32:56--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :1 is not prime
+2016-01-12 18:32:59--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :but ok
+2016-01-12 18:33:05--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :lel i didnt know
+2016-01-12 18:33:39--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :this is a little unclear code
+2016-01-12 18:33:43--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :but I'll try
+2016-01-12 18:33:51--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :ok
+2016-01-12 18:33:54--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :first, is_prime is set to true
+2016-01-12 18:34:01--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :so that means?
+2016-01-12 18:34:11--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :and the algorithm try to find a divisor
+2016-01-12 18:34:23--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :if the number has a divisor, isn't prime
+2016-01-12 18:34:41--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :  if (n % i == 0)
+2016-01-12 18:34:44--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :if is divisor
+2016-01-12 18:34:55--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :is_prime = false; then is not prime
+2016-01-12 18:35:06--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :break; and stop the while
+2016-01-12 18:35:20--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :yes i see that BUT
+2016-01-12 18:35:32--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :i dont know why and for what is use of true and false
+2016-01-12 18:35:52--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :you could use 1 and 0
+2016-01-12 18:35:58--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :or 10 and 5
+2016-01-12 18:36:12--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :the algorithm should work
+2016-01-12 18:36:37--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :so it is like is_prime = 10?
+2016-01-12 18:36:44--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :yes
+2016-01-12 18:36:54--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :and if you find a divisor
+2016-01-12 18:36:58--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :is_prime = 5
+2016-01-12 18:36:58--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :but why they didnt say that instead of true?
+2016-01-12 18:37:06--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :because
+2016-01-12 18:37:09--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :is easier
+2016-01-12 18:37:20--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :how
+2016-01-12 18:37:26--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :i see it easier with number
+2016-01-12 18:37:40--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :int takes 4 bytes on most modern compilers
+2016-01-12 18:37:46--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :bool always takes 1
+2016-01-12 18:37:57--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :(yeah, here isn't used but .. ehm)
+2016-01-12 18:38:13--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :ok..
+2016-01-12 18:38:13--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :and you could say 
+2016-01-12 18:38:18--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :how it would look with bool?
+2016-01-12 18:38:20--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :while is_prime is true
+2016-01-12 18:38:32--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :instead of while is_prime is 10
+2016-01-12 18:38:51--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :it looks same way, but bool is_prims = true; at the beggining
+2016-01-12 18:39:30--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :oik
+2016-01-12 18:39:30--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :is more logic to say is true instead if is 1 or 10 or 23423423423423
+2016-01-12 18:39:31--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :ty
+2016-01-12 18:39:58--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :you didn't got it .. :(
+2016-01-12 18:40:08--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :yes i got it half what i needed :)
+2016-01-12 18:40:12--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :its still good
+2016-01-12 18:40:18--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :i must go now :/
+2016-01-12 18:40:28--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :can we meed later or tommorow in same time?
+2016-01-12 18:40:33--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :idk
+2016-01-12 18:40:34--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :meet*
+2016-01-12 18:40:41--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :you add my skype
+2016-01-12 18:40:47--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :name?
+2016-01-12 18:41:24--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :see private
+2016-01-12 18:41:48--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :oh i hear that
+2016-01-12 18:42:02--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :can you add a _ so it wont decline it?
+2016-01-12 18:42:07--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :in middle
+2016-01-12 18:42:14--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :what do you mean ?
+2016-01-12 18:42:19--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I don't understand
+2016-01-12 18:42:36--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :like name_lastname
+2016-01-12 18:42:40--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :marequest123@gmail.com
+2016-01-12 18:42:43--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :thats my gmail
+2016-01-12 18:42:52--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :you can add me 
+2016-01-12 18:43:35--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :it cant :/
+2016-01-12 18:43:37--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :add me skype
+2016-01-12 18:43:41--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :gmail*
+2016-01-12 18:44:01--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :yes.. but are 4 accounts showed me by skype
+2016-01-12 18:44:15--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :im from serbia pozega
+2016-01-12 18:44:17--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :marko jovicic
+2016-01-12 18:44:30--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :ok done
+2016-01-12 18:44:32--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :aghhhh i must go
+2016-01-12 18:44:35--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :see ya
+2016-01-12 18:44:42--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :i will 100% be tommorow in same time
+2016-01-12 18:46:16--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :bye
+2016-01-12 19:10:44--:qus!webchat@dsl-hkibrasgw5-58c05f-217.dhcp.inet.fi PRIVMSG #BeginnersProgramming :sey anyone here?
+2016-01-12 19:10:46--:qus!webchat@dsl-hkibrasgw5-58c05f-217.dhcp.inet.fi PRIVMSG #BeginnersProgramming :hey*
+2016-01-12 19:13:18--:qus!webchat@dsl-hkibrasgw5-58c05f-217.dhcp.inet.fi PRIVMSG #BeginnersProgramming : How can I break too long system.out.print and keep writing on the next line? in C it was \ or sth but doesn't work in java seemingly 
+2016-01-12 19:25:11--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :someone there?
+2016-01-12 19:25:38--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :someone there?
+2016-01-12 20:29:30--:Sothu!webchat@135.Red-88-8-79.dynamicIP.rima-tde.net PRIVMSG #BeginnersProgramming :someone there?
+2016-01-12 20:29:38--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :yes
+2016-01-12 20:29:45--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :but i am new so i need help...
+2016-01-12 20:34:10--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :anyone there?
+2016-01-12 20:34:19--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :?
+2016-01-12 20:34:20--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :?
+2016-01-12 20:35:37--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :guys?
+2016-01-12 20:39:48--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :.
+2016-01-12 20:39:48--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :.
+2016-01-12 20:39:48--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :.
+2016-01-12 20:39:48--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :.
+2016-01-12 20:39:49--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :.
+2016-01-12 20:39:49--:marecquest!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :.
+2016-01-12 23:46:30--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :And home
+2016-01-13 06:56:52--:alex__!webchat@c-50-174-155-106.hsd1.ca.comcast.net PRIVMSG #BeginnersProgramming :I am having trouble determining which string is the shortest name in an array
+2016-01-13 06:57:04--:alex__!webchat@c-50-174-155-106.hsd1.ca.comcast.net PRIVMSG #BeginnersProgramming :I have been trying to use a for loop 
+2016-01-13 06:57:21--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Okay... pretty simple
+2016-01-13 06:57:53--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :C++ or java?
+2016-01-13 06:57:57--:alex__!webchat@c-50-174-155-106.hsd1.ca.comcast.net PRIVMSG #BeginnersProgramming :Java
+2016-01-13 07:00:07--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :1 min. Making a code sample
+2016-01-13 07:00:15--:alex__!webchat@c-50-174-155-106.hsd1.ca.comcast.net PRIVMSG #BeginnersProgramming :No rush
+2016-01-13 07:04:33--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :1 sec. compiling
+2016-01-13 07:07:03--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :http://ideone.com/1wlQy8
+2016-01-13 07:07:12--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :There ya go.  Sorry it's a little ugly with the line indenting.
+2016-01-13 07:07:20--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Ideone tried to be helpful but butchered it a bit.
+2016-01-13 07:08:38--:alex__!webchat@c-50-174-155-106.hsd1.ca.comcast.net PRIVMSG #BeginnersProgramming :No it's very useful
+2016-01-13 07:09:33--:alex__!webchat@c-50-174-155-106.hsd1.ca.comcast.net PRIVMSG #BeginnersProgramming :Just for understanding purposes, what does declaring the two variables as -1 and 1000000 do? 
+2016-01-13 07:11:50--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :-1 means that if for some reason it's not set, it won't point to an item in the array and it'll error
+2016-01-13 07:11:58--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :And 1000000 is longer than a String can be.
+2016-01-13 07:12:23--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :So any normal string will reset that to a value.  (Always initialized your "minimum" values high, in case minimum is very large)
+2016-01-13 08:37:35--:abc_!webchat@scanweb.univ-montp1.fr PRIVMSG #BeginnersProgramming :hi i'm programming in c++ 
+2016-01-13 08:38:10--:abc_!webchat@scanweb.univ-montp1.fr PRIVMSG #BeginnersProgramming :and when i try to compile my program codeblocks told me that
+2016-01-13 08:38:14--:abc_!webchat@scanweb.univ-montp1.fr PRIVMSG #BeginnersProgramming :Vector(initializer_list<double> lst);
+2016-01-13 08:38:43--:abc_!webchat@scanweb.univ-montp1.fr PRIVMSG #BeginnersProgramming :error: expected ‘)’ before ‘<’ token
+2016-01-13 09:54:55--:Rajcr7!webchat@115.160.254.82 PRIVMSG #BeginnersProgramming :Hi
+2016-01-13 09:55:39--:Rajcr7!webchat@115.160.254.82 PRIVMSG #BeginnersProgramming :I have 20 threads in threadpool and i need to executes them one after the another after 15 seconds . how to achive it
+2016-01-13 09:55:41--:Rajcr7!webchat@115.160.254.82 PRIVMSG #BeginnersProgramming :?
+2016-01-13 11:16:21--:phantom_tom!webchat@host217-42-212-170.range217-42.btcentralplus.com PRIVMSG #BeginnersProgramming :hello
+2016-01-13 16:27:49--:Dave!webchat@c-82-192-244-39.customer.ggaweb.ch PRIVMSG #BeginnersProgramming :Hi
+2016-01-13 16:28:18--:Dave!webchat@c-82-192-244-39.customer.ggaweb.ch PRIVMSG #BeginnersProgramming :I need help 
+2016-01-13 16:30:00--:Dave!webchat@c-82-192-244-39.customer.ggaweb.ch PRIVMSG #BeginnersProgramming :I want to write a program that can translate mimimeter into centimeter meter and kilometer how can i do this? 
+2016-01-13 16:31:57--:Dave!webchat@c-82-192-244-39.customer.ggaweb.ch PRIVMSG #BeginnersProgramming :I want to write a program that can translate mimimeter into centimeter meter and kilometer how can i do this? 
+2016-01-13 17:38:46--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :anybody may I talk to ?
+2016-01-13 19:03:07--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Hello!
+2016-01-13 19:04:11--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Not sure if this fits, still related to Java though. I'm reading a NetBeans IDE manual and I'm trying to add Swing Controls. However, I'm stuck at the point when I have to add them using the shift key (so as to not have to click on for example, label or text field anymore).
+2016-01-13 19:05:14--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Tried shift+left click and it only places one, can't place another one after that.. Tried holding down the shift key, same thing.
+2016-01-13 19:05:51--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Kind of lost. It doesn't actually affect how the program works of course, but it's annoying because it would make it easier for me to work, I'm just not sure what I'm doing wrong...
+2016-01-13 19:32:26--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Someone here?
+2016-01-13 19:35:29--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :hello everybody! havent been here for a while
+2016-01-13 19:42:43--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :anybody online?
+2016-01-13 19:43:37--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :just me
+2016-01-13 19:45:02--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I am here for help too, but I can try to help you 
+2016-01-13 20:05:46--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :Okay so, I have a Date(int day, month, year) class and a todayDate item with values got from a Calendar
+2016-01-13 20:06:25--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :the user is requested to type a date which goes into a inputDate(d,m,y) object
+2016-01-13 20:08:32--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :The program has to check until the inputDate equals todayDate, and in the while it has to tell the user if what he's inserted is not a date, or if it is, that it is not the date of today, and ask again
+2016-01-13 20:08:54--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :and what is the problem ?
+2016-01-13 20:10:31--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :That the part "not a date" works fine
+2016-01-13 20:11:05--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :but the assignment of the input to the object doesn't work properly and i can't find a way to make it work
+2016-01-13 20:11:46--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :aaaand
+2016-01-13 20:12:18--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :the user should enter a fomat like 13.01.2015
+2016-01-13 20:12:41--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :you have problem while parsing user string
+2016-01-13 20:12:44--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :or ?
+2016-01-13 20:12:54--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :The current method uses setDay/Month/Year(nextInt)
+2016-01-13 20:13:05--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :i tested it isolately and it works fine
+2016-01-13 20:13:36--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :but in the moment i try and put it into the while and if statements it doesnt anymore
+2016-01-13 20:14:34--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :did you tr to debug line by line ?
+2016-01-13 20:14:38--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :try *
+2016-01-13 20:16:28--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :faster please, I want to sleep
+2016-01-13 20:17:36--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :how do i do that?
+2016-01-13 20:17:51--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :do you use an IDE ? which one if you do ?
+2016-01-13 20:17:52--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :I tried several combinations in a clean environment
+2016-01-13 20:18:04--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :eclipse
+2016-01-13 20:18:46--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I never worked with c++ in eclipse
+2016-01-13 20:19:05--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :but you should google eclipse c++ debugging
+2016-01-13 20:19:20--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :i thought we were talking java lol
+2016-01-13 20:19:24--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :btw it should be the same
+2016-01-13 20:19:26--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :thanks
+2016-01-13 20:19:32--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :have a good sleep
+2016-01-13 20:19:40--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :the site's name is beginnersc++ :))
+2016-01-13 20:19:58--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :here it's beginnersjava 
+2016-01-13 20:20:05--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :lol
+2016-01-13 20:20:08--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :lol i believe it's just the same chat for all sites
+2016-01-13 20:20:11--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :nice
+2016-01-13 20:21:13--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :http://www.tutorialspoint.com/eclipse/eclipse_debugging_program.htm
+2016-01-13 20:21:17--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :looks good to me
+2016-01-13 20:21:29--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :good night :)
+2016-01-13 20:21:59--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Hey, still around here?
+2016-01-13 20:22:04--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Have a problem with NetBeans.
+2016-01-13 20:22:13--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Not sure if you saw above...
+2016-01-13 20:22:14--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :I'll copy paste.
+2016-01-13 20:22:18--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :maybe I will open this chat on phone
+2016-01-13 20:22:22--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :I'm reading a NetBeans IDE manual and I'm trying to add Swing Controls. However, I'm stuck at the point when I have to add them using the shift key (so as to not have to click on for example, label or text field anymore).
+2016-01-13 20:22:32--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Tried shift+left click and it only places one, can't place another one after that.. Tried holding down the shift key, same thing.
+2016-01-13 20:22:48--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Super annoying stuff. :P
+2016-01-13 20:25:51--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :so
+2016-01-13 20:25:57--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :what s up ?
+2016-01-13 20:26:05--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :I'll c/p again :P
+2016-01-13 20:26:10--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :[22:21] <Radu__> I'm reading a NetBeans IDE manual and I'm trying to add Swing Controls. However, I'm stuck at the point when I have to add them using the shift key (so as to not have to click on for example, label or text field anymore). [22:21] <Radu__> Tried shift+left click and it only places one, can't place another one after that.. Tried holding down the shift key, same thing.
+2016-01-13 20:26:14--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :GUI stuff basically.
+2016-01-13 20:26:29--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Can't get the damn "add multiple components" thing to work using the shift key.
+2016-01-13 20:27:39--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I have no idea
+2016-01-13 20:27:49--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :never used netbeans
+2016-01-13 20:28:02--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Ah.
+2016-01-13 20:28:22--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :is this a c++ question ?
+2016-01-13 20:28:40--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :No, Java.
+2016-01-13 20:29:02--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I know only the very basics in java
+2016-01-13 20:29:31--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :I know mostly the basics in C and Java. :D
+2016-01-13 20:30:11--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I am actually here in searching for help too
+2016-01-13 20:30:38--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :but yesterday and today I could help some guys with some cpp questions :)
+2016-01-13 20:30:52--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :Well, in logics there is not much difference is there ?
+2016-01-13 20:31:05--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Yeah shouldn't be.
+2016-01-13 20:31:16--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :ok, can t read after read
+2016-01-13 20:31:16--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Strange though, seems like there's mostly people needing help here, hehe.
+2016-01-13 20:31:43--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :can you new line after some few words ?
+2016-01-13 20:31:54--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :can t see whole line on phone
+2016-01-13 20:32:27--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Might be a lot of spam, but here I go.
+2016-01-13 20:32:53--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Wait where did you say you can't read after?
+2016-01-13 20:33:12--:KayBee!webchat@62.98.31.161 PRIVMSG #BeginnersProgramming :im sorry i gotta leave
+2016-01-13 20:33:16--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :after people last reply
+2016-01-13 20:34:27--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :still waiting :)
+2016-01-13 20:34:40--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :After what?
+2016-01-13 20:35:03--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :people is the last word I can see
+2016-01-13 20:36:00--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :Strange though, seems like there's mostly people 
+2016-01-13 20:36:06--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :this is what i see
+2016-01-13 20:36:10--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :"needing help here, hehe."
+2016-01-13 20:36:16--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :That's the rest.
+2016-01-13 20:36:21--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :ok thanks, I was curious
+2016-01-13 20:36:25--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Ah. :D
+2016-01-13 20:36:52--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :it looks like is the same chat for java and c++
+2016-01-13 20:37:55--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I will probably go and ask on stackoverflow then ...
+2016-01-13 20:38:14--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Yeah.
+2016-01-13 20:38:15--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Same chat.
+2016-01-13 20:38:37--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Stackoverflow is probably better, but I think I need to actually install an IRC client or something for it.
+2016-01-13 20:38:48--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :The irc2go thing or whatever doesn't work very well for me.
+2016-01-13 20:38:51--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :And I need some sort of auth.
+2016-01-13 20:39:28--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :think last word :)
+2016-01-13 20:39:49--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :"need to actually install an IRC client or something for it."
+2016-01-13 20:40:00--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :"something for it."
+2016-01-13 20:40:08--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :thanks
+2016-01-13 20:40:12--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :you don t have
+2016-01-13 20:40:29--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :isn t a chat like site
+2016-01-13 20:40:30--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :Strange phone app that you're using, doesn't allow you to see whole message.
+2016-01-13 20:40:41--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :you to see whole message.
+2016-01-13 20:41:02--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :I am using mozilla firefox on an android device
+2016-01-13 20:41:31--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :ah
+2016-01-13 20:41:45--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :chrome masterrace!
+2016-01-13 20:41:54--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :xD
+2016-01-13 20:42:03--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :let me try on chrome
+2016-01-13 20:43:49--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :no luck
+2016-01-13 20:43:56--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :hm
+2016-01-13 20:44:15--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :my pc main browser is chrome
+2016-01-13 20:45:10--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :but when I needed a browser for phone chrome needed 4.0+ android
+2016-01-13 20:45:15--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :and I had 2.3
+2016-01-13 20:45:15--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :oh
+2016-01-13 20:45:52--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :so the better options was firefox
+2016-01-13 20:46:06--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :and I became familiar with it
+2016-01-13 20:46:55--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :did you tryed googleing your problem ?
+2016-01-13 20:47:02--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :yes
+2016-01-13 20:47:04--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :did not find the fix
+2016-01-13 20:47:11--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :or yahooing ... or binging ....
+2016-01-13 20:48:09--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :may I ask you what is your country ? because Radu sounds good in my language
+2016-01-13 20:49:45--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :i think we are both from romania
+2016-01-13 20:49:46--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :lol
+2016-01-13 20:49:53--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :aparent
+2016-01-13 20:49:55--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :da
+2016-01-13 20:50:01--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :haha
+2016-01-13 20:50:05--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :interesant
+2016-01-13 20:50:29--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :dap
+2016-01-13 20:50:41--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :ai skype :) ?
+2016-01-13 20:50:58--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :ehh nu prea folosesc
+2016-01-13 20:51:03--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :am gmail daca vrei
+2016-01-13 20:51:05--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :=))
+2016-01-13 20:51:10--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming ::)))
+2016-01-13 20:51:54--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :parca pana acuma a fost online
+2016-01-13 20:51:56--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming ::)))
+2016-01-13 20:52:46--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :=))
+2016-01-13 20:52:48--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :da
+2016-01-13 20:53:29--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :e bine ca mai sunt si romani interesari de programare
+2016-01-13 20:54:00--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :si nu dau la mateinfo doar ca sa dea la medicina dupa ........
+2016-01-13 20:54:36--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :da...
+2016-01-13 20:55:11--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :eu imi rezolv problema acum
+2016-01-13 20:55:13--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :=))
+2016-01-13 20:55:18--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :bafta
+2016-01-13 20:55:18--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :adica, trec peste asta
+2016-01-13 20:55:27--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :eu dorm cu ochii deschisi
+2016-01-13 20:55:31--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :haha
+2016-01-13 20:55:36--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :mersi :)
+2016-01-13 20:55:51--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :eu am gasit alta rezolvare la problema me
+2016-01-13 20:56:17--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :dAr tot vreau sa stiu cum se facea cum voiam eu initial ;)
+2016-01-13 20:56:57--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :noapte buna
+2016-01-13 20:58:04--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :Radu__ [webchat@5-12-24-179.residential.rdsnet.ro]
+2016-01-13 20:58:07--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :dap
+2016-01-13 20:58:14--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :nb
+2016-01-13 20:58:18--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :trebuia sa ma uit la asta mai de mulr
+2016-01-13 20:58:20--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :mult
+2016-01-13 20:58:23--:Radu__!webchat@5-12-24-179.residential.rdsnet.ro PRIVMSG #BeginnersProgramming :si bafta si tie :)
+2016-01-13 22:58:24--:Gavin!webchat@109.175.183.1 PRIVMSG #BeginnersProgramming :anyone there>
+2016-01-13 23:41:42--:thatwtfmoment!webchat@host-2-102-95-208.as13285.net PRIVMSG #BeginnersProgramming :hello
+2016-01-13 23:41:46--:thatwtfmoment!webchat@host-2-102-95-208.as13285.net PRIVMSG #BeginnersProgramming :anyoner here right now?
+2016-01-14 00:40:57--:FM_!webchat@78.29.140.13 PRIVMSG #BeginnersProgramming :hi
+2016-01-14 00:44:03--:FM_!webchat@78.29.140.13 PRIVMSG #BeginnersProgramming :can u help me to make a java code i want a code to change two or more letters in a word i have a code for change one but i cant transform too make the change 
+2016-01-14 00:47:19--:FM_!webchat@78.29.140.13 PRIVMSG #BeginnersProgramming :HELP its urgent
+2016-01-14 01:41:40--:Moose_!webchat@108-93-142-99.lightspeed.brhmal.sbcglobal.net PRIVMSG #BeginnersProgramming :hello
+2016-01-14 02:19:34--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :hello
+2016-01-14 02:19:38--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :is anyone here
+2016-01-14 02:20:24--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :please
+2016-01-14 02:20:27--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :i have a question
+2016-01-14 02:20:50--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :the arrow flies
+2016-01-14 02:20:59--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :it says below that you know your shit :)
+2016-01-14 02:21:40--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :ok so i want the user to input some text
+2016-01-14 02:21:48--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :and save that text so I can reuse it ate
+2016-01-14 02:21:52--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :later
+2016-01-14 02:22:18--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :i used getline(cin,text)
+2016-01-14 02:22:29--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :and it works later when i say cout<<text;
+2016-01-14 02:22:33--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :however
+2016-01-14 02:22:58--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :whenever I put the text input in a condition if
+2016-01-14 02:23:20--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :the compiler skips the cin,text part and just outputs whatever is after
+2016-01-14 02:23:25--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :can you please help
+2016-01-14 02:26:38--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :is anyone here? i have no deadline or anything im just learning cpp by myself before school starts
+2016-01-14 02:26:54--:beginnerrr!webchat@modemcable224.155-82-70.mc.videotron.ca PRIVMSG #BeginnersProgramming :but ive been searching this and i dont find it nowhere
+2016-01-14 03:58:04--:Bob__!webchat@96.245.38.208 PRIVMSG #BeginnersProgramming :I was wondering why i am having a compilation error for my program.
+2016-01-14 03:58:50--:Bob__!webchat@96.245.38.208 PRIVMSG #BeginnersProgramming :I think I counted the brackets correctly but it says I have too many and when I get rid of one my break statement is outside of the loop
+2016-01-14 03:59:23--:Bob__!webchat@96.245.38.208 PRIVMSG #BeginnersProgramming :should i post my ideone.com link?
+2016-01-14 12:32:22--:Mehedi_Hasan!webchat@103.4.145.210 PRIVMSG #BeginnersProgramming :Hello
+2016-01-14 12:56:44--:Deverus!webchat@pa49-180-151-199.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :hello
+2016-01-14 12:57:22--:Deverus!webchat@pa49-180-151-199.pa.nsw.optusnet.com.au PRIVMSG #BeginnersProgramming :thearrowflies
+2016-01-14 12:58:25--:Kenneth__!webchat@n1164913184.netvigator.com PRIVMSG #BeginnersProgramming :hi
+2016-01-14 15:18:50--:amresh!webchat@14.98.54.155 PRIVMSG #BeginnersProgramming :hello
+2016-01-14 15:33:51--:javatheWHAT!webchat@206.174.180.55 PRIVMSG #BeginnersProgramming :hallo
+2016-01-14 15:34:12--:javatheWHAT!webchat@206.174.180.55 PRIVMSG #BeginnersProgramming :anyone active?
+2016-01-14 17:28:56--:jake__!webchat@host31-51-194-217.range31-51.btcentralplus.com PRIVMSG #BeginnersProgramming :hi
+2016-01-14 17:29:33--:jake__!webchat@host31-51-194-217.range31-51.btcentralplus.com PRIVMSG #BeginnersProgramming :im looking to make a simple click button game to help me learn mandarin
+2016-01-14 17:30:32--:jake__!webchat@host31-51-194-217.range31-51.btcentralplus.com PRIVMSG #BeginnersProgramming :should i be using a specific game engine/asset bundle or should visual studio 2015 surfice
+2016-01-14 17:45:19--:jake__!webchat@host31-51-194-217.range31-51.btcentralplus.com PRIVMSG #BeginnersProgramming :using the standard iostream
+2016-01-14 17:58:10--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :anybody ?
+2016-01-14 18:11:04--:jake__!webchat@host31-51-194-217.range31-51.btcentralplus.com PRIVMSG #BeginnersProgramming :hi
+2016-01-14 18:15:26--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :may you help me ?
+2016-01-14 19:11:29--:rynkk!webchat@pD95155EC.dip0.t-ipconnect.de PRIVMSG #BeginnersProgramming :Hello
+2016-01-14 19:16:25--:rynkk!webchat@pD95155EC.dip0.t-ipconnect.de PRIVMSG #BeginnersProgramming :I've got a class Stack in stack.cpp ->http://pastebin.com/hWVVTMvc and the main.cpp-> http://pastebin.com/M7M5Nw94
+2016-01-14 19:17:26--:rynkk!webchat@pD95155EC.dip0.t-ipconnect.de PRIVMSG #BeginnersProgramming :Now, I dont quite understand why there has to be a "Stack::" infront of each function in the class stack
+2016-01-14 19:18:05--:rynkk!webchat@pD95155EC.dip0.t-ipconnect.de PRIVMSG #BeginnersProgramming :also I do not understand what line 18 in the main.cpp means( Stack s2{s1})
+2016-01-14 22:59:35--:Scott!webchat@CPE0c473dc33f51-CM0c473dc33f50.cpe.net.cable.rogers.com PRIVMSG #BeginnersProgramming :Hey guys
+2016-01-14 22:59:50--:Scott!webchat@CPE0c473dc33f51-CM0c473dc33f50.cpe.net.cable.rogers.com PRIVMSG #BeginnersProgramming :Can anybody help me with public boolean statements
+2016-01-15 01:18:57--:Cool_Guy!webchat@dhcp-e8-89-2c-7d-3f-34.cpe.ezlink.ca PRIVMSG #BeginnersProgramming :help?
+2016-01-15 02:02:41--:jim__!webchat@c-67-177-108-232.hsd1.fl.comcast.net PRIVMSG #BeginnersProgramming :only have one ?.  I wrote a statement that had (") at the bringing and end. It also takes over three lines.  line on "Statement\n ; line 2 has the 2nd part of statement with \n ;  line three statement then \"" << endl; 
+2016-01-15 02:03:59--:jim__!webchat@c-67-177-108-232.hsd1.fl.comcast.net PRIVMSG #BeginnersProgramming :right after I used some const to space out my three line statement, the first par of (") are gone. how can i get those opening (") back. 
+2016-01-15 02:05:43--:jim__!webchat@c-67-177-108-232.hsd1.fl.comcast.net PRIVMSG #BeginnersProgramming :	 	cout << DOWN5 ; 	 	cout << OVER2 << "The weather is getting cold here in Tallahassee,\n";  	cout << OVER2 << "think it might be time for all of us to move south,\n"; 	cout << OVER2 << "like Jamaica!\"" << endl; 	cout << OVER4 << "-Sincerely The People of Tallahassee" << endl;  	 	cout << DOWN5 ;  	cout << OVER5 << "Programmed by: Jim" << endl; 
+2016-01-15 09:31:58--:IamNoob!webchat@141.91.210.34 PRIVMSG #BeginnersProgramming :Hi
+2016-01-15 09:32:08--:IamNoob!webchat@141.91.210.34 PRIVMSG #BeginnersProgramming :!seen
+2016-01-15 11:44:09--:gamer_!webchat@197.34.161.134 PRIVMSG #BeginnersProgramming :hi
+2016-01-15 14:46:29--:james__!webchat@bb219-75-62-224.singnet.com.sg PRIVMSG #BeginnersProgramming :hello
+2016-01-15 14:46:42--:james__!webchat@bb219-75-62-224.singnet.com.sg PRIVMSG #BeginnersProgramming :is anyone there?
+2016-01-15 16:00:32--:paul!webchat@79.112.185.62 PRIVMSG #BeginnersProgramming :salut
+2016-01-15 16:00:33--:paul!webchat@79.112.185.62 PRIVMSG #BeginnersProgramming :hi
+2016-01-15 16:00:37--:paul!webchat@79.112.185.62 PRIVMSG #BeginnersProgramming :romana / english?
+2016-01-15 19:36:04--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2016-01-15 19:39:10--:Tachyon_!webchat@dyn-89.136.26.169.nt.upcnet.ro PRIVMSG #BeginnersProgramming :anybody ?
+2016-01-16 01:52:55--:Nostrum!webchat@c-71-204-226-1.hsd1.sc.comcast.net PRIVMSG #BeginnersProgramming :hi guys, anyone able to educate me on why this can't find a hook?
+2016-01-16 01:52:58--:Nostrum!webchat@c-71-204-226-1.hsd1.sc.comcast.net PRIVMSG #BeginnersProgramming :http://pastebin.com/6rNg0qFC
+2016-01-16 02:17:11--:Nostrum!webchat@c-71-204-226-1.hsd1.sc.comcast.net PRIVMSG #BeginnersProgramming :any of you guys have an idea in regards to my question? bout to go to bed. quite perplexed though
+2016-01-16 11:34:38--:Will_!webchat@h16n19-far-a12.ias.bredband.telia.com PRIVMSG #BeginnersProgramming :someone that can help?
+2016-01-16 12:40:43--:Will_!webchat@h16n19-far-a12.ias.bredband.telia.com PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2016-01-16 14:40:07--:fasfasf!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :scz
+2016-01-16 14:40:07--:fasfasf!webchat@109-93-77-215.dynamic.isp.telekom.rs PRIVMSG #BeginnersProgramming :c
+2016-01-16 18:22:16--:Akandesh!webchat@217-209-223-218-no69.bredband.skanova.com PRIVMSG #BeginnersProgramming :Anyone actually here or everyone afk?
+2016-01-16 19:38:20--:FUCK_ALL_FUCKER!webchat@dak216.neoplus.adsl.tpnet.pl PRIVMSG #BeginnersProgramming :Hi motherfuckers
+2016-01-16 21:23:20--:Kiddmj!webchat@12.190.26.61 PRIVMSG #BeginnersProgramming :hey you guys i need a little help
+2016-01-16 21:24:10--:Kiddmj!webchat@12.190.26.61 PRIVMSG #BeginnersProgramming :do you mind if i copy and paste a basic program i am working on and if the if statment im using is written correctly
+2016-01-16 22:00:05--:Beth24!webchat@217.24.254.65 PRIVMSG #BeginnersProgramming :Hi,can someone help me with eclipse installement
+2016-01-17 00:11:49--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Herro noobcer
+2016-01-17 00:11:52--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :How r u doing today
+2016-01-17 00:11:57--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Im doing fine thanks
+2016-01-17 00:12:06--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :where the heck is my homie damien
+2016-01-17 00:12:16--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :oh hes not here atm because hes a fruitcake
+2016-01-17 00:12:17--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :lel
+2016-01-17 00:12:27--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :!seen DemonSkye
+2016-01-17 00:12:33--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :!seen Damien__
+2016-01-17 00:13:04--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :!seen thearrowfiles
+2016-01-17 00:13:29--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :!seen thearrowflies
+2016-01-17 00:34:33--:nostrum!webchat@c-71-204-226-1.hsd1.sc.comcast.net PRIVMSG #BeginnersProgramming :hi guys - anyone have any ideas why I can't establish a hook in the following? http://pastebin.com/ES8TZ8fF
+2016-01-17 00:34:38--:nostrum!webchat@c-71-204-226-1.hsd1.sc.comcast.net PRIVMSG #BeginnersProgramming :would love to be educated
+2016-01-17 01:07:38--:gabber_!webchat@187.175.77.177 PRIVMSG #BeginnersProgramming :hello i am trying to traverse a linked list
+2016-01-17 01:07:51--:gabber_!webchat@187.175.77.177 PRIVMSG #BeginnersProgramming :but have had no success
+2016-01-17 02:38:36--:Nellie_!webchat@cpe-72-190-33-175.tx.res.rr.com PRIVMSG #BeginnersProgramming :my question is, is there a way to declare 2 forms of data in one variable?  I want to make a variable 
+2016-01-17 02:39:11--:Nellie_!webchat@cpe-72-190-33-175.tx.res.rr.com PRIVMSG #BeginnersProgramming :that includes my customer choice of item,and its' cost.
+2016-01-17 11:40:43--:haru!webchat@112.198.64.34 PRIVMSG #BeginnersProgramming :hi
+2016-01-17 11:40:44--:haru!webchat@112.198.64.34 PRIVMSG #BeginnersProgramming :cls
+2016-01-17 11:40:46--:haru!webchat@112.198.64.34 PRIVMSG #BeginnersProgramming :ad
+2016-01-17 11:40:46--:haru!webchat@112.198.64.34 PRIVMSG #BeginnersProgramming :adsa
+2016-01-17 11:40:46--:haru!webchat@112.198.64.34 PRIVMSG #BeginnersProgramming :as
+2016-01-17 11:40:47--:haru!webchat@112.198.64.34 PRIVMSG #BeginnersProgramming :d
+2016-01-17 11:41:20--:haru!webchat@112.198.64.34 PRIVMSG #BeginnersProgramming :how to add new line in JLabel without html?
+2016-01-17 11:42:01--:haru!webchat@112.198.64.34 PRIVMSG #BeginnersProgramming :ACTION slaps thearrowflies around a bit with a large fishbot
+2016-01-17 11:42:16--:haru!webchat@112.198.64.34 PRIVMSG #BeginnersProgramming :ACTION slaps Q around a bit with a large fishbot
+2016-01-17 12:20:46--:king___!webchat@103.7.79.50 PRIVMSG #BeginnersProgramming :what is the programme for ascending order of numbers
+2016-01-17 12:26:04--:Zino!webchat@c213-89-252-247.bredband.comhem.se PRIVMSG #BeginnersProgramming :yo anyone here
+2016-01-17 12:40:38--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :hey there
+2016-01-17 12:41:00--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :need help with my program  please (:
+2016-01-17 12:43:24--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :someone online?
+2016-01-17 12:44:57--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :just posting my stuff in hope to get an answer some time ^^:
+2016-01-17 12:45:02--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :http://pastebin.com/UAUsM5B9
+2016-01-17 12:45:31--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :i always get a floating point exception while reading in the authorlist
+2016-01-17 12:45:47--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :it seems to process all authors correctly
+2016-01-17 12:46:01--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :but directly after read in the error appears
+2016-01-17 12:47:02--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :read in takes place in constructor for authorlist
+2016-01-17 12:47:13--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :at the end of paste
+2016-01-17 13:29:16--:applepie!webchat@235.92-221-208.customer.lyse.net PRIVMSG #BeginnersProgramming :I'm trying to implement a solution for the subset sum problem that also works if the set A (with n_A members) includes negative integers.
+2016-01-17 13:29:25--:applepie!webchat@235.92-221-208.customer.lyse.net PRIVMSG #BeginnersProgramming :What I have so far: http://pastebin.com/kS2t8wct
+2016-01-17 13:30:15--:applepie!webchat@235.92-221-208.customer.lyse.net PRIVMSG #BeginnersProgramming :I think I need to split into two paths - one if A[n_A-1]>0 and one if it is <0, but I'm not sure where to go from there
+2016-01-17 13:47:29--:applepie!webchat@235.92-221-208.customer.lyse.net PRIVMSG #BeginnersProgramming :Anyone here?
+2016-01-17 13:48:01--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :yeah 
+2016-01-17 13:48:02--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :me
+2016-01-17 13:48:16--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :but i'm also waiting :/
+2016-01-17 14:04:31--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Heerrrro
+2016-01-17 14:04:41--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :!seen thearrowflies
+2016-01-17 14:04:52--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :wUUUUUUUUUUuuuuuuuuuuuuuuuuuuTTTTTTTTTTTTTT
+2016-01-17 14:08:12--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :wtf?? o.O
+2016-01-17 14:08:24--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :what am i still doing here?!
+2016-01-17 14:08:38--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :is there any chance someone can help me?
+2016-01-17 14:22:20--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :i probably can
+2016-01-17 14:22:26--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :whats ur problem @frost_
+2016-01-17 14:23:30--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :http://pastebin.com/UAUsM5B9
+2016-01-17 14:23:40--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :i always get a floating point exception while reading in the authorlist
+2016-01-17 14:23:47--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :it seems to process all authors correctly
+2016-01-17 14:23:53--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :but directly after read in the error appears
+2016-01-17 14:24:00--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :read in takes place in constructor for authorlist
+2016-01-17 14:24:07--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :at the end of paste
+2016-01-17 14:24:21--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :pleeeeeeease (:
+2016-01-17 14:28:19--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :I think s >> idTemp >> nrTemp >> nameTemp;
+2016-01-17 14:28:28--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :the arrows should be the other way around
+2016-01-17 14:28:43--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :and what's your filename?
+2016-01-17 14:28:59--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :you sure?
+2016-01-17 14:29:06--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :cause it reads them correctly
+2016-01-17 14:29:28--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :author.dat
+2016-01-17 14:31:50--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Well ifstream is to input :/
+2016-01-17 14:32:07--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :ofstream is to output
+2016-01-17 14:32:52--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :holy f*ck
+2016-01-17 14:33:06--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :well i never ever saw that o.O
+2016-01-17 14:34:03--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :but wait
+2016-01-17 14:34:26--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :i do need ifstream
+2016-01-17 14:34:42--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :cause i want to read the authors from the file authors.dat
+2016-01-17 14:35:34--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :you can still read but I'm unsure if you're doing it right lol O_O
+2016-01-17 14:35:56--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Does it actually work that way?
+2016-01-17 14:35:58--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :ofstream doesnt work -.-
+2016-01-17 14:36:05--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :getting many error messages
+2016-01-17 14:37:46--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :You don't need ofstream ifstream does input and output my bad
+2016-01-17 14:38:55--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :hmm
+2016-01-17 14:39:17--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :but you cant figure out any other obvious error either? do you?
+2016-01-17 14:40:10--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Nope, I'm not on your level yet tbh
+2016-01-17 14:40:27--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :I don't know about the multi maps, I've used maps before but not multimap and pairs
+2016-01-17 14:41:01--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :hmm okay .. too bad
+2016-01-17 14:41:10--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :maybe i can help with your prob ;P
+2016-01-17 14:41:24--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :lool
+2016-01-17 14:41:28--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :probably not :p 
+2016-01-17 14:41:36--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :mines with reading files too 
+2016-01-17 14:41:37--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :hahaah
+2016-01-17 14:41:43--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :hahahaha
+2016-01-17 14:41:52--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :you know the getline function?
+2016-01-17 14:41:52--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :we're doomed
+2016-01-17 14:41:58--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :sure
+2016-01-17 14:42:07--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :I mean it works perfectly but, when I use the getline
+2016-01-17 14:42:11--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :It only gets one line
+2016-01-17 14:42:16--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :so like
+2016-01-17 14:42:27--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :		while (getline(readTextFile, line))
+2016-01-17 14:42:38--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :it will go through it once, is it meant to do that?
+2016-01-17 14:42:38--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming ::/
+2016-01-17 14:42:47--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :you need a while loop
+2016-01-17 14:42:56--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :with other
+2016-01-17 14:43:07--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :ehm
+2016-01-17 14:43:11--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :condition
+2016-01-17 14:43:27--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :something like
+2016-01-17 14:43:35--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :while(s.good())
+2016-01-17 14:43:37--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :s.getLine
+2016-01-17 14:43:44--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :	if (readTextFile.is_open()) 	{ 		while (getline(readTextFile, line)) 		{ 			results.push_back(line); 		} 	}
+2016-01-17 14:43:48--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :that
+2016-01-17 14:43:51--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :that's what I done
+2016-01-17 14:44:00--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :It works fine but it just gets 1 line
+2016-01-17 14:44:36--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :yeah cause the while loop only executes one time
+2016-01-17 14:44:37--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :i think
+2016-01-17 14:44:41--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Maybe i should make a for loop
+2016-01-17 14:44:57--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :wait
+2016-01-17 14:45:16--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :something like 	for (int i = 0; i < readTextFile.size(); i++)
+2016-01-17 14:45:54--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :hmm
+2016-01-17 14:46:02--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :i dont know if this is correct
+2016-01-17 14:46:21--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :maybe we should wait for someone who is a bit more advanced
+2016-01-17 14:47:16--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :what stream do you use?
+2016-01-17 14:47:22--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :ifstream?
+2016-01-17 14:48:32--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :yh
+2016-01-17 14:48:54--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :you could check if
+2016-01-17 14:48:58--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :i mean
+2016-01-17 14:49:24--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :while(!stream.eof()){string temp = stream.getLine();}
+2016-01-17 14:49:36--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :and then use this string
+2016-01-17 14:49:53--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :i dont know what you are trying to read
+2016-01-17 14:53:39--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :just trying to read a text file
+2016-01-17 14:53:42--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :into a vector of strings
+2016-01-17 14:53:48--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :I think I can figure it out dw
+2016-01-17 14:57:02--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :kay ^^
+2016-01-17 14:57:13--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :IM SUCH A FRICKEN IDIOTTTTTTTTTTTTTTTTTTTTTT
+2016-01-17 14:57:17--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :OMG LOOOOOOOOOOOOL
+2016-01-17 14:57:19--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :FFS
+2016-01-17 14:57:21--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :IM SO PISSED OFF
+2016-01-17 14:57:22--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :LOL
+2016-01-17 14:59:45--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :OMFG
+2016-01-17 14:59:47--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :IM SO HAPPY
+2016-01-17 14:59:48--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :omg
+2016-01-17 14:59:50--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :safhdgjakowdfksgjihskas
+2016-01-17 14:59:53--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :so pissed off at the same time
+2016-01-17 14:59:54--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :lol
+2016-01-17 14:59:55--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :omg
+2016-01-17 14:59:59--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :PRAISE THE LAWD
+2016-01-17 15:00:44--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :ahahha okay
+2016-01-17 15:00:44--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :i'll tell u what happened... i was basically looking at the wrong text file that I was editing so it reads it
+2016-01-17 15:01:15--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :oh damn xDD
+2016-01-17 15:01:18--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :I had a old file that I should've deleted and it looked the same as the one i was meant to read from
+2016-01-17 15:01:21--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :waiting for mi such moment
+2016-01-17 15:01:22--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :and i was putting stuff in there
+2016-01-17 15:01:29--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :and i was like why isnt it fricken working
+2016-01-17 15:01:30--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :lol
+2016-01-17 15:01:35--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :lel
+2016-01-17 15:01:36--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming ::p
+2016-01-17 15:01:40--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :brb
+2016-01-17 15:01:50--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :lucky u found your err
+2016-01-17 15:01:53--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :^^
+2016-01-17 15:06:47--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :lol it was an error in me not in the program
+2016-01-17 15:06:47--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming ::p
+2016-01-17 15:12:37--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :i dont think there will someday, somebody come to help me in this chan ):
+2016-01-17 15:13:00--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :why the hell am i getting this stupid floating point exception
+2016-01-17 15:13:12--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :i'm not even doing something illegal within code?!
+2016-01-17 15:25:25--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :whats the problem when u debug it?
+2016-01-17 15:25:31--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :do u spot anything?
+2016-01-17 15:27:57--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :nope
+2016-01-17 15:28:08--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :maybe i should start over xD
+2016-01-17 15:38:21--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :try stackoverflow?
+2016-01-17 15:47:02--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :is ur program taking 4 command line arguments btw?
+2016-01-17 15:54:55--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :yup
+2016-01-17 15:55:12--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :problem is that i nead a solution now
+2016-01-17 15:55:20--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :assignment was on wednesday
+2016-01-17 15:55:21--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :xD
+2016-01-17 15:55:51--:frost_!webchat@178.113.96.247.wireless.dyn.drei.com PRIVMSG #BeginnersProgramming :maybe you're right and i should try stackoverflow
+2016-01-17 17:47:04--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Ohi
+2016-01-17 18:26:29--:Sam_!webchat@d199-74-215-96.nap.wideopenwest.com PRIVMSG #BeginnersProgramming : Hi all I have a question when throwing println statement for example System.out.println("Hello World"); does it allocate memory in the stack or in the heap? if it allocate memory in the stack then the heap would be clear?
+2016-01-17 18:27:10--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It allocates from the stack generally.
+2016-01-17 18:27:29--:Sam_!webchat@d199-74-215-96.nap.wideopenwest.com PRIVMSG #BeginnersProgramming :so the heap would be clear then?
+2016-01-17 18:27:49--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Not necessarily.
+2016-01-17 18:28:02--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :In some cases it would be both.
+2016-01-17 18:28:43--:Sam_!webchat@d199-74-215-96.nap.wideopenwest.com PRIVMSG #BeginnersProgramming :I'm assuming that only one line inside main method which is println statement
+2016-01-17 18:28:58--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :System.out.println, main, the object itself and other things in main might be in the stack.  The object, memory handling, the "toString()" method of Java.lang.Object() will allocate from the heap as well.
+2016-01-17 18:31:18--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :O look who's here
+2016-01-17 18:32:08--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Nobody's here.
+2016-01-17 18:32:52--:Sam_!webchat@d199-74-215-96.nap.wideopenwest.com PRIVMSG #BeginnersProgramming :so in my situation when there is only one main method and only one println statement then the whole execution statement would be in the stack then the "Hello Wolrd" be considered as an object of String would be in the heap right?
+2016-01-17 18:34:42--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :why wud u lie :/
+2016-01-17 18:35:45--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Sam: http://www.journaldev.com/4098/java-heap-memory-vs-stack-memory-difference  -- Take a look at this.  
+2016-01-17 18:38:37--:Sam_!webchat@d199-74-215-96.nap.wideopenwest.com PRIVMSG #BeginnersProgramming :I have already seen this, but in his case, objects are being called inside println statement, then of course it would allocate memory on the heap
+2016-01-17 18:39:19--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :If it's main, it's in a class and thus, heap
+2016-01-17 18:40:57--:Sam_!webchat@d199-74-215-96.nap.wideopenwest.com PRIVMSG #BeginnersProgramming :ok thanks man
+2016-01-17 18:54:22--:Zino!webchat@c213-89-252-247.bredband.comhem.se PRIVMSG #BeginnersProgramming :what's up party people
+2016-01-17 19:11:01--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Meh, not much
+2016-01-17 19:40:29--:Kristen!webchat@108-245-101-24.lightspeed.btrgla.sbcglobal.net PRIVMSG #BeginnersProgramming :I need help with an assignment with c++ programming
+2016-01-17 19:46:32--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Bye felicia
+2016-01-17 20:53:58--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Damien
+2016-01-17 20:54:01--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :are you still there?
+2016-01-17 20:54:32--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :@DemonSkye u there?
+2016-01-17 20:56:15--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yup
+2016-01-17 21:00:07--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :nvm i think i just figured out my answer lol
+2016-01-17 21:01:07--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yay!
+2016-01-17 21:01:10--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp noobcer
+2016-01-17 21:01:22--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :was snowing yesterday
+2016-01-17 21:01:28--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :!temp DemonSkye
+2016-01-17 21:01:32--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!currency USD GBP 100
+2016-01-17 21:01:34--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :im not even in london though
+2016-01-17 21:01:37--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :>_<
+2016-01-17 21:01:55--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :i actually click on ur ads btw
+2016-01-17 21:01:59--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :idk if that helps u
+2016-01-17 21:03:07--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :It does, just dont do it every time :P
+2016-01-17 21:03:32--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :quick question
+2016-01-17 21:03:45--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :how can I check if there is a 2nd line in my text file
+2016-01-17 21:04:00--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :For what?
+2016-01-17 21:04:13--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :I got a vector of strings and i have the getline bla bla
+2016-01-17 21:04:17--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :That all works good
+2016-01-17 21:04:29--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :While(getline(fin(str))
+2016-01-17 21:04:35--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :fin,str
+2016-01-17 21:06:41--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :like this
+2016-01-17 21:06:42--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :while (getline(readTextFile, 2))
+2016-01-17 21:06:43--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :?
+2016-01-17 21:07:32--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :nope
+2016-01-17 21:07:54--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :The code I sent reads until it's done
+2016-01-17 21:08:28--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You could just do a single getline and see if it has a "\r, \n or \r\n
+2016-01-17 21:08:29--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Oh i already have that
+2016-01-17 21:08:40--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :but how can i do it to see if the 2nd line is there
+2016-01-17 21:08:48--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :^
+2016-01-17 21:09:31--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :what's \r?
+2016-01-17 21:10:17--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :\r and \n are newline characters...different OS handle them differently
+2016-01-17 21:11:01--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :oh ok
+2016-01-17 21:11:55--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :but u know how lines may have spaces isn't \n the same?
+2016-01-17 21:12:29--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :like atm i can see results[0] (the first line of the text file)
+2016-01-17 21:12:38--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :and results[1] (if there's a second line)
+2016-01-17 21:13:12--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :but can't i write like an if statement like while (results[1] == exists)
+2016-01-17 21:13:17--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Nope
+2016-01-17 21:14:11--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You can do: http://stackoverflow.com/a/3072840
+2016-01-17 21:16:07--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :oh dumbass.. >_<
+2016-01-17 21:16:32--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Basically what I said....
+2016-01-17 21:16:52--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Just do while(getline(fin,str) ) count++;
+2016-01-17 21:16:58--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :But without so many variables
+2016-01-17 21:17:57--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :why didnt u just say put in a counter >_> lol
+2016-01-17 21:18:18--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I mean, I thought that you didn't want to iterate through the file twice...
+2016-01-17 21:22:39--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Hmm, im kinda stuck here I can't explain it though
+2016-01-17 21:23:01--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :How so?
+2016-01-17 21:23:28--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :I got a bunch of if statements already to check what mode my logger is in
+2016-01-17 21:24:06--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :and for each one is a line like this 			ofstream warningFile("warning_Log.txt", ofstream::app);
+2016-01-17 21:24:28--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :to make a specific text file for each type of logging
+2016-01-17 21:25:51--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :...k?
+2016-01-17 21:25:51--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :but idk how i can do it so that i have a default line like 			ofstream warningFile("warning_Log.txt", ofstream::app); but another one that puts the filename given in the config file
+2016-01-17 21:27:03--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :So I have a config file that says "error Level = Warnings" and on the second line the user can choose to put a filename like "januarylog.txt"
+2016-01-17 21:27:55--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :How can I make it so that it has by default "warning_Log.txt" but if filename/second line exists it will put that in instead
+2016-01-17 21:29:05--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :I know how to do it so that it ONLY takes from the config file
+2016-01-17 21:30:59--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Ummmm
+2016-01-17 21:31:07--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :You can do something like
+2016-01-17 21:32:04--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :string str = ""'  getline(cin, str);  Then test if it's empty, if it's not, append .txt to it and overwrite filename with that.
+2016-01-17 21:32:32--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Or you could do it the smart way and have it read the filename from a config file and make the user edit it there, which is standard for loggers.
+2016-01-17 21:34:13--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :So you're saying
+2016-01-17 21:34:29--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Only give the option to edit it through the config file?
+2016-01-17 21:34:39--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Yup
+2016-01-17 21:34:46--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :and don't have a default txt file name
+2016-01-17 21:34:51--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :ook
+2016-01-17 21:34:55--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :i think you're right too
+2016-01-17 21:34:58--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Don't let the users enter shit via the program for a logger.
+2016-01-17 21:35:00--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :That'd be weird.
+2016-01-17 21:36:13--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :but they have to put the error output via the program :/
+2016-01-17 21:38:07--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :so wherever they think there will be an error they put L.configLog("There was an error here");
+2016-01-17 21:38:25--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Okay?
+2016-01-17 21:38:45--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Does that sound ok?
+2016-01-17 21:40:56--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I don't understand what the problem is.
+2016-01-17 21:42:08--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Oh, because u said dont let the users enter sht via the program
+2016-01-17 21:42:12--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :that made me worried
+2016-01-17 21:42:13--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming ::/
+2016-01-17 21:42:19--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :I'm new to this concept of a logger
+2016-01-17 21:42:43--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :I know what a logger is obviously but I mean ffs I think tbh
+2016-01-17 21:42:50--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :its all my teachers fault
+2016-01-17 21:43:20--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :they make us make programs in a very specific way, but that's probably their way of testing us
+2016-01-17 21:43:48--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :Like in my head, a logger is something that logs an error & warning whenever it pops up and it gets the system error not a customised message
+2016-01-17 21:43:51--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :that you write yourself
+2016-01-17 21:44:23--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :So I thought it was going to be something like what you wrote up for me with the try catch thing
+2016-01-17 22:08:16--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :I can't believe that you're still working on this, lol.
+2016-01-17 22:27:10--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :oh its because i had to wait like a week to see what u did is what they wanted
+2016-01-17 22:27:14--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :they were so damn confusing
+2016-01-17 22:57:50--:VincentValentin!webchat@104-137-104-88.res.bhn.net PRIVMSG #BeginnersProgramming :hey
+2016-01-18 01:00:30--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Holy shit... I cannot believe this is working,  lol
+2016-01-18 01:00:47--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Oh wait... it's sorta working
+2016-01-18 01:01:32--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Hrm... troublesome
+2016-01-18 01:01:37--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-18 01:09:53--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :@DemonSkye what were u trying to do?
+2016-01-18 01:10:08--:noobcer!webchat@cpc78575-basf13-2-0-cust57.12-3.cable.virginm.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-18 01:10:19--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Trying to split network connectivity and input into 2 threads that both callback to main in my bot
+2016-01-18 02:21:18--:Damien__Guest!webchat@pool-173-76-92-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-18 02:22:45--:Damien__Guest!webchat@pool-173-76-92-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp thearrowflies
+2016-01-18 19:03:54--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-18 19:21:34--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-18 19:23:47--:zKeen!webchat@97-85-34-154.dhcp.bycy.mi.charter.com PRIVMSG #BeginnersProgramming :I keep getting an error in eclipse even after i delete that line???
+2016-01-18 19:24:05--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then the error is probably on the line before it.
+2016-01-18 19:24:25--:zKeen!webchat@97-85-34-154.dhcp.bycy.mi.charter.com PRIVMSG #BeginnersProgramming :its the only line in the file atm
+2016-01-18 19:24:34--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Then that's probably your issue.
+2016-01-18 19:24:42--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Take a screenshot and toss it on ideone.
+2016-01-18 19:25:52--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-18 22:06:47--:jill!webchat@108-199-0-218.lightspeed.uncyca.sbcglobal.net PRIVMSG #BeginnersProgramming :#include <iostream> using namespace std;  class jill { private:     float *array;     int elem;  public:     jill();     void setscore ();     float getscore()const;     ~jill(); };  jill::jill() {     array = NULL;     int elem;      cout << "How many test scores:"<< endl;     cin >> elem;      array = new float[elem];     for(int count = 0; count < elem; count++)       array[count] = 0; }  void jill::setscore() { 
+2016-01-18 22:07:13--:jill!webchat@108-199-0-218.lightspeed.uncyca.sbcglobal.net PRIVMSG #BeginnersProgramming :This is my program and it runs but then crashes 
+2016-01-18 22:08:46--:jill!webchat@108-199-0-218.lightspeed.uncyca.sbcglobal.net PRIVMSG #BeginnersProgramming :I cannot send the entire program! So should I send the second part?
+2016-01-18 22:08:57--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Grats on not reading the rules.
+2016-01-18 22:09:28--:Berek!webchat@mikolajczyka.ds.po.opole.pl PRIVMSG #BeginnersProgramming :Is anyone here?
+2016-01-18 22:09:31--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :Mmmhmm
+2016-01-18 22:09:38--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!temp
+2016-01-18 22:09:43--:Berek!webchat@mikolajczyka.ds.po.opole.pl PRIVMSG #BeginnersProgramming :https://ideone.com/FywKjA
+2016-01-18 22:09:49--:Berek!webchat@mikolajczyka.ds.po.opole.pl PRIVMSG #BeginnersProgramming :I have a problem with reading from the file
+2016-01-18 22:11:59--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :cout can't read from a file... only ofstream objects can.  I have a tutorial on that over here:
+2016-01-18 22:12:01--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :!file
+2016-01-18 22:12:17--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :BWAHAHAHAHAHA FINALLY!
+2016-01-18 22:12:55--:Berek!webchat@mikolajczyka.ds.po.opole.pl PRIVMSG #BeginnersProgramming :Oh, ty
+2016-01-18 22:13:26--:DemonSkye!~Damien@pool-108-49-210-33.bstnma.fios.verizon.net PRIVMSG #BeginnersProgramming :(Sorry, I just made a new feature on the bot that involved multithreading in Java using callables and it was a pain in the ass)

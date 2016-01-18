@@ -196,7 +196,12 @@ public class globalFunctions {
             e.printStackTrace();
         }
 
-        return Double.parseDouble(currencyValue);
+        try {
+            return Double.parseDouble(currencyValue);
+        } catch (NumberFormatException nfe) {
+            nfe.printStackTrace();
+            return 0.0;
+        }
     }
 
     public static String phoneValidate(String number) {
@@ -335,6 +340,7 @@ public class globalFunctions {
     }
 
     public static void writeMsg(ircBot ircBot, String Channel, String Message) {
+        System.out.println("Message in writeMsg " + Message);
         ircBot.setNextMessage("PRIVMSG " + Channel + Message);
         System.out.println("PRIVMSG " + Channel + Message);
         ircBot.setNextServerMessage(false);

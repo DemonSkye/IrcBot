@@ -205,8 +205,11 @@ public class Commands {
             System.out.println("targetCurrency: " + targetCurrency);
             System.out.println("Quantity: " + quantity);
             double currencyExchange = globalFunctions.currencyExchange(baseCurrency, targetCurrency);
-
-            globalFunctions.writeMsg(ircBot, channel, "The current value of " + quantity + " " + baseCurrency + " in " + targetCurrency + " is: " + (currencyExchange * quantity));
+            if (currencyExchange == 0.0) {
+                globalFunctions.writeMsg(ircBot, channel, "There was an error fetching this request");
+            } else {
+                globalFunctions.writeMsg(ircBot, channel, "The current value of " + quantity + " " + baseCurrency + " in " + targetCurrency + " is: " + (currencyExchange * quantity));
+            }
         }
 
         //Admin Commands

@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
 //Test
 public class ircBot implements Runnable {
     private Socket socket;
-    private BufferedReader reader;
+    private static BufferedReader reader;
     private BufferedWriter writer;
     private String server;
     private String userName;
@@ -33,7 +33,7 @@ public class ircBot implements Runnable {
         this.socket = socket;
     }
 
-    public BufferedReader getReader() {
+    public static BufferedReader getReader() {
         return reader;
     }
 
