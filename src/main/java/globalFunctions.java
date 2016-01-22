@@ -109,11 +109,42 @@ public class globalFunctions {
         Double tempCelcius = ((Double.parseDouble(currentTemp) - 32) * 5 / 9);
         DecimalFormat df = new DecimalFormat("#.##");
 
+        cw = currentConditions.indexOf("apparentTemperature=");
+        String feelsLike = currentConditions.substring(cw, currentConditions.length());
+        cw = feelsLike.indexOf(",");
+        feelsLike = feelsLike.substring(20, cw);
+        double feelsLikeNumber = Double.parseDouble(feelsLike);
+
+        String recommendation = "";
+        if (currentConditions.toLowerCase().contains("rain")) {
+            recommendation += "Bring an umbrella you asshole -- ";
+        }
+        if (currentConditions.toLowerCase().contains("Snow")) {
+            recommendation += "Wear something waterproof, you idiot --";
+        }
+        if (feelsLikeNumber < 20) {
+            recommendation += "Wear something really heavy, you tool --";
+        }
+        if (feelsLikeNumber >= 20 && feelsLikeNumber < 45) {
+            recommendation += "Wear something heavy, you dolt --";
+        }
+        if (feelsLikeNumber >= 45 && feelsLikeNumber < 65) {
+            recommendation += "Wear something with long sleeves --";
+        }
+        if (feelsLikeNumber >= 65 && feelsLikeNumber < 75) {
+            recommendation += "Perfect Weather -- ";
+        }
+        if (feelsLikeNumber >= 75) {
+            recommendation += "Just stay inside, it's too fucking hot--";
+        }
+
         if ((userRegion != null || !userRegion.equals("")) && userCountry.equals("US")) {
-            String userForeCast = "The current conditions for: " + userCity + ", " + userRegion + " are: " + currentTemp + "F / " + (df.format(tempCelcius) + "C, and " + currentWeather);
+            String userForeCast = "The current conditions for: " + userCity + ", " + userRegion + " are: " + currentTemp + "F / " + (df.format(tempCelcius) + "C, and " + currentWeather
+                    + "----It feels like: " + feelsLikeNumber + "f outside-- " + recommendation);
             writeMsg(ircBot, channel, userForeCast);
         } else {
-            String userForeCast = "The current conditions for: " + userCity + " " + userRegion + ", " + userCountry + " are: " + currentTemp + "F / " + (df.format(tempCelcius) + "C, and " + currentWeather);
+            String userForeCast = "The current conditions for: " + userCity + " " + userRegion + ", " + userCountry + " are: " + currentTemp + "F / " + (df.format(tempCelcius) + "C, and " + currentWeather
+                    + "----It feels like: " + feelsLikeNumber + "f outside-- " + recommendation);
             writeMsg(ircBot, channel, userForeCast);
         }
     }

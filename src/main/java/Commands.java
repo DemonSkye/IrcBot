@@ -169,13 +169,13 @@ public class Commands {
             globalFunctions.writeMsg(ircBot, channel,
                     "4. You are required to use either CLion, or Visual Studio 2010 (or later) for C++ questions or not ask questions that require debugging.    " +
                             "5. Just ask your fucking question. Yes, you can ask your question.    " +
-                            "6. Your grades and deadlines do not matter to me. Don’t try to justify your begging with your irresponsibility."
+                            "6. Your grades and deadlines do not matter to me. Dont try to justify your begging with your irresponsibility."
             );
         }
 
         //BotProject
         if (command.equalsIgnoreCase("botproj") || command.equalsIgnoreCase("BotProject")) {
-            globalFunctions.writeMsg(ircBot, channel, "Bot Project is available here: https://github.com/DemonSkye/IrcBot/tree/master/src");
+            globalFunctions.writeMsg(ircBot, channel, "Bot Project is available he!phore: https://github.com/DemonSkye/IrcBot/tree/master/src");
         }
 
         if (command.toLowerCase().contains("phone") || command.toLowerCase().contains("phonevalidate") || command.toLowerCase().contains("validate")) {
