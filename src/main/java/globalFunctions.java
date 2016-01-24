@@ -135,7 +135,7 @@ public class globalFunctions {
             recommendation += "Perfect Weather -- ";
         }
         if (feelsLikeNumber >= 75) {
-            recommendation += "Just stay inside, it's too fucking hot--";
+            recommendation += "Just stay inside, it is too fucking hot--";
         }
 
         if ((userRegion != null || !userRegion.equals("")) && userCountry.equals("US")) {
@@ -211,6 +211,8 @@ public class globalFunctions {
     }
 
     public static double currencyExchange(String baseCurrency, String targetCurrency) {
+        baseCurrency = baseCurrency.toUpperCase();
+        targetCurrency = targetCurrency.toUpperCase();
         String currencyGet = "http://api.fixer.io/latest?base=" + baseCurrency + "&symbols=" + targetCurrency;
         ObjectMapper mapper = new ObjectMapper();
         String currencyValue = "";
