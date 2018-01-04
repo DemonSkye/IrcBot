@@ -27,8 +27,8 @@ public class botMain {
             try {
                 while (true) {
                     ExecutorService executor = Executors.newFixedThreadPool(2);
-                    Callable inputThread = ThreadHandler.inputThreadHandler(ircBot, channels);
-                    Callable networkThread = ThreadHandler.connectionThreadHandler(ircBot);
+                    Callable inputThread = threadHandler.inputThreadHandler(ircBot, channels);
+                    Callable networkThread = threadHandler.connectionThreadHandler(ircBot);
                     Future<String> inputFuture = executor.submit(inputThread);
                     Future<String> networkFuture = executor.submit(networkThread);
 
