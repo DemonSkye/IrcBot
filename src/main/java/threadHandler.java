@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.concurrent.Callable;
 
 public class threadHandler {
-    public static Callable inputThreadHandler(ircBot ircBot, String channels[]) {
+    public static Callable inputThreadHandler(final ircBot ircBot, final String channels[]) {
         Callable<String> callable = new Callable<String>() {
             public String call() {
                 String str = " ";
@@ -26,7 +26,7 @@ public class threadHandler {
         return callable;
     }
 
-    public static Callable connectionThreadHandler(ircBot ircBot) {
+    public static Callable connectionThreadHandler(final ircBot ircBot) {
         Callable<String> callable = new Callable<String>() {
             public String call() {
                 String line = " ";

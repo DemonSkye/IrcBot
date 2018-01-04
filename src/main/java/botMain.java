@@ -15,7 +15,7 @@ public class botMain {
             String channels[] = {"#BeginnersProgramming"};
 
 
-            ircBot ircBot = new ircBot();
+            final ircBot ircBot = new ircBot();
             ircBot.setSocket((new Socket(server, 6667)));
             ircBot.setWriter((new BufferedWriter(new OutputStreamWriter(ircBot.getSocket().getOutputStream()))));
             ircBot.setReader((new BufferedReader(new InputStreamReader(ircBot.getSocket().getInputStream()))));
